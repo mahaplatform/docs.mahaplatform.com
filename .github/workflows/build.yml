@@ -11,4 +11,3 @@ jobs:
         uses: ./.github/actions/build
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          create_readme: true
