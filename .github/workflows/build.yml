@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: mahaplatform/docs.mahaplatform.com@main
+        uses: action/checkout@v2
       - name: Run build
         uses: ./.github/actions/build
         with:
