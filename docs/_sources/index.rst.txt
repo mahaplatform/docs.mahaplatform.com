@@ -11,12 +11,10 @@ About The Maha Platform
 
 The Maha Platform is a mobile first application development platform.
 
-foo html_baseurl
-baz
-
 .. toctree::
    :maxdepth: 3
    :hidden:
 
-   help/index
-   developer/index
+   platform/index
+   users/index
+   developers/index
