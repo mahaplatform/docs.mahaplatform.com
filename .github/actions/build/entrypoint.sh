@@ -106,9 +106,10 @@ sphinx-build -b html $docs_src/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctre
 echo ::endgroup::
 
 # sphinx-build -b json
-echo ::group::Sphinx build html
+echo ::group::Sphinx build json
 echo "sphinx-build -b json $docs_src/$INPUT_SOURCE_DIR $docs_html/api -E -d $sphinx_doctree"
 sphinx-build -b json $docs_src/$INPUT_SOURCE_DIR $docs_html/api -E -d $sphinx_doctree
+for f in $(find $docs_html/api -name '*.fjson'); do mv -- "$f" "${f%.fjson}.json"; done
 echo ::endgroup::
 
 # commit and push
