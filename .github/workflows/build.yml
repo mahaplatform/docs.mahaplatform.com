@@ -6,7 +6,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: action/checkout@main
+        uses: actions/checkout@v2
       - name: Run build
         uses: ./.github/actions/build
         with:
