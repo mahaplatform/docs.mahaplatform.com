@@ -11,3 +11,4 @@ jobs:
         uses: ./.github/actions/build
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
+          source_dir: src
