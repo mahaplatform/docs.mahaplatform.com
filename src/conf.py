@@ -79,24 +79,21 @@ pygments_style = 'sphinx'
 html_theme = 'sphinx_rtd_theme'
 import sphinx_theme
 html_theme_path = [sphinx_theme.get_html_theme_path()]
-html_baseurl = 'https://developer.mahaplatform.com'
+html_baseurl = 'https://docs.mahaplatform.com'
 html_short_title = 'The Maha Platform Documentation'
 html_show_sphinx = False
 html_title = 'The Maha Platform Documentation'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
+html_show_sourcelink = False
 
 html_theme_options = {
-  'canonical_url': "https://docs.mahaplatform.com/",
+  'canonical_url': "https://docs.mahaplatform.com/"
 }
 
-html_context = {
-  'display_github': 'True',
-  'github_user': 'mahaplatform',
-  'github_repo': 'mahaplatform.com',
-  'github_root_dir': 'devel/lib/ansible',
-}
+html_context = {}
+
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,

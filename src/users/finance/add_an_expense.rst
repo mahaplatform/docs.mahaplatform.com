@@ -1,5 +1,5 @@
 Add an Expense
-====
+==============
 
 .. raw:: html
 

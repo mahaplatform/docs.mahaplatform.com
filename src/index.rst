@@ -4,10 +4,7 @@
    contain the root `toctree` directive.
 
 The Maha Platform Documentation
-====
-
-About The Maha Platform
-````
+===============================
 
 The Maha Platform is a mobile first application development platform.
 
