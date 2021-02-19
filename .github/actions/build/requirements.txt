@@ -1,1 +1,4 @@
+sphinx.ext.githubpages
 sphinx_rtd_theme
+sphinx_theme
+recommonmark
