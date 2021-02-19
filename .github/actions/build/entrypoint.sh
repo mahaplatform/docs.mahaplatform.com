@@ -12,11 +12,11 @@ docs_html=$GITHUB_WORKSPACE/gh-pages
 sphinx_doctree=$GITHUB_WORKSPACE/.doctree
 
 echo ::group::Create working directories
-echo "mkdir $docs_src"
+echo "mkdir -p $docs_src"
 mkdir $docs_src
-echo "mkdir $docs_html"
+echo "mkdir -p $docs_html"
 mkdir $docs_html
-echo "mkdir $sphinx_doctree"
+echo "mkdir -p $sphinx_doctree"
 mkdir $sphinx_doctree
 echo ::endgroup::
 
