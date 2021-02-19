@@ -2,11 +2,11 @@ on: [push]
 
 jobs:
   build:
-    name: Push Sphinx Pages
+    name: Build docsite
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
-        uses: mahaplatform/docs.mahaplatform.com
+        uses: mahaplatform/docs.mahaplatform.com@main
       - name: Run build
         uses: ./.github/actions/build
         with:
