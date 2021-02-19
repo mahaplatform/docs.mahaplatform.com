@@ -5,7 +5,10 @@ jobs:
     name: Push Sphinx Pages
     runs-on: ubuntu-latest
     steps:
-    - uses: ./.github/actions/build
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        create_readme: true
+      - name: Check out repository
+        uses: mahaplatform/docs.mahaplatform.com
+      - name: Run build
+        uses: ./.github/actions/build
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          create_readme: true
