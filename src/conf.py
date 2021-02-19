@@ -80,9 +80,10 @@ html_theme = 'sphinx_rtd_theme'
 import sphinx_theme
 html_theme_path = [sphinx_theme.get_html_theme_path()]
 html_baseurl = 'https://docs.mahaplatform.com'
-html_short_title = 'The Maha Platform Documentation'
+html_short_title = 'Maha Documentation'
 html_show_sphinx = False
-html_title = 'The Maha Platform Documentation'
+html_title = 'Maha Documentation'
+html_favicon = 'maha.png'
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.

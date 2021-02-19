@@ -1,17 +1,34 @@
-.. The Maha Platform documentation master file, created by
-   sphinx-quickstart on Sat May 23 09:03:46 2020.
-   You can adapt this file completely to your liking, but it should at least
-   contain the root `toctree` directive.
+.. _maha_documentation:
 
-The Maha Platform Documentation
+Maha Documentation
 ===============================
 
 The Maha Platform is a mobile first application development platform.
 
 .. toctree::
-   :maxdepth: 3
+   :maxdepth: 1
+   :caption: Platform Overview
+   :titlesonly:
    :hidden:
 
-   platform/index
-   users/index
-   developers/index
+   platform/security
+   platform/hosting
+
+.. toctree::
+  :maxdepth: 1
+  :caption: User Documentation
+  :titlesonly:
+  :hidden:
+  :glob:
+
+  users/general/index
+  users/*/index
+
+.. toctree::
+  :maxdepth: 1
+  :caption: Developer Documentation
+  :titlesonly:
+  :hidden:
+
+  developers/setup
+  developers/technologies

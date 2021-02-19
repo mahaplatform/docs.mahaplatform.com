@@ -2,6 +2,6 @@ Finance
 =======
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 0
 
    add_an_expense
