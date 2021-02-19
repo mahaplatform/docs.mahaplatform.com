@@ -99,22 +99,17 @@ echo "git config user.email $author_email"
 git config user.email $author_email
 echo ::endgroup::
 
-# sphinx-build
+# sphinx-build -b html
 echo ::group::Sphinx build html
 echo "sphinx-build -b html $docs_src/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree"
 sphinx-build -b html $docs_src/$INPUT_SOURCE_DIR $docs_html -E -d $sphinx_doctree
 echo ::endgroup::
 
-# auto creation of README.md
-if [ "$INPUT_CREATE_README" = true ] ; then
-    echo ::group::Create README
-    echo "Create file README.md with these content"
-    echo "GitHub Pages of [$GITHUB_REPOSITORY](https://github.com/$GITHUB_REPOSITORY.git)" > README.md
-    echo "===" >> README.md
-    echo "Sphinx html documentation of [$docs_sha8](https://github.com/$GITHUB_REPOSITORY/tree/$GITHUB_SHA)" >> README.md
-    cat README.md
-    echo ::endgroup::
-fi
+# sphinx-build -b json
+echo ::group::Sphinx build html
+echo "sphinx-build -b json $docs_src/$INPUT_SOURCE_DIR $docs_html/api -E -d $sphinx_doctree"
+sphinx-build -b json $docs_src/$INPUT_SOURCE_DIR $docs_html/api -E -d $sphinx_doctree
+echo ::endgroup::
 
 # commit and push
 echo ::group::Push
