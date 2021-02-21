@@ -13,6 +13,7 @@ the core systems required to manage a large, multi-faceted organization.
    platform/overview
    platform/security
    platform/hosting
+   platform/teams
    platform/users
 
 .. toctree::
