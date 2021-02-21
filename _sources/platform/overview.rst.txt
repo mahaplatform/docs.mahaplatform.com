@@ -1,6 +1,6 @@
 Overview
 ========
-The Maha Platform is designed upon a collection of core premises and approaches:
+The Maha Platform is designed upon the following core premises and approaches:
 
 An Organizational Operating System
 ----------------------------------
