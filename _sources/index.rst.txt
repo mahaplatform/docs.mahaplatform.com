@@ -1,8 +1,9 @@
-Platform Overview
+The Maha Platform
 =================
 The Maha Platform is a cloud-based organizational operating system. Developed
 for the Cornell Cooperative Extension, the Maha Platform integrates many of
-the core systems required to manage a large, multi-faceted organization.
+the core systems required to manage and support a hierarchical organization with
+both an onsite and remote workforce.
 
 .. toctree::
    :maxdepth: 1
