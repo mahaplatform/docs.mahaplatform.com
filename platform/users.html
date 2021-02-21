@@ -7,12 +7,13 @@
   
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   
-  <title>Users &mdash; Maha Documentation</title>
+  <title>User Model &mdash; Maha Documentation</title>
   
 
   
   <link rel="stylesheet" href="../_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="../_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="../_static/css/custom.css" type="text/css" />
 
   
   
@@ -41,8 +42,8 @@
     
     <link rel="index" title="Index" href="../genindex.html" />
     <link rel="search" title="Search" href="../search.html" />
-    <link rel="next" title="General" href="../users/general/index.html" />
-    <link rel="prev" title="Teams" href="teams.html" /> 
+    <link rel="next" title="Authentication" href="authentication.html" />
+    <link rel="prev" title="Multitenant Architecture" href="multitenancy.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -90,14 +91,16 @@
               <p class="caption"><span class="caption-text">Platform Overview</span></p>
 <ul class="current">
 <li class="toctree-l1"><a class="reference internal" href="overview.html">Overview</a></li>
-<li class="toctree-l1"><a class="reference internal" href="security.html">Security</a></li>
 <li class="toctree-l1"><a class="reference internal" href="hosting.html">Hosting</a></li>
-<li class="toctree-l1"><a class="reference internal" href="teams.html">Teams</a></li>
+<li class="toctree-l1"><a class="reference internal" href="security.html">Security</a></li>
+<li class="toctree-l1"><a class="reference internal" href="multitenancy.html">Multitenancy</a></li>
 <li class="toctree-l1 current"><a class="current reference internal" href="#">Users</a></li>
+<li class="toctree-l1"><a class="reference internal" href="authentication.html">Authentication</a></li>
+<li class="toctree-l1"><a class="reference internal" href="access.html">Access Control</a></li>
 </ul>
 <p class="caption"><span class="caption-text">User Documentation</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../users/general/index.html">General</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../users/general/index.html">Platform</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/analytics/index.html">Analytics</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/automation/index.html">Automation</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/campaigns/index.html">Campaigns</a></li>
@@ -107,7 +110,6 @@
 <li class="toctree-l1"><a class="reference internal" href="../users/drive/index.html">Drive</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/events/index.html">Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/finance/index.html">Finance</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../users/forms/index.html">Forms</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/phone/index.html">Phone</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/stores/index.html">Stores</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../users/teams/index.html">Teams</a></li>
@@ -165,7 +167,7 @@
     
       <li><a href="../index.html" class="icon icon-home"></a> &raquo;</li>
         
-      <li>Users</li>
+      <li>User Model</li>
     
     
       <li class="wy-breadcrumbs-aside">
@@ -182,21 +184,24 @@
           <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
            <div itemprop="articleBody">
             
-  <div class="section" id="users">
-<h1>Users<a class="headerlink" href="#users" title="Permalink to this headline">¶</a></h1>
+  <div class="section" id="user-model">
+<h1>User Model<a class="headerlink" href="#user-model" title="Permalink to this headline">¶</a></h1>
 <p>Every person who logs into Maha has an account. Your account is where you
 manage your password, your profile, connection to 3rd party applications
 (Gogole Drive, Box, etc), and various security features. When a person is
 assigned to a team, they become a user. An account may be connected to
 several teams and hence have several users - one for each team.</p>
+<a class="reference internal image-reference" href="../_images/platform-users.jpg"><img alt="../_images/platform-users.jpg" src="../_images/platform-users.jpg" style="width: 700px;" /></a>
 <div class="section" id="accounts">
 <h2>Accounts<a class="headerlink" href="#accounts" title="Permalink to this headline">¶</a></h2>
+<p>Every person who logs into Maha has an account. Your account is where you
+manage your password, your profile, connection to 3rd party applications
+(Gogole Drive, Box, etc), and various security features.</p>
 </div>
-<div class="section" id="id1">
-<h2>Users<a class="headerlink" href="#id1" title="Permalink to this headline">¶</a></h2>
-</div>
-<div class="section" id="roles">
-<h2>Roles<a class="headerlink" href="#roles" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="users">
+<h2>Users<a class="headerlink" href="#users" title="Permalink to this headline">¶</a></h2>
+<p>When an account is assigned to a team, it becomes a user. Although an account
+may have several users, it may only have 1 user per team</p>
 </div>
 </div>
 
@@ -206,8 +211,8 @@ several teams and hence have several users - one for each team.</p>
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="../users/general/index.html" class="btn btn-neutral float-right" title="General" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
-        <a href="teams.html" class="btn btn-neutral float-left" title="Teams" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="authentication.html" class="btn btn-neutral float-right" title="Authentication" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="multitenancy.html" class="btn btn-neutral float-left" title="Multitenant Architecture" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>

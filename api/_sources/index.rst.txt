@@ -11,20 +11,33 @@ the core systems required to manage a large, multi-faceted organization.
    :hidden:
 
    platform/overview
-   platform/security
    platform/hosting
-   platform/teams
-   platform/users
+   platform/security
+   Multitenancy <platform/multitenancy>
+   Users <platform/users>
+   platform/authentication
+   Access Control <platform/access>
 
 .. toctree::
   :maxdepth: 1
   :caption: User Documentation
   :titlesonly:
   :hidden:
-  :glob:
 
-  users/general/index
-  users/*/index
+  Platform <users/general/index>
+  Analytics <users/analytics/index>
+  Automation <users/automation/index>
+  Campaigns <users/campaigns/index>
+  Chat <users/chat/index>
+  CRM <users/crm/index>
+  Datasets <users/datasets/index>
+  Drive <users/drive/index>
+  Events <users/events/index>
+  Finance <users/finance/index>
+  Phone <users/phone/index>
+  Stores <users/stores/index>
+  Teams <users/teams/index>
+  Websites <users/websites/index>
 
 .. toctree::
   :maxdepth: 1
