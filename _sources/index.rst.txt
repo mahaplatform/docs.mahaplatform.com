@@ -1,9 +1,8 @@
-.. _maha_documentation:
-
-Maha Documentation
-===============================
-
-The Maha Platform is a mobile first application development platform.
+Platform Overview
+=================
+The Maha Platform is a cloud-based organizational operating system. Developed
+for the Cornell Cooperative Extension, the Maha Platform integrates many of
+the core systems required to manage a large, multi-faceted organization.
 
 .. toctree::
    :maxdepth: 1
@@ -11,8 +10,10 @@ The Maha Platform is a mobile first application development platform.
    :titlesonly:
    :hidden:
 
+   platform/overview
    platform/security
    platform/hosting
+   platform/users
 
 .. toctree::
   :maxdepth: 1
