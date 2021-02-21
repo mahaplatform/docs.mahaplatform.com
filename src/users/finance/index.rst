@@ -2,10 +2,7 @@ Finance
 =======
 
 .. toctree::
-   :maxdepth: 0
+   :maxdepth: 1
 
-   add_an_expense
-   add_a_reimbursement
-   add_a_check_request
-   add_mileage
-   add_a_cash_advance
+   guides/index
+   reference
