@@ -9,3 +9,4 @@ Guides
    add_a_check_request
    add_mileage
    add_a_cash_advance
+   approve_an_item
