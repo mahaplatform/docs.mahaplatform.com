@@ -19,7 +19,7 @@ and peer review.
 
 Cloud Based Delivery
 --------------------
-The Maha Platform is could based. Instead of installing software on your
+The Maha Platform is cloud based. Instead of installing software on your
 desktop, tablet, or smartphone, it is delivered to your device as a
 mobile-first HTML5 web application. You can access the software via any web
 browser on any modern computing device with access to the Internet.
