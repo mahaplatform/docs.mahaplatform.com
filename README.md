@@ -1,4 +1,4 @@
-# docs.mahaplatform.com
+# support.mahaplatform.com
 
 ### Setup
 -   [Installation Instructions](https://www.sphinx-doc.org/en/master/usage/installation.html)
