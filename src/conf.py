@@ -79,7 +79,7 @@ pygments_style = 'sphinx'
 html_theme = 'sphinx_rtd_theme'
 import sphinx_theme
 html_theme_path = [sphinx_theme.get_html_theme_path()]
-html_baseurl = 'https://docs.mahaplatform.com'
+html_baseurl = 'https://support.mahaplatform.com'
 html_short_title = 'Maha Documentation'
 html_show_sphinx = False
 html_title = 'Maha Documentation'
@@ -90,7 +90,7 @@ html_favicon = 'maha.png'
 html_show_sourcelink = False
 
 html_theme_options = {
-  'canonical_url': "https://docs.mahaplatform.com/"
+  'canonical_url': "https://support.mahaplatform.com/"
 }
 
 html_context = {}
