@@ -1,7 +1,9 @@
 # support.mahaplatform.com
 
-### Setup
--   [Installation Instructions](https://www.sphinx-doc.org/en/master/usage/installation.html)
+### Links
+-   [Production Site](https://support.mahaplatform.com)
+-   [Sphinx](https://www.sphinx-doc.org/en/master)
+-   [Installation](https://www.sphinx-doc.org/en/master/usage/installation.html)
 
 ### Local Development
 -   `sphinx-autobuild -b html ./src ./docs`
