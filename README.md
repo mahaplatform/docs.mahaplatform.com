@@ -9,6 +9,12 @@
 -   `sphinx-autobuild -b html ./src ./docs`
 -   `sphinx-autobuild -b json ./src ./json`
 
+### Additional Packages
+-    `pip install sphinx-autobuild`
+-    `pip install sphinx-theme`
+-    `pip install recommonmark`
+-    `pip install sphinx_rtd_theme`
+
 ### Formatting
 -   [Topics](https://sublime-and-sphinx-guide.readthedocs.io/en/latest/topics.html)
 -   [Table of Contents](https://sublime-and-sphinx-guide.readthedocs.io/en/latest/indices.html)
