@@ -1,13 +1,11 @@
-on: [push]
-
+on:
+  push:
+    tags:
+      - v*
 jobs:
   build:
     name: Build docsite
     runs-on: ubuntu-latest
-    on:
-      push:
-        tags:
-          - v*
     steps:
       - name: Check out repository
         uses: actions/checkout@v2
