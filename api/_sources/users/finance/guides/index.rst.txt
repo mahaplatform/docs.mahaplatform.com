@@ -4,9 +4,29 @@ Guides
 .. toctree::
    :maxdepth: 0
 
-   add_an_expense
-   add_a_reimbursement
-   add_a_check_request
-   add_mileage
-   add_a_cash_advance
+   accounts/add_a_new_account
+   items/add_an_expense
+   items/add_a_reimbursement
+   items/add_a_check_request
+   items/add_mileage
+   items/import_bulk_mileage
+   items/add_a_cash_advance
+   project/add_a_new_project
+   revenue/customers
+   revenue/new_invoice
+   revenue/payments
+   revenue/refunds
+   vendors/add_a_vendor
+   add_an_allocation
    approve_an_item
+   display_ids
+   exporting_records
+   filter_results
+   how_to_filter_records
+   how_to_upload_a_file
+   how_to_edit
+   how_to_merge
+   glossary
+   reports
+   comment
+   display_elements
