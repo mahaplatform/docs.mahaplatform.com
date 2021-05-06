@@ -1,0 +1,15 @@
+Add a Vendor
+============
+
+#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click **Finance**
+#. Click **Expenses**
+#. Click **Vendor**
+#. Click the <i class="fa fa-plus"></i> **plus icon** in the upper right hand corner
+#. Enter name of vendor
+#. Enter address of vendor
+#. Enter `Vendor ID </users/finance/guides/display_elements.html>`_
+#. Click **Save**
+#. If desired, `export </users/finance/guides/export_records.html>`_ vendor data
+#. If desired, `edit </users/finance/guides/how_to_edit.html>`_ vendors
+#. If desired, `merge </users/finance/guides/how_to_merge.html>`_ vendors
