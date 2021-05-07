@@ -2,7 +2,7 @@ Add an Expense
 ==============
 
 .. note::
-   When you make a purchase with a work credit card or a store account, you should record this by adding a new expense.
+   When a user makes a purchase with a work credit card or a store account, they should record this by adding a new expense.
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**
@@ -16,5 +16,5 @@ Add an Expense
 #. `Upload </users/finance/guides/how_to_upload_a_file.html>`_ a receipt
 #. Enter total
 #. Enter tax
-#. If desired, `add an allocation </users/finance/guides/add_an_allocation.html>`_
+#. Optional: `Add an allocation </users/finance/guides/add_an_allocation.html>`_
 #. Click **Save**

@@ -12,4 +12,6 @@ Add a New Account
 #. Enter account name
 #. Enter `vendor ID </users/finance/guides/display_elements.html>`_
 #. Click **Save**
-#. If desired, `export </users/finance/guides/export_records.html>`_,`edit </users/finance/guides/how_to_edit.html>`_, or `merge </users/finance/guides/how_to_merge.html>`_ accounts
+#. If desired, `export </users/finance/guides/export_records.html>`_ account data
+#. If desired, `edit </users/finance/guides/how_to_edit.html>`_ accounts
+#. If desired, `merge </users/finance/guides/how_to_merge.html>`_ accounts

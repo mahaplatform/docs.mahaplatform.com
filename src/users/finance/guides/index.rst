@@ -19,5 +19,14 @@ Guides
    vendors/add_a_vendor
    add_an_allocation
    approve_an_item
+   display_ids
+   exporting_records
+   filter_results
+   how_to_filter_records
+   how_to_upload_a_file
+   how_to_edit
    how_to_merge
+   glossary
    reports
+   comment
+   display_elements

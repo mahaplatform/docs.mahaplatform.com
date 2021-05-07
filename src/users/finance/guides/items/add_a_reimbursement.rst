@@ -2,7 +2,7 @@ Add a Reimbursement
 ===================
 
 .. note::
-   When you make a purchase with your own money for work-related expenses that should be reimbursed, you should record this by adding a new reimbursement.
+   When a user makes a purchase with their own money for work-related expenses that should be reimbursed, they should record this by adding a new reimbursement.
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**

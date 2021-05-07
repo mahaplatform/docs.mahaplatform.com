@@ -2,7 +2,7 @@ Add a Check Request
 ===================
 
 .. note::
-   When you need to send a check to a vendor, you should add a check request.
+   When a user needs to send a check to a vendor, they should add a check request.
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**
@@ -18,5 +18,5 @@ Add a Check Request
 #. `Upload </users/finance/guides/how_to_upload_a_file.html>`_ an invoice
 #. Enter total
 #. Enter tax
-#. If desired, `add an allocation </users/finance/guides/add_an_allocation.html>`_
+#. Optional: `Add an allocation </users/finance/guides/add_an_allocation.html>`_
 #. Click **Save**

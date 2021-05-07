@@ -1,0 +1,12 @@
+Display/Hide Elements
+================
+
+.. note::
+   When displaying data, some data has many elements. Not all of these elements will automatically be shown. For example, IDs must manually be chosen to be displayed.
+
+   If a user does not want to see certain elements, they can hide (as well as display) them using the following steps. Though if an element is locked, it is invariable.
+
+   Users should navigate to the page that contains the data for which they wish to change element display using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
+
+#. Click the <i class="fa fa-angle-down"></i> **arrow icon** in the top right hand corner of the page
+#. Click the element 
