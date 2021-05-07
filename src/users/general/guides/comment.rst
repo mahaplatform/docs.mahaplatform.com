@@ -2,7 +2,7 @@ How to Comment
 ==============
 
 .. note::
-   Users should navigate to the page they want to comment on using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
+   You should navigate to the page on which you want to comment using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
 
    Comments can be viewed by anyone who has access to the feature you are commenting under.
 
