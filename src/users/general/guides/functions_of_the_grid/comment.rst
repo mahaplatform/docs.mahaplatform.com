@@ -1,5 +1,5 @@
-How to Comment
-==============
+Commenting
+==========
 
 .. note::
    You should navigate to the page on which you want to comment using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.

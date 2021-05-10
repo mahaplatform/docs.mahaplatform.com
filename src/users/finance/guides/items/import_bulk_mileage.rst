@@ -1,4 +1,4 @@
-Import Bulk Mileage
+Importing Bulk Mileage
 ===================
 
 .. note::
@@ -17,7 +17,7 @@ Import Bulk Mileage
 
           * `Upload </users/finance/guides/how_to_upload_a_file.html>`_ a file
      #. Download a spreadsheet template
-     
+
           * Click **CSV** or **XLSX** to download template
           * Enter mileage onto template
           * Reupload edited template

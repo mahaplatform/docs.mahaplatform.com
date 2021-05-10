@@ -1,5 +1,5 @@
-How to Upload a File
-====================
+Uploading a File
+================
 
 .. note::
    Sometimes when completing forms, you will either be given an option or be required to upload existing files, such as spreadsheets, receipts, invoices, and more.

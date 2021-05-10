@@ -1,5 +1,5 @@
-How to Edit
-==========
+Editing
+=======
 
 .. note::
    You should make edits when you want to change the data of an already created account, contact, form, etc.

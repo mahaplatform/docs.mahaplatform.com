@@ -10,4 +10,8 @@ How to Search
 
 #. Click light red bar with <i class="fa fa-search"></i> **search icon** entitled **Search**
 #. Type and wait for results to appear
-#. Click <i class="fa fa-times-circle"></i> **X icon** to delete search and return to all records. Alternatively, delete using keyboard.
+#. Click <i class="fa fa-times-circle"></i> **X icon** to delete search and return to all records
+#. Searching all of the Maha Platform:
+   * Click <i class="fa fa-search"></i> **search icon** in the ribbon on the left hand side of the screen
+   * Click **Find Anything** and type what you want to find
+   * Click on the result to inspect

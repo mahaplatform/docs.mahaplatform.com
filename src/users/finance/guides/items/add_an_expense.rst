@@ -1,4 +1,4 @@
-Add an Expense
+Adingd an Expense
 ==============
 
 .. note::

@@ -1,4 +1,4 @@
-Add a Check Request
+Adding a Check Request
 ===================
 
 .. note::

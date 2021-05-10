@@ -1,4 +1,4 @@
-Add a Reimbursement
+Adding a Reimbursement
 ===================
 
 .. note::

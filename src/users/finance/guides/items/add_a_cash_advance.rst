@@ -1,4 +1,4 @@
-Add a Cash Advance
+Adding a Cash Advance
 ==================
 
 .. note::

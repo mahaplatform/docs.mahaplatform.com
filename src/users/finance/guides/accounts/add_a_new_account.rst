@@ -1,4 +1,4 @@
-Add a New Account
+Adding a New Account
 =================
 
 .. note::

@@ -1,5 +1,5 @@
-How to Merge
-============
+Merging
+=======
 
 .. note::
    When you want to merge already created vendors, contacts, etc., take the following steps. what can be merged?
