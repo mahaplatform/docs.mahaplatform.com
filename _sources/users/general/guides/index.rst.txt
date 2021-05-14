@@ -5,14 +5,13 @@ Guides
    :maxdepth: 2
    :titlesonly:
 
-   change_your_password
-   search_for_anything
    functions_of_the_grid/comment
    functions_of_the_grid/criteria_options
    functions_of_the_grid/display_elements
    functions_of_the_grid/exporting_records
    functions_of_the_grid/filter_and
    functions_of_the_grid/filter_or
+   functions_of_the_grid/grid_setup
    functions_of_the_grid/how_to_edit
    functions_of_the_grid/how_to_filter_records
    functions_of_the_grid/how_to_reload
