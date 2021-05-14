@@ -1,7 +1,7 @@
 Approving An Item
 ===============
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Approvals**

@@ -3,7 +3,7 @@ Adding a New Account
 
 .. note::
 
-#. Click the :icon:`bars` **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Accounts**

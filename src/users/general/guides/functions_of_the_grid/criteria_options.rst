@@ -2,11 +2,11 @@ Criteria Options
 ================
 
 .. note::
-   The filter feature allows you to carefully curate the results you are shown. One of the ways it does this is using aspect options.
+   The filter feature allows you to carefully curate the results you are shown. One of the ways it does this is using filter criteria options.
 
    Users should have ghvbjkn
 
-   Below the aspect options are defined.
+   Below the filter criteria options are defined.
 
 * Equals: Results shown will match the word or number you have entered (eg. users)
 * Does not equal: Results that match or contain the word or number you have entered will not be shown

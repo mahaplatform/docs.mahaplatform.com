@@ -2,11 +2,11 @@ Adding a Vendor
 ===============
 
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Vendor**
-#. Click the <i class="fa fa-plus"></i> **plus icon** in the upper right hand corner
+#. Click the :icon:`plus` in the upper right hand corner
 #. Enter name of vendor
 #. Enter address of vendor
 #. Enter `Vendor ID </users/general/guides/functions_of_the_grid/display_elements.html>`_

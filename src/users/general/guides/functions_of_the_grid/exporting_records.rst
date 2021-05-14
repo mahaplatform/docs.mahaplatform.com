@@ -4,10 +4,10 @@ Exporting Records
 .. note::
    When you need to export a collection of data, you should export the records.
 
-   You should navigate to the page that contains the records you wish to export using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
+   You should navigate to the page that contains the records you wish to export using the :icon:`bars` in the ribbon.
 
-#. Click the <i class="fa fa-download"></i> **export icon** located near the upper right hand corner of the page
-#. Most times, all records are automatically selected to be exported. You can individually deselect certain records by clicking the <i class="fa fa-check-square-o"></i> **blue check mark** before the column type, or click **mass deselect** and click the columns desired
+#. Click the :icon:`download` located near the upper right hand corner of the page
+#. Most times, all records are automatically selected to be exported. You can individually deselect certain records by clicking the :icon:`check-square` before the column type, or click **mass deselect** and click the columns desired
 
    * Other times, you also have the option to export one record or a select few:
    * Click the pop-up tab entitled **Export X item(s)**

@@ -1,10 +1,10 @@
 Adding a New Project
 ====================
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Projects**
-#. Click the <i class="fa fa-plus"></i> **plus icon** in the upper right hand corner
+#. Click the :icon:`plus` in the upper right hand corner
 #. Enter a project title
 #. Choose a type
 #. Enter a program code

@@ -12,5 +12,5 @@ Managing Users
 #. Change status by clicking the colored box to the right of the users name
 
    * Click through three options (Member, Approver, and Owner) until the displayed option matches what role you would like to assign the user
-#. Click the <i class="fa fa-times"></i> **icon** to the right of the users row to remove the user from the project
+#. Click the :icon:`times` to the right of the users row to remove the user from the project
 #. Click **Save**

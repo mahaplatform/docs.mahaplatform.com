@@ -8,9 +8,9 @@ Changing Event Notifications
 
    However, you can customize your notification preferences by disabling certain notification methods on a per event basis. You can have different notification preferences for specific events, as well.
 
-#. Click on your profile (a circle with your initials or profile picture) at the bottom of the ribbon on the left hand of the screen
+#. Click on your profile (a circle with your initials or profile picture) located in the ribbon
 #. Click **Manage Notifications**
 #. Click **Manage Events**
-#. Deselect the notification(s) you do not want delivered by clicking on the <i class="fa fa-check-circle"></i> **check icon** next to the notification method (in-app, push, or email)
+#. Deselect the notification(s) you do not want delivered by clicking on the :icon:`check-circle`* next to the notification method (in-app, push, or email)
    * Note that this disables this notification method for this specific event only
 *. Click **Save**
