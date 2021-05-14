@@ -1,3 +1,8 @@
+import os
+import sys
+
+sys.path.append(os.path.abspath("./_ext"))
+
 # -*- coding: utf-8 -*-
 #
 # Configuration file for the Sphinx documentation builder.
@@ -40,8 +45,9 @@ release = u''
 # ones.
 extensions = [
   'sphinx.ext.githubpages',
-  'recommonmark'
-  
+  'recommonmark',
+  'icon',
+  'tabs'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -102,6 +108,7 @@ html_context = {}
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 html_css_files = [
+    'https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css'
     'css/custom.css'
 ]
 # Custom sidebar templates, must be a dictionary that maps document names
