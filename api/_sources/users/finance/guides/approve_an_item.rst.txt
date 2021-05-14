@@ -1,4 +1,4 @@
-Approve An Item
+Approving An Item
 ===============
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon

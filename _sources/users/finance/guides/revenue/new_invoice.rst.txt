@@ -1,7 +1,8 @@
-New Invoice
-===========
+Creating a New Invoice
+======================
 
 .. note::
+   To bill a customer using the Maha Platform, you should create a new invoice.
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**
