@@ -11,3 +11,14 @@
 .section p {
   color: #888888;
 }
+.fa {
+  background-color: #CCCCCC;
+  color: #FFFFFF;
+  width: 1.4em;
+  height: 1.4em;
+  text-indent: 0;
+  border-radius: 0.4em;
+  font-size: 0.8em;
+  line-height: 1.5em;
+  text-align: center;
+}
