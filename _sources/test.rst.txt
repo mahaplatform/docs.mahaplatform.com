@@ -1,5 +1,9 @@
 Test
 ====
+.. tabs::
+
+:icon:`bars`
+
 #. Step 1. Example:
 
   .. code-block:: bash
