@@ -2,7 +2,7 @@ Invoices
 ========
 
 .. note::
-   **Invoices** shows a compilation of all the created invoices available to you. 
+   **Invoices** shows a compilation of all the created invoices available to you.
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**
@@ -18,4 +18,4 @@ Invoices
    * **Edit Invoice**: Make changes to the fields to alter your invoice details. Click **Save**
    * **Void Invoice**: Select date and enter a reason for voiding your invoice. Click **Save**
    * **Receive Payment**: Select date and a payment method to receive your payment. Click **Save**
-#. Create a `new invoice </users/finance/guides/new_invoice.html>`_
+#. Create a `new invoice </users/finance/guides/revenue/new_invoice.html>`_

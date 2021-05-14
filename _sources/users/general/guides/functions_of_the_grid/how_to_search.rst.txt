@@ -6,7 +6,7 @@ How to Search
 
    You should navigate to the page that contains the records through which you wish to search using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
 
-   If you wish to apply more than one search criteria, you should consider using a `filter </users/general/guides/how_to_filter_records.html>`_.
+   If you wish to apply more than one search criteria, you should consider using a `filter </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_.
 
 #. Click light red bar with <i class="fa fa-search"></i> **search icon** entitled **Search**
 #. Type and wait for results to appear

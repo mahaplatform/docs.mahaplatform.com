@@ -12,6 +12,6 @@ Adding a Reimbursement
 #. Click **Reimbursement**
 #. Select date of purchase
 #. Choose a vendor
-#. `Upload </users/general/guides/how_to_upload_a_file.html>`_ a receipt
+#. `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ a receipt
 #. Enter total
 #. Click **Save**
