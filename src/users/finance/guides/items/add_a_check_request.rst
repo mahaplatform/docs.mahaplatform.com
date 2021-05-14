@@ -15,7 +15,7 @@ Adding a Check Request
 #. Choose a delivery method
 #. Enter the account number
 #. Enter the invoice number
-#. `Upload </users/finance/guides/how_to_upload_a_file.html>`_ an invoice
+#. `Upload </users/general/guides/how_to_upload_a_file.html>`_ an invoice
 #. Enter total
 #. Enter tax
 #. If desired, `add an allocation </users/finance/guides/add_an_allocation.html>`_

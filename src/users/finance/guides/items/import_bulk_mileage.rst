@@ -15,7 +15,7 @@ Importing Bulk Mileage
 
      #. Click **Start New Input** to import an existing spreadsheet
 
-          * `Upload </users/finance/guides/how_to_upload_a_file.html>`_ a file
+          * `Upload </users/general/guides/how_to_upload_a_file.html>`_ a file
      #. Download a spreadsheet template
 
           * Click **CSV** or **XLSX** to download template

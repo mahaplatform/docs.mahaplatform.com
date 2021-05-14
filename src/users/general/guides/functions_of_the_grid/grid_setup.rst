@@ -9,10 +9,10 @@ Grid Setup
 
    Click on the hyperlink to get to a detailed instructional guide on how to use each feature!
 
-#. `Search </users/finance/guides/how_to_search.html>`_ through records to pull up a specific result
-#. `Reload </users/finance/guides/how_to_upload_a_file.html>`_ records to refresh the page
-#. `Export </users/finance/guides/exporting_records.html>`_ records to download or send data
-#. `Filter </users/finance/guides/how_to_filter_records.html>`_ records to narrow search results according to criteria
-#. `Edit </users/finance/guides/how_to_edit.html>`_ a record
-#. `Comment </users/finance/guides/how_to_comment.html>`_ on a record
-#. `Add or hide columns </users/finance/guides/display_elements.html>`_ of a row (eg. ID, codes)
+#. `Search </users/general/guides/how_to_search.html>`_ through records to pull up a specific result
+#. `Reload </users/general/guides/how_to_upload_a_file.html>`_ records to refresh the page
+#. `Export </users/general/guides/exporting_records.html>`_ records to download or send data
+#. `Filter </users/general/guides/how_to_filter_records.html>`_ records to narrow search results according to criteria
+#. `Edit </users/general/guides/how_to_edit.html>`_ a record
+#. `Comment </users/general/guides/how_to_comment.html>`_ on a record
+#. `Add or hide columns </users/general/guides/display_elements.html>`_ of a row (eg. ID, codes)

@@ -2,8 +2,9 @@ Adding Mileage
 ===========
 
 .. note::
-   When you make a trip using business miles, you should record this by adding new mileage.
-      * `If trips are frequent, consider using the **importing bulk mileage** feature`
+   When you make a trip using business miles, you should report this by adding new mileage.
+
+      * If trips are frequent, consider using the **importing bulk mileage** feature
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**

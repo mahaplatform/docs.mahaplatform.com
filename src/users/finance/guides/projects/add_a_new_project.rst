@@ -1,5 +1,5 @@
 Adding a New Project
-=================
+====================
 
 #. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
 #. Click **Finance**
@@ -13,4 +13,3 @@ Adding a New Project
 #. Enter a main project code
 #. Enter a country project code
 #. Click **Save**
-#. If desired, `export </users/finance/guides/export_records.html>`_,`edit </users/finance/guides/how_to_edit.html>`_, or `merge </users/finance/guides/how_to_merge.html>`_ projects

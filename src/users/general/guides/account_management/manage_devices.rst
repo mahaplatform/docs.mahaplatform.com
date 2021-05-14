@@ -6,7 +6,7 @@ The Maha Platform keeps track of all the devices (within the last six months) wi
 #. Click on your profile (a circle with your initials or profile picture) at the bottom of the ribbon on the left hand of the screen
 #. Click **Manage Security**
 #. Click **Manage Devices**
-#. Inspect devices by clicking on each device
+#. Click on a device to view device details
 #. Manage previous devices from your current device:
    * Remove the device from your history by clicking **Remove this Device**
    * Terminate your session by clicking **Signout**

@@ -6,7 +6,7 @@ Merging
 
    You should navigate to the page that contains what you wish to merge using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
 
-#. Click the three dots to the right of each row
+#. Click the <i class="fa fa-ellipsis-v"></i> **ellipsis icon** to the right of each row
 #. Click **Merge**
 #. Click blank field entitled **Merge Into**
 #. Select or search for vendor, contact, etc.

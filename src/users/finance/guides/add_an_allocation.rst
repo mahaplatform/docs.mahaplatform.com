@@ -1,4 +1,4 @@
-Adding an allocation
+Adding an Allocation
 =================
 
 .. note::

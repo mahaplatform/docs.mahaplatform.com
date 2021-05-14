@@ -8,5 +8,5 @@ Editing
 
 #. Click the <i class="fa fa-ellipsis-h"></i> **ellipsis icon** to the right of each row
 #. Click **Edit**
-#. Click on the field to edit it `(refer to specific guides if fields are unclear)`
+#. Click on a field to edit it `(refer to specific guides if fields are unclear)`
 #. Click **Save**

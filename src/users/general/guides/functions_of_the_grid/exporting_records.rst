@@ -7,7 +7,13 @@ Exporting Records
    You should navigate to the page that contains the records you wish to export using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
 
 #. Click the <i class="fa fa-download"></i> **export icon** located near the upper right hand corner of the page
-#. All data is automatically selected to be exported. You can individually deselect by clicking the <i class="fa fa-check-square-o"></i> **blue check mark** before the column type, or click **mass deselect** and click the columns desired
+#. Most times, all records are automatically selected to be exported. You can individually deselect certain records by clicking the <i class="fa fa-check-square-o"></i> **blue check mark** before the column type, or click **mass deselect** and click the columns desired
+
+   * Other times, you also have the option to export one record or a select few:
+   * Click the pop-up tab entitled **Export X item(s)**
+   * Click **Yes**
+   * Select date
+   * Click **Save**
 #. Select an export format
 #. Select an export
 #. Select an export strategy

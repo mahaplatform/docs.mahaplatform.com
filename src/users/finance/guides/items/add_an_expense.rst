@@ -1,4 +1,4 @@
-Adingd an Expense
+Adding an Expense
 ==============
 
 .. note::
@@ -13,7 +13,7 @@ Adingd an Expense
 #. Select date of purchase
 #. Choose a vendor
 #. Choose an account
-#. `Upload </users/finance/guides/how_to_upload_a_file.html>`_ a receipt
+#. `Upload </users/general/guides/how_to_upload_a_file.html>`_ a receipt
 #. Enter total
 #. Enter tax
 #. If desired, `add an allocation </users/finance/guides/add_an_allocation.html>`_
