@@ -17,10 +17,10 @@ How To Filter Records
 #. If available, you can click **+ New Filter** under **Your Filters** to create your own filter
 #. Click **+ADD CRITERIA**
 #. If desired, select a **conditional**
-   * `AND </users/finance/guides/filter_and.html>`_: to be shown a result, it must satisfy both of the filters you apply
-   * `OR </users/finance/guides/filter_or.html>`_: to be shown a result, it must satisfy at least one of the filters you apply
+   * `AND </users/finance/guides/functions_of_the_grid/filter_and.html>`_: to be shown a result, it must satisfy both of the filters you apply
+   * `OR </users/finance/guides/functions_of_the_grid/filter_or.html>`_: to be shown a result, it must satisfy at least one of the filters you apply
  #. Inspect results that have satisfied your filter(s) by clicking on each result. Associated information will be displayed
  #. Select desired result(s) and choose an option
     * Add to Lists: Select all lists to which you want to add the selected results. Click **Save**
     * Add to Topics: Select all topics to which you want to add the selected results. Click **Save**
- #. If desired, `save filter </users/finance/guides/save.filter.html>`_
+ #. If desired, `save filter </users/finance/guides/functions_of_the_grid/save.filter.html>`_
