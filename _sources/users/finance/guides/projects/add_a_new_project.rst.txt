@@ -1,6 +1,8 @@
 Adding a New Project
 ====================
 
+| To add a new project, follow the steps below.
+
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Projects**

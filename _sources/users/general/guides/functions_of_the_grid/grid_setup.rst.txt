@@ -1,13 +1,10 @@
 Grid Setup
 ==========
-.. note::
-   The Grid is the name for the interface used on the Maha Platform.
 
-   Across all the sections of the Maha Platform, from the **CRM** to **Finance**, the Grid along with a couple of useful features allows efficient, sensible navigation.
-
-   While not every feature is available for each section, below is a comprehensive list of the features with which you might want to be familiar.
-
-   Click on the hyperlink to get to a detailed instructional guide on how to use each feature!
+| The grid is the name for the basic interface used on the Maha Platform.
+| Across all the sections of the Maha Platform, from the **CRM** to **Finance**, the grid along with a couple of useful features allows efficient, sensible navigation.
+| While not every feature is available for each section, below is a comprehensive list of the features with which you might want to be familiar.
+| Click on the hyperlink to get to a detailed instructional guide on how to use each feature!
 
 #. `Search </users/general/guides/functions_of_the_grid/how_to_search.html>`_ through records to pull up a specific result
 #. `Reload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ records to refresh the page

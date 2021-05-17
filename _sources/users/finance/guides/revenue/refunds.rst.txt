@@ -1,11 +1,8 @@
 Refunds
 =======
 
-.. note::
-   This page serves as a record of all the refunds that have been issued.
-
-   You may also void refunds that have been issued, recharging the customer.
-
+| This page serves as a record of all the refunds that have been issued.
+| You may also void refunds that have been issued, recharging the customer.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**

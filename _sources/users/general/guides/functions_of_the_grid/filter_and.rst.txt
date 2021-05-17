@@ -1,10 +1,8 @@
 The **AND** Conditional
 =======================
 
-.. note::
-   When you need to filter records by applying multiple filters that must be met, use the **AND** conditional. This means all results shown to you satisfy all the filters you apply.
-
-   You should have navigated to the filter pop-up menu with conditional options. Refer to `filter guide </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ if you are having trouble navigating to this page.
+| When you need to filter records by applying multiple filters that must be met, use the **AND** conditional. This means all results shown to you satisfy all the filters you apply.
+| You should have navigated to the filter pop-up menu with conditional options. Refer to `filter guide </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ if you are having trouble navigating to this page.
 
 #. Click **AND**
 #. Click the first **+ ADD CRITERIA** in the box

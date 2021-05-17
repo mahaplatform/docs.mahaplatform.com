@@ -18,6 +18,9 @@ Guides
    functions_of_the_grid/how_to_search
    functions_of_the_grid/how_to_upload_a_file
    functions_of_the_grid/save_filter
+   functions_of_the_grid/how_to_merge
+   functions_of_the_grid/ add_an_allocation
+   functions_of_the_grid/change_organizations
    account_management/change_event_notifications
    account_management/change_notification_preferences
    account_management/change_your_password
@@ -25,7 +28,6 @@ Guides
    account_management/manage_cell_phone
    account_management/manage_devices
    account_management/manage_profiles
-   account_management/notifications
    account_management/profile_pic
    account_management/sign_out
    account_management/signing_in

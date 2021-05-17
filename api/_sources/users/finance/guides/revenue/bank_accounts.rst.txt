@@ -1,8 +1,9 @@
 Adding a Bank Account
 =====================
 
-.. note::
-   g
+| The Maha platform keeps a record of the bank accounts associated with the organization.
+| Note that this is `not` individual users' bank account information.
+| To add a new bank account, follow the steps below.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**

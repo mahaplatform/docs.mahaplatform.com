@@ -1,7 +1,8 @@
 Adding a New Account
 ====================
 
-.. note::
+| The Maha Platform keeps a record of the accounts an organization has created with vendors.
+| To create a new account, follow the steps below.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**

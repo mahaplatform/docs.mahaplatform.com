@@ -1,10 +1,8 @@
 Save Filter
 ===========
 
-.. note::
-   The filtering feature allows you to apply system filters and sometimes allows you to create your own filters.
-
-   If you would like the system to remember a filter you have created that you might use again in the future, save the filter.
+| The filtering feature allows you to apply system filters and sometimes allows you to create your own filters.
+| If you would like the system to remember a filter you have created that you might use again in the future, save the filter.
 
 #. Click **Save**
 #. Enter a title

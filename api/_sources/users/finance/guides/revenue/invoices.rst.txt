@@ -1,8 +1,7 @@
 Invoices
 ========
 
-.. note::
-   **Invoices** shows a compilation of all the created invoices available to you.
+| **Invoices** shows a compilation of all the created invoices available to you.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**

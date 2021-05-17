@@ -1,6 +1,8 @@
 Projects
 ========
 
+| **Projects** keeps a record of all the projects (current and disabled/inactive) that have been created by you or users in your organization.
+
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Projects**

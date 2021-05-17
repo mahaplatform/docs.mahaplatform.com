@@ -1,8 +1,7 @@
 Customers
 =========
 
-.. note::
-   g
+| **Customers** is a record of all people that have made payments to an organization.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
