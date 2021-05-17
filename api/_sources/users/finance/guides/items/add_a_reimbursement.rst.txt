@@ -4,11 +4,11 @@ Adding a Reimbursement
 .. note::
    When you make a purchase with your own money for work-related expenses that should be reimbursed, you should record this by adding a new reimbursement.
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**
-#. Click the <i class="fa fa-plus"></i> **plus icon** in the upper right hand corner
+#. Click the :icon:`plus` in the upper right hand corner
 #. Click **Reimbursement**
 #. Select date of purchase
 #. Choose a vendor

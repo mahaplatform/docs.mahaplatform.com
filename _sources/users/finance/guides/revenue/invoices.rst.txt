@@ -4,12 +4,12 @@ Invoices
 .. note::
    **Invoices** shows a compilation of all the created invoices available to you.
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Invoices**
 #. Click on an invoice to view the invoice details and payment details
-#. You can do a couple of things with an invoice. Start by clicking the <i class="fa fa-ellipsis-v"></i> **ellipsis icon**. Certain options might not be available for every record.
+#. You can do a couple of things with an invoice. Start by clicking the :icon:`ellipsis-v` Certain options might not be available for every record.
 
    * **Clone Invoice**: If desired click on a field to make a change to the invoice. Click **Save**
    * **Send Receipt/Invoice**: Choose a sender, recipient and email address, a subject, and message. Click **Save**

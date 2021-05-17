@@ -4,11 +4,11 @@ Creating a New Invoice
 .. note::
    To bill a customer using the Maha Platform, you should create a new invoice.
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Invoices**
-#. Click the <i class="fa fa-plus"></i> **plus icon** in the upper right hand corner
+#. Click the :icon:`plus` in the upper right hand corner
 #. Choose a program
 #. Choose a customer
 #. Select the current date

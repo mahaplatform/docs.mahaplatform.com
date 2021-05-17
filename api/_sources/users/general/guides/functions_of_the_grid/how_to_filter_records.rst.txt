@@ -8,9 +8,9 @@ How To Filter Records
 
    Some systems have built in filters under **System Filters**. These will automatically be displayed. Sometimes, you can apply these system filters and/or apply your own under **Your filters**.
 
-   You should navigate to the page that contains the results you wish to filter using the <i class="fa fa-bars"></i> **menu icon** in the ribbon.
+   You should navigate to the page that contains the results you wish to filter using the :icon:`bars` in the ribbon.
 
-#. Click the <i class="fa fa-filter"></i> **filter icon** in the upper left hand corner of the page
+#. Click the :icon:`filter` in the upper left hand corner of the page
 #. Click on a criteria category under **Filter Results** (`eg. _status_`)
 #. Click on a specific criteria under this aspect to apply a specific filter (`eg. approved`)
    * You can also use the search feature to find a specific criteria

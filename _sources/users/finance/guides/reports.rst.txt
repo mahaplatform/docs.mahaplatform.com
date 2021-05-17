@@ -6,7 +6,7 @@ Report
 
    The expenses are listed by date, and each expense displays other elements such as type, user, description, and status.
 
-#. Click the <i class="fa fa-bars"></i> **menu icon** in the ribbon
+#. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Report**
