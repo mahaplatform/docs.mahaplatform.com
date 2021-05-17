@@ -1,10 +1,8 @@
 The **OR** Conditional
 ======================
 
-.. note::
-   When you need to filter records by applying multiple filters, use the **OR** conditional. This means all results shown to you satisfy at least one of the filters you apply.
-
-   You should have navigated to the filter pop-up menu with conditional options. Refer to `filter guide </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ if you are having trouble navigating to this page.
+| When you need to filter records by applying multiple filters, use the **OR** conditional. This means all results shown to you satisfy at least one of the filters you apply.
+| You should have navigated to the filter pop-up menu with conditional options. Refer to `filter guide </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ if you are having trouble navigating to this page.
 
 #. Click **OR**
 #. Click the first **+ ADD CRITERIA** in the box

@@ -5,27 +5,27 @@ Guides
    :maxdepth: 0
 
    expenses/add_a_new_account
-   expenses/add_a_vendor
    expenses/batches
+   expenses/add_a_vendor
+   expenses/items/items
+   expenses/items/add_an_expense
+   expenses/items/add_a_reimbursement
+   expenses/items/add_a_check_request
+   expenses/items/add_mileage
+   expenses/items/import_bulk_mileage
+   expenses/items/add_a_cash_advance
+   expenses/expenses_reports
    expenses/taxes
    expenses/vendor
-   items/add_a_cash_advance
-   items/add_a_check_request
-   items/add_a_reimbursement
-   items/add_an_expense
-   items/add_mileage
-   items/import_bulk_mileage
-   projects/add_a_new_project
-   projects/manage_users
-   projects/project_general
    revenue/bank_accounts
    revenue/customers
-   revenue/deposits
    revenue/invoices
    revenue/new_invoice
+   revenue/deposits
    revenue/payments
    revenue/refunds
-   add_an_allocation
+   revenue/revenue_reports
+   projects/project_general
+   projects/add_a_new_project
+   projects/manage_users
    approve_an_item
-   how_to_merge
-   reports

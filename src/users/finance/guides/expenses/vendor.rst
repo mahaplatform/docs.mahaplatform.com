@@ -1,8 +1,7 @@
 Vendors
 =======
 
-.. note::
-   **Vendors** displays a list of all the vendors from which your association has bought items.
+| **Vendors** displays a list of all the vendors from which your association has bought items.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**

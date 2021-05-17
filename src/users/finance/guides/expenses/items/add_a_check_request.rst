@@ -1,8 +1,7 @@
 Adding a Check Request
-===================
+======================
 
-.. note::
-   When you need to send a check to a vendor, you should add a check request.
+| When you need to send a check to a vendor, you should add a check request.
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Finance**
