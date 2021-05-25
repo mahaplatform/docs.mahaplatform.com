@@ -1,0 +1,30 @@
+Blocks for Designing Emails
+===========================
+
+| When you design an email in the Maha Platform, you will be given the option to create a unique email with as many or as little components.
+| The email design feature offers a few basic structures that can be customized to fit the email. Each structure offers changes to **Content**, **Style**, and/or **Settings**.
+| Below, these structures, called **Blocks**, are defined.
+
+#. **Text**: Adds a customizable text block
+
+   * For **Text** and all blocks below that include a text block, you are given the option to use tokens - a piece of information written as <%- token_example %> that will be substituted with the recipient's personal information
+#. **Divider**: Adds a block with a customizable line to separate other blocks
+#. **Image**: Adds an image by `uploading </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ your image or entering the image's URL
+
+   * Click the checkbox entitled **Show Caption** to add a text block that will appear directly under the image
+#. **Button**: Adds a customizable interactive button
+
+   * Edit **Button Text** to change the text that appears on the button
+   * The button can be used to link to an external page such as a web address or a form, to adjust your preferences, to add an event to a calendar, or to pull up registration for an event
+#. **Preferences**: Adds a text block with a link that can be clicked to adjust how many emails the recipient would like to receive
+#. **Social Share**: Adds customizable links that allow the email recipient to share the email to others via a number of options - FaceBook, forwarding the email to a friend, LinkedIn, Pinterest, or Twitter
+
+   * Click **Add Service** to add an additional sharing option and click the :icon:`trash-o` to delete the option
+#. **Social Follow**: Adds customizable links that allow the email recipient to follow the social media pages linked to the sender, which include Instagram, LinkedIn, Medium, Pinterest, Snapchat, Vimeo, and YouTube
+
+   * Click **Add Service** to add an additional sharing option and click the :icon:`trash-o` to delete the option
+#. **Video**: Adds a video - click **Choose Video** to `upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_
+
+   * Click the checkbox entitled **Show Caption** to add a text block that will appear directly under the video
+#. **Web Version**: Adds a text block with a link to view in a browser if the recipient experiences display issues
+#. Additionally, you can make custom changes to the Page, Header, Body, and Footer under the **Design** tab
