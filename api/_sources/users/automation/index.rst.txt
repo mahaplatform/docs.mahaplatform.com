@@ -7,8 +7,17 @@ a workflow and then passed through a series of steps that either alter their
 customer record or send some sort of communication.
 
 .. toctree::
-  :maxdepth: 1
-  :titlesonly:
+   :maxdepth: 2
 
-  guides/index
-  reference
+   guides/emails/design_email
+   guides/emails?email_design_blocks
+   guides/emails/email_performance
+   guides/emails/emails
+   guides/workflows/create_a_workflow
+   guides/workflows/design_a_workflow
+   guides/workflows/enroll_contacts
+   guides/workflows/new_workflow
+   guides/workflows/trigger_types
+   guides/workflows/workflow_blocks
+   guides/workflows/workflow_performance
+   guides/workflows/workflows

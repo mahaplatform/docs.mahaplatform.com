@@ -3,19 +3,6 @@ Finance
 
 .. toctree::
    :maxdepth: 2
-   :hidden:
-   :caption: Expenses
-
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Revenue
-
-.. toctree::
-   :maxdepth: 2
-   :hidden:
-   :caption: Projects
 
    guides/expenses/add_a_new_account
    guides/expenses/batches
