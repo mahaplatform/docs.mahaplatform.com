@@ -1,2 +1,5 @@
-Stores
+Guides
 ======
+
+.. toctree::
+   :maxdepth: 0

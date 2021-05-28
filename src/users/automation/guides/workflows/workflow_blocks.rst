@@ -3,6 +3,7 @@ Blocks for Designing a Workflow
 
 | A workflow can be as simple or as complex as you would like. There are many structures you can use to customize the pathway a contact will take.
 | Below, these structures, called **Blocks**, are defined.
+| To use these blocks, you will need to have navigated to the workflow design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. **If/Then**: Allows for contacts enrolled in a workflow to follow separate pathways with different blocks. Contacts who satisfy your criteria follow one path and contacts who do not ("else") follow the other designated path
 
@@ -18,7 +19,7 @@ Blocks for Designing a Workflow
    * Option two: Select to wait **For a specific duration of time** and enter the duration in days, hours, and/or minutes
    * Click **Done**
 #. **Set Goal**: Place this block to mark a point in the workflow where contacts who reach the goal will be recorded and displayed in the performance tab - as a contact that has been "converted"
-#. **Set Variable**: A contact who reaches a set variable will retain this variable as they move through the workflow. This memory allows for more complex if/then blocks to be implemented later in the workflow
+#. **Set Variable**: A contact who reaches a set variable will retain this variable as they move through the workflow. This memory allows for more complex if/then blocks to be implemented later on in the workflow
 
    * Enter a name
    * Enter a value

@@ -1,9 +1,10 @@
-Blocks for Designing Emails
-===========================
+Blocks for Designing an Email
+=============================
 
 | When you design an email in the Maha Platform, you will be given the option to create a unique email with as many or as little components.
-| The email design feature offers a few basic structures that can be customized to fit the email. Each structure offers changes to **Content**, **Style**, and/or **Settings**.
+| The email design feature offers a few basic structures that can be customized to fit the email. These blocks make changes to your emails **Content**, but you may also make changes to your email's **Design** and **Settings**.
 | Below, these structures, called **Blocks**, are defined.
+| To use these blocks, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. **Text**: Adds a customizable text block
 
@@ -27,4 +28,4 @@ Blocks for Designing Emails
 
    * Click the checkbox entitled **Show Caption** to add a text block that will appear directly under the video
 #. **Web Version**: Adds a text block with a link to view in a browser if the recipient experiences display issues
-#. Additionally, you can make custom changes to the Page, Header, Body, and Footer under the **Design** tab
+#. Additionally, you can make custom changes to the Page, Header, Body, and Footer under the **Design** tab, as well as changes to the details of the email under **Settings**
