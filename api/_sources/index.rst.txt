@@ -20,23 +20,27 @@ both an onsite and remote workforce.
    Access Control <platform/access>
 
 .. toctree::
-  :maxdepth: 1
+  :maxdepth: 0
   :caption: User Documentation
   :titlesonly:
   :hidden:
 
-  Platform <users/general/index>
   Analytics <users/analytics/index>
   Automation <users/automation/index>
+  CRM <users/crm/index>
   Campaigns <users/campaigns/index>
   Chat <users/chat/index>
-  CRM <users/crm/index>
   Datasets <users/datasets/index>
   Drive <users/drive/index>
   Events <users/events/index>
   Finance <users/finance/index>
+  Forms <users/forms/index>
+  News <users/news/index>
+  Platform <users/general/index>
   Phone <users/phone/index>
+  Sites <users/sites/index>
   Stores <users/stores/index>
+  Surveys <users/surveys/index>
   Teams <users/teams/index>
   Websites <users/websites/index>
 

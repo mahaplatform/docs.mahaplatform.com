@@ -11,10 +11,9 @@ Lists
 #. Click **Add List**
 #. Enter a list name
 #. Click **Save**
-
-#. Click on a list to view details and automation of the list
 #. Click :icon:`ellipsis-v` to edit the list, create a workflow, or delete the list
 #. Click **X Contacts** to view the contacts that belong to the list
 
    * To add a contact to a list, refer to `Adding a Contact to a List or a Program </users/crm/guides/contacts/add_contact.html>`_
-#. Click the tab entitled **Automations** to view `workflows </users/crm/guides/contacts/workflows.html>`_
+#. Click the tab entitled **Automations** to view `workflows </users/automation/guides/workflows/workflows.html>`_
+#. To view another template, click :icon:`chevron-left` and choose the desired template

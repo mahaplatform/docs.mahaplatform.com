@@ -14,6 +14,7 @@ Creating a New Invoice
 #. Select invoice due date
 #. Add notes
 #. Click **Add Line Item**
+
      * Choose a project
      * Choose a revenue type
      * Describe the item

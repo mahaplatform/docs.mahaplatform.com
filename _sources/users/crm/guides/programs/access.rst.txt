@@ -1,7 +1,7 @@
 Access
 ======
 
-| **Access** displays program members or groups (eg. Everyone) and their access privileges (view, edit, or manage).
+| **Access** displays program members or groups (eg. everyone) and their access privileges (view, edit, or manage).
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **CRM**

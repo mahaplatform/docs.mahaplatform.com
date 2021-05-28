@@ -10,8 +10,8 @@ Programs
 #. Click a program to view program information
 #. Click one of the seven tabs to navigate through the elements of a program. Click the hyperlinks for detailed guides
 
-   * `Details </users/crm/guides/programs/details.html>`_
-   * `Access </users/crm/guides/programs/access.html>`_
+   * `Details </users/crm/guides/programs/programsdescribed/details.html>`_
+   * `Access </users/crm/guides/programs/programsdescribed/access.html>`_
    * `Senders </users/crm/guides/programs/senders.html>`_
    * `Lists </users/crm/guides/programs/lists.html>`_
    * `Topics: </users/crm/guides/programs/topics.html>`_

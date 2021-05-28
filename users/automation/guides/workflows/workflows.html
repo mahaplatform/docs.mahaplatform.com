@@ -102,16 +102,17 @@
 </ul>
 <p class="caption"><span class="caption-text">User Documentation</span></p>
 <ul>
-<li class="toctree-l1"><a class="reference internal" href="../../../general/index.html">Platform</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../analytics/index.html">Analytics</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../index.html">Automation</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../crm/index.html">CRM</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../campaigns/index.html">Campaigns</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../chat/index.html">Chat</a></li>
-<li class="toctree-l1"><a class="reference internal" href="../../../crm/index.html">CRM</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../datasets/index.html">Datasets</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../drive/index.html">Drive</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../events/index.html">Events</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../finance/index.html">Finance</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../forms/index.html">Forms</a></li>
+<li class="toctree-l1"><a class="reference internal" href="../../../general/index.html">Platform</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../phone/index.html">Phone</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../teams/index.html">Teams</a></li>
 <li class="toctree-l1"><a class="reference internal" href="../../../websites/index.html">Websites</a></li>
@@ -188,44 +189,18 @@
   <div class="section" id="workflows">
 <h1>Workflows<a class="headerlink" href="#workflows" title="Permalink to this headline">¶</a></h1>
 <div class="line-block">
-<div class="line">A workflow is a sequence of processes that will be triggered when an event occurs.</div>
+<div class="line">A workflow is a sequence of steps that will be triggered when an event occurs.</div>
 </div>
 <ol class="arabic simple">
 <li><p>Click on a workflow to view status, details, audit trail, and comments</p></li>
 <li><p>Click <i class="fa fa-ellipsis-v"></i> and <a class="reference external" href="/users/general/guides/functions_of_the_grid/how_to_edit.html">edit</a> to change the workflow’s title</p></li>
-<li><p>Click <i class="fa fa-ellipsis-v"></i> and <strong>Enroll Contacts</strong> to add contacts to a workflow using one of the options below:</p>
-<ul class="simple">
-<li><p><strong>Contacts that meet custom criteria</strong>: create a custom <a class="reference external" href="/users/general/guides/functions_of_the_grid/how_to_filter_records.html">filter</a> and add all contacts that satisfy the criteria</p></li>
-<li><p><strong>Contacts in a saved filter</strong>: add all the contacts that satisfy the criteria of a filter you have previously created and saved</p></li>
-<li><p><strong>Contacts in a topic</strong>: Select a topic to add all the contacts in the topic</p></li>
-<li><p><strong>Contacts in a list</strong>: Select a list to add all the contacts in the list</p></li>
-<li><p><strong>Specific contacts</strong>: individually search and select contacts you would like to add</p></li>
-<li><p>After you have added the desired contact(s), click <strong>Enroll</strong></p></li>
-</ul>
-</li>
+<li><p>Click <i class="fa fa-ellipsis-v"></i> and <a class="reference external" href="/users/automation/guides/enroll_contacts.html">Enroll Contacts</a> to add contacts to a workflow</p></li>
 <li><p>Click <i class="fa fa-ellipsis-v"></i> and <strong>Activate Workflow</strong> or <strong>Deactivate Workflow</strong> to change the status of the workflow</p></li>
 <li><p>Click <i class="fa fa-ellipsis-v"></i>, <strong>Delete Workflow</strong>, and <strong>Yes</strong> to delete a workflow along with all of the emails and performance data associated with the workflow</p></li>
-<li><p>Click the topic to pull up the information of the topic associated with the workflow</p></li>
-<li><p>Click <strong>Design Workflow</strong> to <a class="reference external" href="/users/crm/guides/programs/create_a_workflow.html">create your workflow</a></p>
-<ul class="simple">
-<li><p>Add <a class="reference external" href="/users/crm/guides/programs/designing_a_workflow_blocks.html">blocks</a> to the workflow by clicking and dragging the block between the blocks entitled <strong>Trigger</strong> and <strong>Complete</strong></p></li>
-<li><p>This will trigger a new tab entitled <strong>Email</strong> where you customize the block</p></li>
-<li><p>When you are satisfied with your workflow, click <strong>Publish Version</strong>. To view your version history, click <strong>Versions</strong> and click on each version. To restore a previous version of your workflow, click <strong>Revert to Version</strong></p></li>
-</ul>
-</li>
-<li><p>Click <strong>Emails</strong> to ????</p></li>
-<li><p>Click <strong>Performance</strong> to view data of enrollments to the workflow</p>
-<ul class="simple">
-<li><p>Change time frame by clicking <strong>Last 30 Days</strong>, <strong>Last 60 Days</strong>, <strong>Year to Date</strong>, or <strong>Life to Date</strong></p></li>
-<li><p>Hover over a data point to view number of enrollments on a specific date</p></li>
-<li><p>Click the number under <strong>Enrollments</strong> to view all contacts enrolled in the workflow</p></li>
-<li><p>Click the number under <strong>Active</strong> to view all contacts that are currently in the process of completing the workflow</p></li>
-<li><p>Click the number under <strong>Converted</strong> to view all contacts who reached a <strong>Set Goal</strong></p></li>
-<li><p>Click the number under <strong>Conversion Rate</strong> to view the percent of contacts who reached a <strong>Set Goal</strong></p></li>
-<li><p>Click the number to the right of the row entitled <strong>Lost</strong> to view contacts who were unable to complete the workflow</p></li>
-<li><p>Click the number to the right of the row entitled <strong>Completed</strong> to view contacts who reached the end of a the workflow</p></li>
-</ul>
-</li>
+<li><p>Click the topic, list, form, etc. to pull up the trigger associated with the workflow</p></li>
+<li><p>Click <a class="reference external" href="/users/automation/guides/workflows/design_a_workflow.html">Design Workflow</a> to create your workflow</p></li>
+<li><p>Click <a class="reference external" href="/users/automation/guides/emails/emails.html">Emails</a> to view emails associated with the workflow, such as a confirmation email</p></li>
+<li><p>Click <a class="reference external" href="/users/automation/guides/workflows/performance.html">Performance</a> to view workflow enrollment data</p></li>
 </ol>
 </div>
 

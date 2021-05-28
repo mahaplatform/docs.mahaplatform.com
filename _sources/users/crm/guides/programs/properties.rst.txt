@@ -12,16 +12,16 @@ Properties
 #. Click **Select an option** under **Input Type**
 #. Select an option:
 
-   * **Date Field**: program members will enter a date
-   * **Address Field**: program members will enter an address
-   * **Checkbox**: program members will check a box if it applicable to them (use for y/n, t/f, etc.)
-   * **Checkbox Group**: program members will check all of the boxes from a group that apply to them (use when there are multiple options for data collection)
-   * **Color Picker**: program members will select a color
+   * **Address Field**: Program members enter an address
+   * **Checkbox**: Program members check a box if it applicable to them (use for y/n, t/f, etc.)
+   * **Checkbox Group**: Program members check all of the boxes from a group that apply to them (use when there are multiple options for data collection)
+   * **Color Picker**: Program members select a color
+   * **Date Field**: Program members enter a date
 #. Enter the name of the property
 #. Enter a label
 #. Enter instructions
-#. Click the :icon:`square-o` under **Required** if you need all contacts to fill out this field
+#. Click the :icon:`square-o` under **Required** if you want all contacts to fill out this field
 #. (For **Checkbox**) Enter a prompt
 #. Click **Save**
 #. To change the order of appearance of the properties, click and hold a property and rearrange
-#. Click :icon:`ellipsis-h` to the right of the row to edit, delete, or disable a property
+#. Click :icon:`ellipsis-h` to the right of the row to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_, delete, or disable a property
