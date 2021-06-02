@@ -7,6 +7,7 @@ Save Filter
 #. Click **Save**
 #. Enter a title
 #. If you desire, click **Share filter with others**
+
    * Share with everyone, projects, teams, or users by clicking on the name or title under **Find a user**
    * Repeat with all you wish to share your filter
    * Click **Done**

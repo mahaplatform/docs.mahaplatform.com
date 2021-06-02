@@ -1,5 +1,5 @@
 Exporting Records
-==============
+=================
 
 | When you need to export a collection of data, you should export the records.
 | You should navigate to the page that contains the records you wish to export using the :icon:`bars` in the ribbon.

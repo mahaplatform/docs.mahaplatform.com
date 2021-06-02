@@ -1,5 +1,5 @@
-Update Lists
-============
+Update Workflow Lists
+=====================
 
 | The **Update Lists** block allows you add or remove contacts from a list.
 | To use this block, you will need to have navigated to the workflow design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
