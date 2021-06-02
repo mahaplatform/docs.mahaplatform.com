@@ -10,7 +10,10 @@ Designing a Workflow
 #. Click **Workflows**
 #. Click on a workflow
 #. Click **Design Workflow**
-#. You can add a new `block </users/automation/guides/workflows/workflow_blocks.html>`_ to your workflow by clicking and dragging the desired block under **Blocks** to the desired place in the workflow
+#. You can add a new block to your workflow by clicking and dragging the desired block (block explanations and guides hyperlinked below) to the workflow
+
+   * `If/Then </users/automation/guides/workflows/if_then_block.html>`_ , `Wait </users/automation/guides/workflows/wait_block.html>`_ , `Set Goal </users/automation/guides/workflows/set_goal_block.html>`_ , `Set Variable </users/automation/guides/workflows/set_variable_block.html>`_ , `Update Property </users/automation/guides/workflows/update_property_block.html>`_ , `Update Consent </users/automation/guides/workflows/update_consent_block.html>`_ , `Update Lists </users/automation/guides/
+   workflows/update_lists_block.html>`_ , `Enroll in Workflow </users/automation/guides/workflows/enroll_in_a_workflow_block.html>`_ , `Send Email </users/automation/guides/workflows/send_email_block.html>`_ , `Send SMS </users/automation/guides/workflows/send_sms_block.html>`_ , `Send Internal Email </users/automation/guides/workflows/send_internal_email_block.html>`_ , `Send Internal SMS </users/automation/guides/workflows/send_internal_sms_block.html>`_
 #. This will trigger a new tab where you can customize the block
 #. To edit an already created block, hover over the block and click :icon:`pencil` and make changes in the tab
 #. To duplicate a block, hover over the block and click :icon:`files-o`
