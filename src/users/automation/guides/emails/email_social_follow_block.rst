@@ -9,7 +9,7 @@ Social Follow Email Block
 #. By default, FaceBook, Twitter, and a customizable link for your website will be linked
 
    * You also have the option to provide a link to your account on Instagram, LinkedIn, Medium, Pinterest, Snapchat, Vimeo, and YouTube
-#. Click **:icon:`plus` Add Service** and select a social media platform to add an additional link to your block
+#. Click ** :icon:`plus` Add Service** and select a social media platform to add an additional link to your block
 #. Click the :icon:`trash-o` to delete a link
 #. If desired, replace the default texts
 #. If desired, change the properties of the social follow links in the **Style** tab
