@@ -8,7 +8,7 @@ Social Share Email Block
 #. By default, FaceBook, Twitter, and an option to forward the email to a friend will be linked
 
   * You also have the option to provide a link to share the email on LinkedIn and Pinterest
-#. Click **:icon:`plus` Add Service** and select a social media platform to add an additional link to your block
+#. Click ** :icon:`plus` Add Service** and select a social media platform to add an additional link to your block
 #. Click the :icon:`trash-o` to delete a link
 #. If desired, change the properties of the social share links in the **Style** tab
 #. If desired, change the properties of the icons in the **Settings** tab
