@@ -3,7 +3,7 @@ Designing an Email
 
 | There are a lot of customizations available to create a unique email within the Maha Platform for your contacts.
 | Designing an email using the following steps allows you to edit an existing email.
-| You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a `template </users/crm/guides/programs/templates.html>`_ .
+| You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a `template </users/crm/guides/programs/templates.html>`_ or you design a `workflow `template </users/automation/guides/workflows/design_a_workflow.html>`_ .
 
 #. Click the :icon:`bars` in the ribbon
 #. Click **Automation**

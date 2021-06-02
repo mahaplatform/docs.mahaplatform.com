@@ -27,7 +27,7 @@ Creating a Store
 #. Create a confirmation email
 
    * Choose a sender
-   * Enter the email addess customer's will write to if they choose to reply to their confirmation email
+   * Enter the email addess customers will write to if they choose to reply to their confirmation email
    * Enter an email subject
    * Select an existing email template or create a new template
   #. To go back and edit information, click **Prev**, and to return click **Next**

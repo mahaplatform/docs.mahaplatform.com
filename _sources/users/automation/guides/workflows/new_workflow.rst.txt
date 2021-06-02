@@ -15,5 +15,5 @@ Creating a New Workflow
    * **List Update**: Enter title, select if triggered by addition or removal, choose a topic, and select if contacts can only be enrolled once
    * **Property Update**: Enter a title and choose a property
    * **Email Open**: Enter a title and choose an email
-   * **Manual Enrollment**: Enter a title and select if the workflow is for **Marketing** or if it is **Transactional** (the contact has purchased or been enrolled in a service)
+   * **Manual Enrollment**: Enter a title and select if the workflow is for **Marketing** purposes or if it is **Transactional** (the contact has purchased or been enrolled in a service)
 #. Click **Save**
