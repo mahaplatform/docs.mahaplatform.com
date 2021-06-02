@@ -5,6 +5,6 @@ Switching Organizations
 | To make this switch, follow the steps below.
 
 #. Click the :icon:`bars` in the ribbon
-#. If your current organization name is not displayed, click the :icon:`angle-left` until it is
-#. Click on your current organization's name
+#. If your current organization name is not displayed, click :icon:`angle-left` until your organization name is shown
+#. Click on your current organization
 #. Click the organization to which you would like to switch

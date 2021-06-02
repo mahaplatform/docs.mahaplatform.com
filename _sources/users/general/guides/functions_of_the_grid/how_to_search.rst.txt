@@ -9,6 +9,7 @@ How to Search
 #. Type and wait for results to appear
 #. Click :icon:`times-circle` to delete search and return to all records
 #. Searching all of the Maha Platform:
+
    * Click :icon:`search` in the ribbon on the left hand side of the screen
    * Click **Find Anything** and type what you want to find
    * Click on the result to view

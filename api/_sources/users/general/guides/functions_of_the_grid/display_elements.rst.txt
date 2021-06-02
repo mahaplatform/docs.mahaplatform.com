@@ -1,5 +1,5 @@
 Display/Hide Elements
-================
+=====================
 
 | When displaying data, most rows have many columns that identify or describe. Not all of these columns will automatically be shown. For example, IDs must manually be chosen to be displayed.
 | If you do not want to see certain columns, you can hide (as well as display) them using the following steps.

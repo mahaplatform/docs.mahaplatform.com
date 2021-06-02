@@ -1,7 +1,7 @@
 Criteria Options
 ================
 
-| The filter feature allows you to carefully curate the results shown. One of the ways it does this is using filter criteria options.
+| The filter feature allows you to carefully curate the results you are shown. One of the ways it does this is using filter criteria options.
 | Users will be given this option when creating an `AND </users/general/guides/functions_of_the_grid/filter_and.html>`_ or an `OR </users/general/guides/functions_of_the_grid/filter_or.html>`_ conditional. Click on the hyperlinks if you are having trouble navigating to the criteria options pop-up.
 | Below the filter criteria options are defined.
 

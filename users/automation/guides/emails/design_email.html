@@ -46,7 +46,7 @@
     
     <link rel="index" title="Index" href="../../../../genindex.html" />
     <link rel="search" title="Search" href="../../../../search.html" />
-    <link rel="next" title="Email Performance" href="email_performance.html" />
+    <link rel="next" title="Text Email Block" href="email_text_block.html" />
     <link rel="prev" title="Automation" href="../../index.html" /> 
 </head>
 
@@ -107,10 +107,32 @@
 <li class="toctree-l1"><a class="reference internal" href="../../../analytics/index.html">Analytics</a></li>
 <li class="toctree-l1 current"><a class="reference internal" href="../../index.html">Automation</a><ul class="current">
 <li class="toctree-l2 current"><a class="current reference internal" href="#">Designing an Email</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_text_block.html">Text Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_divider_block.html">Divider Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_image_block.html">Image Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_button_block.html">Button Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_preference_block.html">Preferences Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_social_share_block.html">Social Share Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_social_follow_block.html">Social Follow Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_video_block.html">Video Email Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="email_web_version_block.html">Web Version Email Block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="email_performance.html">Email Performance</a></li>
 <li class="toctree-l2"><a class="reference internal" href="emails.html">Emails</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../workflows/create_a_workflow.html">Creating a Workflow via Automation</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../workflows/design_a_workflow.html">Designing a Workflow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/if_then_block.html">If/Then Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/wait_block.html">Wait Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/set_goal_block.html">Set Goal Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/set_variable_block.html">Set Variable Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/update_property_block.html">Update Property Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/update_consent_block.html">Update Consent Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/update_lists_block.html">Update Workflow Lists</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/update_topics_block.html">Update Topics Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/enroll_in_a_workflow_block.html">Enroll in Workflow</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/send_email_block.html">Send Email Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/send_sms_block.html">Send SMS Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/send_internal_email_block.html">Send Internal Email Workflow Block</a></li>
+<li class="toctree-l2"><a class="reference internal" href="../workflows/send_internal_sms_block.html">Send Internal SMS Workflow Block</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../workflows/enroll_contacts.html">Enrolling Contacts in a Workflow</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../workflows/new_workflow.html">Creating a New Workflow</a></li>
 <li class="toctree-l2"><a class="reference internal" href="../workflows/trigger_types.html">Trigger Types</a></li>
@@ -207,7 +229,7 @@
 <div class="line-block">
 <div class="line">There are a lot of customizations available to create a unique email within the Maha Platform for your contacts.</div>
 <div class="line">Designing an email using the following steps allows you to edit an existing email.</div>
-<div class="line">You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a <a class="reference external" href="/users/crm/guides/programs/templates.html">template</a> or you design a <a class="reference external" href="/users/automation/guides/workflows/design_a_workflow.html">workflow `template</a> .</div>
+<div class="line">You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a <a class="reference external" href="/users/crm/guides/programs/templates.html">template</a> or design a <a class="reference external" href="/users/automation/guides/workflows/design_a_workflow.html">workflow</a> .</div>
 </div>
 <ol class="arabic simple">
 <li><p>Click the <i class="fa fa-bars"></i> in the ribbon</p></li>
@@ -215,12 +237,22 @@
 <li><p>Click <strong>Emails</strong></p></li>
 <li><p>Click on an email</p></li>
 <li><p>Click <strong>Design Email</strong></p></li>
-<li><p>You can add a new <a class="reference external" href="/users/automation/guides/emails/email_design_blocks.html">block</a> to your email by clicking and dragging the desired block under <strong>Blocks</strong> to the desired place in the email</p></li>
+<li><p>You can add a new block to your email by clicking and dragging the desired block (block explanations and guides hyperlinked below) to the email</p>
+<ul class="simple">
+<li><p><a class="reference external" href="/users/automation/guides/emails/email_text_block.html">Text</a> , <a class="reference external" href="/users/automation/guides/emails/email_divider_block.html">Divider</a> , <a class="reference external" href="/users/automation/guides/emails/email_image_block.html">Image</a> ,`Button &lt;/users/automation/guides/emails/email_button_block.html&gt;`_ ,`Preferences &lt;/users/automation/guides/emails/email_preference_block.html&gt;`_ , <a class="reference external" href="/users/automation/guides/emails/email_social_share_block.html">Social Share</a> , <a class="reference external" href="/users/automation/guides/emails/email_social_follow_block.html">Social Follow</a> , <a class="reference external" href="/users/automation/guides/emails/email_video_block.html">Video</a> , <a class="reference external" href="/users/automation/guides/emails/email_web_version_block.html">Web Version</a></p></li>
+</ul>
+</li>
 <li><p>This will trigger a new tab entitled <strong>Email</strong> where you can customize the block</p></li>
 <li><p>To edit an already created block, hover over the block and click <i class="fa fa-pencil"></i> and make changes in the tab</p></li>
 <li><p>To duplicate a block, hover over the block and click <i class="fa fa-files-o"></i></p></li>
 <li><p>To delete a block, hover over the block and click <i class="fa fa-trash-o"></i></p></li>
 <li><p>To rearrange the blocks, drag the created blocks around the template</p></li>
+<li><p>If desired, make custom changes to the properties of the Page, Header, Body, and Footer of your email in the <strong>Design</strong> tab</p></li>
+<li><p>If desired, make changes to the details of the email under <strong>Settings</strong></p>
+<ul class="simple">
+<li><p>You can edit the email address of the sender and the address recipients will write to if they choose to reply to their email, the email addresses you want to CC and BCC, an email subject, and a preview text</p></li>
+</ul>
+</li>
 <li><p>To see how your email will appear on a device, click the drop-down menu that shows your current display. Click <strong>Desktop</strong>, <strong>Tablet</strong>, or <strong>Mobile</strong> to switch the display mode</p>
 <ul class="simple">
 <li><p>You can also change the display for your device as you edit in the two drop-down menus to the right: Change the orientation (Landscape and Portrait) and/or change the magnification (50%, 75%, or 100%)</p></li>
@@ -237,7 +269,7 @@
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="email_performance.html" class="btn btn-neutral float-right" title="Email Performance" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="email_text_block.html" class="btn btn-neutral float-right" title="Text Email Block" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
         <a href="../../index.html" class="btn btn-neutral float-left" title="Automation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 

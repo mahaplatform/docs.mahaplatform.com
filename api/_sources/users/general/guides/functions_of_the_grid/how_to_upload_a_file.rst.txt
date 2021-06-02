@@ -5,6 +5,7 @@ Uploading a File
 | You should have arrived at a pop-up tab entitled **Choose File Source**. Refer to the action's specific guide if you are having trouble arriving at this screen.
 
 #. Click one of the following four options:
+
      * **From device**: `Drop a file or manually upload a file`
      * **The Web**: `Enter a URL`
      * **Maha Drive**: `Browse files from` Accounting Forms and Information; Grants, Projects, and Contracts; Human Resources; `or` Procedures

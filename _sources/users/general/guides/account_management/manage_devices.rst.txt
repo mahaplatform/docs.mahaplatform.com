@@ -8,5 +8,6 @@ Managing Devices
 #. Click **Manage Devices**
 #. Click on a device to view device details
 #. Manage previous devices from your current device:
+
    * Remove the device from your history by clicking **Remove this Device**
    * Terminate your session by clicking **Signout**

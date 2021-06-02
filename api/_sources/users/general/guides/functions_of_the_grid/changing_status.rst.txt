@@ -1,5 +1,5 @@
 Changing the Status
-===============
+===================
 
 | Sometimes an item, such an expense, will allow you to change its status, which lets others know what steps need to be taken or how the item has been interacted with.
 

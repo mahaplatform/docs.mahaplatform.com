@@ -11,5 +11,5 @@ Commenting
 #. If desired, `upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ a file
 #. Hit enter or return
 #. To reply to a comment, hover over the comment and click the :icon:`circle-left`
-#. To react to a comment, hover over the comment, click the :icon:`smile` and choose emoji
+#. To react to a comment, hover over the comment, click the :icon:`smile` and choose an emoji
 #. To delete a comment, hover over the comment and click the :icon:`times`
