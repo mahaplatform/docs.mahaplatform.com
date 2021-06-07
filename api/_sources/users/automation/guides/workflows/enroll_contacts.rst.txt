@@ -4,7 +4,7 @@ Enrolling Contacts in a Workflow
 | Contacts will be enrolled automatically following an event, depending on the workflow `trigger type </users/automation/guides/workflows/trigger_types.html>`_ you choose.
 | In addition to triggered enrollment, you can manually add the desired contact(s) to a workflow by following the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Automation**
 #. Click **Workflows**
 #. Click on the workflow to which you want to add the contacts

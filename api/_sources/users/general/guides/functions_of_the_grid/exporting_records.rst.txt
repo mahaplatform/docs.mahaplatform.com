@@ -2,7 +2,7 @@ Exporting Records
 =================
 
 | When you need to export a collection of data, you should export the records.
-| You should navigate to the page that contains the records you wish to export using the :icon:`bars` in the ribbon.
+| You should navigate to the page that contains the records you wish to export using :icon:`bars` in the ribbon.
 
 #. Click the :icon:`download` located near the upper right hand corner of the page
 #. Most times, all records are automatically selected to be exported. You can individually deselect certain records by clicking the :icon:`check-square` before the column type, or click **mass deselect** and click the columns desired

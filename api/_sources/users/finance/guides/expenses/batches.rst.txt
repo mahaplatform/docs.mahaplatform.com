@@ -3,7 +3,7 @@ Batches
 
 | A batch is a compiled version of one or more expenses exported from the **Report** section.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finances**
 #. Click **Expenses**
 #. Click **Batches**

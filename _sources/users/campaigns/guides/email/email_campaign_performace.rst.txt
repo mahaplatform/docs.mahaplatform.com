@@ -3,7 +3,7 @@ Email Performance
 
 | **Performance** keeps a record of interactions with the email campaign.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Email**
 #. Click an email

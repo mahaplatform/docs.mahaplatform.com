@@ -4,7 +4,7 @@ Creating a Form
 | A form offers organizations a way to collect data from contacts.
 | To create a form, follow the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Forms**
 #. Click the :icon:`plus` in the upper right hand corner
 #. Select a program for which you are creating the form

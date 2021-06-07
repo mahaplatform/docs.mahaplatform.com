@@ -3,7 +3,7 @@ Events
 
 | **Events** keeps a record of all events, current/upcoming and past, that have been organized by a program of your organization.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Events**
 #. Click **Events**
 #. Click :icon:`calendar`**Upcoming Events** to view events currently happening and events that are scheduled to occur in the future

@@ -3,7 +3,7 @@ Adding a Cash Advance
 
 | When you know you will need funds in the future, you should send a request by adding a new cash advance. Once the request has been sent, you can check the status ...
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**

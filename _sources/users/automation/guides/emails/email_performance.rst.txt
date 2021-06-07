@@ -3,7 +3,7 @@ Email Performance
 
 | **Performance** keeps a record of interactions email recipients have had with an email.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Automation**
 #. Click **Emails**
 #. Click on desired email

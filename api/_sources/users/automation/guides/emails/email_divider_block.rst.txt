@@ -6,4 +6,4 @@ Divider Email Block
 
 #. Place a **Divider** block in your email where desired
 #. By default, the divider will be a solid black line. If desired, change the properties of the divider
-#. Click **Done
+#. Click **Done**

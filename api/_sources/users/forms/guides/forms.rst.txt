@@ -4,7 +4,7 @@ Forms
 | **Forms** keeps a record of all the forms created in an organization.
 | To learn how to create a form, click `here </users/forms/guides/create_a_new_form.html>`_
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Forms**
 #. Click on a form to view details, an audit trail, comments, automation, and performance
 #. Click :icon:`ellipsis-v` to `edit </users/forms/guides/create_a_new_form.html>`_ the form, get the embed code of the form (used to embed a form in a website via code), or delete the form

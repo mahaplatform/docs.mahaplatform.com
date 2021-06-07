@@ -1,13 +1,13 @@
 Custom Fields
 =============
 
-| Like **Contact Fields**, these fields belong to the contact. However, if a field response differs from an existing contact property, the form submission will NOT trigger the contact to update.
+| Like `Contact Fields </users/form/guides/contact_fields.html>`_ , these fields belong to the contact. However, if a field response differs from an existing contact property, the form submission will NOT trigger the contact to update.
 
 #. **ADDRESS FIELD**: Respondent enters address
 #. **CHECKBOX**: Respondent selects a checkbox if it applies to them
 #. **CHECKBOXES**: Respondent selects checkboxes that apply to them
 #. **DATE FIELD**: Respondent selects date
-#. **DROP DOWN**: Respondent clicks a drop down menu and selects best option
+#. **DROP DOWN**: Respondent clicks a drop-down menu and selects best option
 #. **FILE UPLOAD**: Respondent uploads a file from their device
 #. **HIDDEN FIELD**: ??
 #. **INSTRUCTIONS**: Displays a textfield, can be used to instruct

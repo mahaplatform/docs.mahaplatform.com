@@ -1,7 +1,7 @@
 Commenting
 ==========
 
-| You should navigate to the page on which you want to comment using the :icon:`bars` in the ribbon.
+| You should navigate to the page on which you want to comment using :icon:`bars` in the ribbon.
 | Comments can be viewed by anyone who has access to the feature you are commenting under.
 
 #. Click the bar entitled **Write a comment...** and type your comment

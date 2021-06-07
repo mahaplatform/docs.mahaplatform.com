@@ -3,7 +3,7 @@ Adding an Expense
 
 | When you make a purchase with a work credit card or a store account, you should record this by adding a new expense.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**

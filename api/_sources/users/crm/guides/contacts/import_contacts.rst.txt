@@ -8,6 +8,7 @@ Importing Contacts
 #. Select the program to which the contacts you would like to import belong
 #. Choose a contact source
 
-   * Click **Excel or CSV File** and `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ the file containing the contacts
+   * Click **Excel or CSV File** and `upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ the file containing the contacts
    * Click **Add a Source** and select one of the external contact record platforms: **Constant Contact, Google Contacts, Mailchimp** or **Outlook 365**
-#. Click **Save** ?
+#. Select desired contacts
+#. Click **Save**

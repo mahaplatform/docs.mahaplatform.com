@@ -1,9 +1,9 @@
 Lists
 =====
 
-| **Lists** displays the name of contact groups of a program.
+| **Lists** displays the name of the contact groups of a program.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Programs**
 #. Click a program
@@ -16,4 +16,6 @@ Lists
 
    * To add a contact to a list, refer to `Adding a Contact to a List or a Program </users/crm/guides/contacts/add_contact.html>`_
 #. Click the tab entitled **Automations** to view `workflows </users/automation/guides/workflows/workflows.html>`_
+
+   *Click **Create Workflow** to create a `new workflow </users/automation/guides/workflows/create_a_workflow.html>`_
 #. To view another template, click :icon:`chevron-left` and choose the desired template

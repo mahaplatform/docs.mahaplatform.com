@@ -5,7 +5,7 @@ Taxes
 | The Maha Platform is a non-for profit organization, and are thus exempt for federal income taxes.
 | Individual and corporate taxes, however, need to be payed, and will be listed here.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Taxes**

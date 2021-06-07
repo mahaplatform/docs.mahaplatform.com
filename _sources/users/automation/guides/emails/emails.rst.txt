@@ -4,7 +4,7 @@ Emails
 | You can not create an email directly through **Automation**. Rather, **Emails** keeps a record of emails that have been created, and allows you to design/edit these existing emails.
 | You can create a new email through other sections of the Maha Platform, such as `templates </users/crm/guides/programs/templates.html>`_ .
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Automation**
 #. Click **Emails**
 #. Click an email to view details, an audit trail, comments and performance

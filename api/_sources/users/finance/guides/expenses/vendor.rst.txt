@@ -3,7 +3,7 @@ Vendors
 
 | **Vendors** displays a list of all the vendors from which your association has bought items.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Vendor**

@@ -6,7 +6,7 @@ Adding a New Contact
 | If you are adding more than one contact whose information is already stored elsewhere, you can opt to import these contacts.
 | Click the hyperlinks for guides on each of these options.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Contacts**
 #. Click the :icon:`plus` in the upper right hand corner
