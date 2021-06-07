@@ -3,7 +3,7 @@ Adding a Reimbursement
 
 | When you make a purchase with your own money for work-related expenses that should be reimbursed, you should record this by adding a new reimbursement.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**

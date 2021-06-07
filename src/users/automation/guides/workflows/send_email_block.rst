@@ -3,7 +3,7 @@ Send Email Workflow Block
 
 | The **Send Email** block allows you to send an email to a contact's email address.
 | This block is used to send a notification to the contact enrolled in the workflow. Click `here </users/automation/guides/workflows/send_internal_email_block.html>`_ to notify someone internally (within your organization).
-| To use this block, you will need to have navigated to the workflow design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
+| To use this block, you will need to have navigated to the workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ if you are having trouble reaching this point.
 
 #. Place a **Send Email** block in your workflow where desired
 #. Click **Choose an email**
@@ -13,7 +13,7 @@ Send Email Workflow Block
    * Enter a title
    * Choose a template
    * Choose a sender
-   * Enter the email addess customers will write to if they choose to reply to their confirmation email
+   * Enter the email address customers will write to if they choose to reply to their confirmation email
    * Enter a subject
    * Click **Save**
 #. Click **Done**

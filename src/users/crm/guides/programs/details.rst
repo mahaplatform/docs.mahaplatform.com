@@ -3,7 +3,7 @@ Details
 
 | **Details** displays basic program information and an audit trail.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Programs**
 #. Click a program

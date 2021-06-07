@@ -3,7 +3,7 @@ Creating a New Workflow
 
 | There are a couple of ways to create a new workflow. To do so directly from **Automation**, follow the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Automation**
 #. Click **Workflows**
 #. Click the :icon:`plus` in the upper right hand corner

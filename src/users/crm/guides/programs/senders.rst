@@ -3,7 +3,7 @@ Senders
 
 | **Senders** displays the emails that are used to send messages to contacts of the program.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Programs**
 #. Click a program

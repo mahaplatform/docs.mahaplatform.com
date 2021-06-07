@@ -4,7 +4,7 @@ Adding Mileage
 | When you make a trip using business miles, you should report this by adding new mileage.
 | If trips are frequent, consider using the `Import Bulk Mileage </users/general/guides/expenses/items/import_bulk_mileage.html>`_ feature
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**

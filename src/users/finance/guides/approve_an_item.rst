@@ -3,7 +3,7 @@ Approving An Item
 
 | g
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Approvals**

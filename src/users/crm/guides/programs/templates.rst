@@ -3,7 +3,7 @@ Templates
 
 | **Templates** allows you to view and create customized email designs.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Programs**
 #. Click a program

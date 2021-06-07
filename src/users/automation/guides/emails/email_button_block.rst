@@ -10,9 +10,9 @@ Button Email Block
 
    * **Web Address**: Enter a web address
    * **Form**: Choose a form
-   * **Adjust Your Preferences**:
-   * **Event: Add to Calendar**:
-   * **Event: Registration**: ??
+   * **Adjust Your Preferences**: Opens page that allows recipients to adjust email preferences
+   * **Event: Add to Calendar**: Choosing an upcoming event in your organization
+   * **Event: Registration**: Choosing an upcoming event in your organization
 #. If desired, change the properties of the button under the **Style** tab
 #. By default, the button will span the width of the whole email. If desired, click **Width** and change the width to **Fit to Text**
 #. Click **Done**

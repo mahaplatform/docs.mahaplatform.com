@@ -3,7 +3,7 @@ New Outbound SMS Campaign
 
 
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Outbound SMS**
 #. Click the :icon:`plus` in the upper right hand corner

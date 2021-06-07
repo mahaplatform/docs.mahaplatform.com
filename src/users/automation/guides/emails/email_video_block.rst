@@ -10,12 +10,12 @@ Video Email Block
 #. Click **Done**
 #. Click the checkbox entitled **Show Caption** to add a text block that will appear with the video
 
-  * Enter the caption text
-  * You can use `tokens </users/general/guides/functions_of_the_grid/tokens.html>`_ in your caption and customize the text using the icons in the first row
+   * Enter the caption text
+   * You can use `tokens </users/general/guides/functions_of_the_grid/tokens.html>`_ in your caption and customize the text using the icons in the first row
 #. If desired, change the properties of the video in the **Style** tab
 #. If desired, change the position of the video or the video width in the **Settings** tab
 
-  * Select **Top**, **Bottom**, **Left**, or **Right**
-  * Select **One-Quarter**, **One-Third**, **One-Half**, **Two-Thirds**, or **Three Quarters**
-  * The positioning option is really only useful when you have opted to display a caption. The video will be positioned relative to this block of text
+   * Select **Top**, **Bottom**, **Left**, or **Right**
+   * Select **One-Quarter**, **One-Third**, **One-Half**, **Two-Thirds**, or **Three Quarters**
+   * The positioning option is really only useful when you have opted to display a caption. The video will be positioned relative to this block of text
 #. Click **Done**

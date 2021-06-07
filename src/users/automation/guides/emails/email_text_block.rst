@@ -6,6 +6,7 @@ Text Email Block
 
 #. Place a **Social Share** block in your email where desired
 #. Edit the default text
+
    * You can use `tokens </users/general/guides/functions_of_the_grid/tokens.html>`_ in your caption and customize the text using the icons in the first row
 #. If desired, change the properties of the text in the **Style** tab
 #. If desired, change the number of columns in the **Settings** tab

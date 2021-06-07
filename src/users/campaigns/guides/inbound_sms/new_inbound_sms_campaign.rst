@@ -3,7 +3,7 @@ New Inbound SMS Campaign
 
 
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Inbound SMS**
 #. Click the :icon:`plus` in the upper right hand corner

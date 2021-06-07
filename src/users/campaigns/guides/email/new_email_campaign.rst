@@ -3,7 +3,7 @@ Create a New Email Campaign
 
 | To create a new email campaign, follow the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Email**
 #. Click the :icon:`plus` in the upper right hand corner

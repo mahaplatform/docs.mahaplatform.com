@@ -5,10 +5,10 @@ The **OR** Conditional
 | You should have navigated to the filter pop-up menu with conditional options. Refer to `filter guide </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ if you are having trouble navigating to this page.
 
 #. Click **OR**
-#. Click the first **+ ADD CRITERIA** in the box
+#. Click the first :icon:`plus` **ADD CRITERIA** in the box
 
     * There is no need to click **OR** again unless you want to create nested conditionals
 #. Select a criteria category (eg. first name)
 #. If available, select a `criteria option </users/general/guides/functions_of_the_grid/criteria_option.html>`_ (eg. equals)
 #. Enter criteria (be aware of criteria option you have selected. For example, if you have chosen equals, your result must perfectly match what you type now to pass through your filter)
-#. Continue adding criteria by clicking **+ ADD CRITERIA** in the box until satisfied
+#. Continue adding criteria by clicking :icon:`plus` **ADD CRITERIA** in the box until satisfied

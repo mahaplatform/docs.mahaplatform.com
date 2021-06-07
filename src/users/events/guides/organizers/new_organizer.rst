@@ -4,7 +4,7 @@ Adding a New Organizer
 | A contact who creates an `event </users/events/guides/events/events.html>`_ will automatically become an organizer.
 | To manually add an organizer to your organization, follow the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Events**
 #. Click **Organizers**
 #. Click the :icon:`plus` in the upper right hand corner

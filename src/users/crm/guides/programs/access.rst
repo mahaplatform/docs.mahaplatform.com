@@ -3,7 +3,7 @@ Access
 
 | **Access** displays program members or groups (eg. everyone) and their access privileges (view, edit, or manage).
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Programs**
 #. Click a program
