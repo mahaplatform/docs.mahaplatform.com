@@ -1,5 +1,5 @@
-Social Follow Email Block
-=========================
+Social Follow Block
+===================
 
 | The **Social Follow** block allows you to add customizable links that enable the email recipient to follow the social media accounts linked to the sender.
 | Note that the default links connect to the social media platform, not your account. Clear the default URL and paste the URL of your personal account instead.
