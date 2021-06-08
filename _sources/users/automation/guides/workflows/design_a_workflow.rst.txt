@@ -24,3 +24,4 @@ Designing a Workflow
 
    * To view your version history, click **Versions** and click on desired version
    * To restore a previous version of your workflow, click **Revert to Version**
+   * You can also publish a workflow from this page, by clicking **Publish Version**

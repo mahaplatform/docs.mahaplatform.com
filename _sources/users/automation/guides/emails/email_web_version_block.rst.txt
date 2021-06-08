@@ -1,5 +1,5 @@
-Web Version Email Block
-=========================
+Web Version Block
+=================
 
 | The **Web Version** block allows you to offer email recipients the ability to view the email in a browser if they experience display issues.
 | This default version of this block usually suffices. The text is generally applicable and a link is already provided.
