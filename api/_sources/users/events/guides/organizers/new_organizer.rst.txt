@@ -1,5 +1,5 @@
-Adding a New Organizer
-======================
+Organizers: Adding a New Organizer
+==================================
 
 | A contact who creates an `event </users/events/guides/events/events.html>`_ will automatically become an organizer.
 | To manually add an organizer to your organization, follow the steps below.

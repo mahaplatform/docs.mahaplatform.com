@@ -1,5 +1,5 @@
-Senders
-=======
+Programs: Managing Senders
+==========================
 
 | **Senders** displays the emails that are used to send messages to contacts of the program.
 

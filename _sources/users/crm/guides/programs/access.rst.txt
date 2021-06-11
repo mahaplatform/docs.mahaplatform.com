@@ -1,7 +1,7 @@
-Access
-======
+Programs: Managing Access
+=========================
 
-| **Access** displays program members or groups (eg. everyone) and their access privileges (view, edit, or manage).
+| **Access** displays program members or groups (e.g. everyone) and their access privileges (view, edit, or manage).
 
 #. Click :icon:`bars` in the ribbon
 #. Click **CRM**

@@ -6,7 +6,7 @@ Forms
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Forms**
-#. Click on a form to view details, an audit trail, comments, automation, and performance
+#. Click on a form to view details, an audit trail, and comments
 #. Click :icon:`ellipsis-v` to `edit </users/forms/guides/create_a_new_form.html>`_ the form, get the embed code of the form (used to embed a form in a website via code), or delete the form
 #. Click `Design Form </users/forms/guides/design_form.html>`_ to edit the form
 #. Click **View Public Form** to view the current version of the form in a separate test tab

@@ -1,5 +1,5 @@
-Adding a New Contact
-====================
+Contacts: Adding a New Contact
+==============================
 
 | When adding contacts to the CRM, you are given two options.
 | The first option will allow you to manually fill out a contacts information.

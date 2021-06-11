@@ -1,5 +1,5 @@
-Adding a Contact to a List or a Program
-=======================================
+Contacts: Adding a Contact to a List or a Program
+=================================================
 
 | When you create a contact, you will have the option to add them to lists or programs, as detailed in `Adding a Contact </users/crm/guides/contacts/add_contact.html>`_
 | If you want to add an already created contact to a list or program, though, you should follow the steps below.

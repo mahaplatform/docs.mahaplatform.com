@@ -1,5 +1,5 @@
-Merging
-=======
+Functions of the Grid: Merging Two Items
+========================================
 
 | When you want to merge already created vendors, contacts, etc., take the following steps. what can be merged?
 | You should navigate to the page that contains what you wish to merge using :icon:`bars` in the ribbon.

@@ -1,5 +1,5 @@
-Set Variable Block
-==================
+Workflows: Adding a Set Variable Block
+======================================
 
 | The **Set Variable** block allows you to mark a specific point in the workflow.
 | A contact who reaches this block will retain the variable - now a `token </users/general/guides/functions_of_the_grid/tokens.html>`_ of the contact - as they move through the workflow.

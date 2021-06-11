@@ -1,5 +1,5 @@
-Signing Out of Your Account
-===========================
+Account Management: Signing Out of Your Account
+===============================================
 
 | You can sign out of your account using the steps below.
 | If you are a part of multiple organizations and simply would like to switch a different one, refer to `Switching Organizations </users/general/guides/functions_of_the_grid/change_organizations.html>`_

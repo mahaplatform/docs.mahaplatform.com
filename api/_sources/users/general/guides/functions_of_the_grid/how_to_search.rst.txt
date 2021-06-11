@@ -1,7 +1,7 @@
-How to Search
-=============
+Functions of the Grid: Searching Records
+========================================
 
-| Searching is a helpful feature when there are many records and you wish to find a specific result, or many results that contain a common aspect (eg. all results from a certain project).
+| Searching is a helpful feature when there are many records and you wish to find a specific result, or many results that contain a common aspect (e.g. all results from a certain project).
 | You should navigate to the page that contains the records through which you wish to search using :icon:`bars` in the ribbon.
 | If you wish to apply more than one search criteria, you should consider using a `filter </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_.
 

@@ -1,5 +1,5 @@
-Commenting
-==========
+Functions of the Grid: Commenting
+=================================
 
 | You should navigate to the page on which you want to comment using :icon:`bars` in the ribbon.
 | Comments can be viewed by anyone who has access to the feature you are commenting under.

@@ -1,5 +1,5 @@
-Workflow Performance
-====================
+Workflows: Viewing the Performance of a Workflow
+================================================
 
 | **Performance** keeps a record of enrollments to a workflow, as well as degree of interaction with a workflow, such as contact conversion.
 

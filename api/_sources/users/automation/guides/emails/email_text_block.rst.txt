@@ -1,5 +1,5 @@
-Text Block
-==========
+Emails: Adding a Text Block
+===========================
 
 | The **Text** block allows you to add a customizable text block to your email.
 | To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.

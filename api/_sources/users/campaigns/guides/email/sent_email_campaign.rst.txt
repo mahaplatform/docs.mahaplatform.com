@@ -1,5 +1,5 @@
-Interacting With a Sent Email Campaign
-======================================
+Email: Interacting With a Sent Email Campaign
+=============================================
 
 | Once your email campaign has been sent, you may perform the following actions.
 | You should have clicked :icon:`ellipsis-v` when viewing the desired `email campaign </users/campaigns/guides/email/email_campaign.html>`_ .
@@ -9,7 +9,7 @@ Interacting With a Sent Email Campaign
 
    * Enter the template title
    * Click **Save**
-   * Your email campaign will now be available as a `template </users/crm/guides/programs/templates.html>`_ 
+   * Your email campaign will now be available as a `template </users/crm/guides/programs/templates.html>`_
 #. **Resend Campaign**:
 
    * You can curate a list of recipients under **To** (options detailed `here </users/campaigns/guides/email/new_email_campaign.html>`_ )

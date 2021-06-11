@@ -1,5 +1,5 @@
-Switching Organizations
-=======================
+Functions of the Grid: Switching Organizations
+==============================================
 
 | Some users may be a member of more than one organization. All of the features contain records specific to the associated organization, so you must switch to another organization to view its data.
 | To make this switch, follow the steps below.

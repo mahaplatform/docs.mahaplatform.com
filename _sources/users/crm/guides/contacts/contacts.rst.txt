@@ -1,5 +1,5 @@
-Contacts
-========
+Contacts: Interacting with a Contact
+====================================
 
 | **Contacts** keeps a record of all the people who have been added or imported by someone belonging to an organization. Contacts will also be added to the CRM when the contact provides their information - for example, by filling out a form for an event.
 | In addition to their name, personal information, and contact information, the CRM shows an audit trail which keeps track of all interactions with the contact.

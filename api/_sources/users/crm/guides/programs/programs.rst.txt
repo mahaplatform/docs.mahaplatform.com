@@ -1,5 +1,5 @@
-Programs
-========
+Programs: Interacting with a Program
+====================================
 
 | **Programs** keeps a record of all the programs that have been added by an organization.
 | Each program will have seven elements, which are hyperlinked below. Click to learn more about each element of the program.

@@ -1,5 +1,5 @@
-Email Performance
-=================
+Emails: Viewing the Performance of an Email
+===========================================
 
 | **Performance** keeps a record of interactions email recipients have had with an email.
 

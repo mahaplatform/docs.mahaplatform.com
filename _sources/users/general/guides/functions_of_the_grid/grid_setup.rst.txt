@@ -1,5 +1,5 @@
-Grid Setup
-==========
+Functions of the Grid: Grid Setup
+=================================
 
 | The grid is the name for the basic interface used on the Maha Platform.
 | Across all the sections of the Maha Platform, from the **CRM** to **Finance**, the grid along with a couple of useful features allows efficient, sensible navigation.
@@ -12,4 +12,6 @@ Grid Setup
 #. `Filter </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ records to narrow search results according to criteria
 #. `Edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ a record
 #. `Comment </users/general/guides/functions_of_the_grid/how_to_comment.html>`_ on a record
-#. `Add or hide columns </users/general/guides/functions_of_the_grid/display_elements.html>`_ of a row (eg. ID, codes)
+#. `Add or hide columns </users/general/guides/functions_of_the_grid/display_elements.html>`_ of a row (e.g. ID, codes)
+
+do i need?

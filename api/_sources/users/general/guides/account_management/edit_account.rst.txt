@@ -1,5 +1,5 @@
-Editing Your Account
-====================
+Account Management: Editing Your Account
+========================================
 
 | If you would like to change your name or the email associated with your account, follow the steps below.
 

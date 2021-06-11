@@ -1,5 +1,5 @@
-Lists
-=====
+Programs: Managing Lists
+========================
 
 | **Lists** displays the name of the contact groups of a program.
 

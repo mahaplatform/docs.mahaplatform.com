@@ -1,5 +1,5 @@
-Set Goal Block
-==============
+Workflows: Adding a Set Goal Block
+==================================
 
 | The **Set Goal** block allows you to mark a specific point in the workflow.
 | When a contact reaches this set goal, it will be recorded and displayed in the performance tab - as a contact that has been "converted."

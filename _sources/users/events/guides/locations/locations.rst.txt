@@ -1,5 +1,5 @@
-Locations
-=========
+Locations: Interacting with a Location
+======================================
 
 | **Locations** keeps a record of locations used to host `events </users/events/guides/events/new_event.html>`_ .
 

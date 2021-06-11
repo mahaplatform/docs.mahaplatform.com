@@ -1,5 +1,5 @@
-Preferences Block
-=================
+Emails: Adding a Preferences Block
+==================================
 
 | The **Preferences** block allows you to offer email recipients the ability to adjust how many emails they would like to receive.
 | This default version of this block usually suffices. The text is generally applicable and a link is already provided.

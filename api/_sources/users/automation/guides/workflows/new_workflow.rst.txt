@@ -1,5 +1,5 @@
-Creating a New Workflow
-=======================
+Workflows: Creating a New Workflow
+==================================
 
 | There are a couple of ways to create a new workflow. To do so directly from **Automation**, follow the steps below.
 

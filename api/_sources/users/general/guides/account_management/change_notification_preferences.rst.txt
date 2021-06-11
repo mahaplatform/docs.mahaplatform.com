@@ -1,5 +1,5 @@
-Changing Notification Preferences
-=================================
+Account Management: Changing Notification Preferences
+=====================================================
 
 | The notification preferences available to users are automatically turned on. To change your preferences, you will disable specific notifications or options, by following these steps.
 

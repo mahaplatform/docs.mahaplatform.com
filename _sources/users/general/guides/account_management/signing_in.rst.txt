@@ -1,5 +1,5 @@
-Signing In With a Cornell Email Address
-=======================================
+Account Management: Signing In With a Cornell Email Address
+===========================================================
 
 | If the email you have connected to Maha Platform is a Cornell Email Address, your account is protected by an additional layer of security - Two-Factor Authentication.
 | Each time you sign into the Maha Platform, you will have to enter your login information as well as approve the login from your device.

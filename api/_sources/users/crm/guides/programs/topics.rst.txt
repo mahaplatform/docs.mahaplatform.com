@@ -1,5 +1,5 @@
-Topics
-======
+Programs: Managing Topics
+=========================
 
 | **Topics** is a public list of contacts who belong to a program.
 

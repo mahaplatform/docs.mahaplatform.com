@@ -1,7 +1,7 @@
-Details
-=======
+Programs: Viewing Details
+=========================
 
-| **Details** displays basic program information and an audit trail.
+| **Details** displays basic program information, an audit trail, and comments.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **CRM**

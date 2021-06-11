@@ -1,5 +1,5 @@
-Interacting With an Email Campaign in Draft Mode
-================================================
+Email: Interacting With an Email Campaign in Draft Mode
+=======================================================
 
 | Once you have `created your email campaign </users/campaigns/guides/email/new_email_campaign.html>`_ , it will be in draft mode.
 | During this stage, you will have the opportunity to edit and design your email campaign to create a new version before you decide to send it.

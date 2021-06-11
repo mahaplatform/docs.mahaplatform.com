@@ -1,5 +1,5 @@
-Designing an Email
-==================
+Emails: Designing an Email
+==========================
 
 | There are a lot of customizations available to create a unique email within the Maha Platform for your contacts.
 | Designing an email using the following steps allows you to edit an existing email.

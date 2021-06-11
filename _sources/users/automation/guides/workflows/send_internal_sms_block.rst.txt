@@ -1,5 +1,5 @@
-Send Internal SMS Block
-=======================
+Workflows: Adding a Send Internal SMS Block
+===========================================
 
 | The **Send Internal SMS** block allows you to send a text message to a user in administration.
 | This can be used to internally notify your organization when a contact reaches a certain point in the workflow.

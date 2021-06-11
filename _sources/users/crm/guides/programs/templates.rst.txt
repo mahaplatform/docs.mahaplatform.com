@@ -1,5 +1,5 @@
-Templates
-=========
+Programs: Managing Templates
+============================
 
 | **Templates** allows you to view and create customized email designs.
 

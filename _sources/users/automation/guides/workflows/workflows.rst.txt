@@ -1,5 +1,5 @@
-Workflows
-=========
+Workflows: Interacting with a Workflow
+======================================
 
 | A workflow is a sequence of steps that will be triggered when an event occurs.
 

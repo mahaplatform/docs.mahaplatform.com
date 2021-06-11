@@ -1,5 +1,5 @@
-Adding a New Program
-====================
+Programs: Adding a New Program
+==============================
 
 | Most organizations on the Maha Platform have a number of programs that they offer to their members and contacts.
 | To add a new program, follow the steps below.

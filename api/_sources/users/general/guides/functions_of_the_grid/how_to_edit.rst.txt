@@ -1,5 +1,5 @@
-Editing
-=======
+Functions of the Grid: Editing
+==============================
 
 | You should make edits when you want to change details of an already created account, contact, form, etc.
 | You should navigate to the page that contains what you wish to edit using :icon:`bars` in the ribbon.

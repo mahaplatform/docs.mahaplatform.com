@@ -1,5 +1,5 @@
-Creating a Workflow via Automation
-==================================
+Workflows: Creating a Workflow via Automation
+=============================================
 
 | To manually create a workflow using this pathway, you will need to have navigated to an automation tab, for example, via `Programs </users/crm/guides/programs/programs.html>`_
 

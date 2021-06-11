@@ -1,5 +1,5 @@
-Trigger Types
-=============
+Workflows: Trigger Types
+========================
 
 | A contact will be enrolled in a workflow when a certain trigger occurs.
 | The trigger types offered when creating a workflow are defined below.

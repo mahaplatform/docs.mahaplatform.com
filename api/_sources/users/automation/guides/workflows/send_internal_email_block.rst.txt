@@ -1,5 +1,5 @@
-Send Internal Email Block
-=========================
+Workflows: Adding a Send Internal Email Block
+=============================================
 
 | The **Send Internal Email** block allows you to send an email to a user in administration.
 | This can be used to internally notify your organization when a contact reaches a certain point in the workflow.

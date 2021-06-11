@@ -1,7 +1,7 @@
-Properties
-==========
+Programs: Managing Properties
+=============================
 
-| **Properties** allow a program to add custom values as a property of a contact, in addition to the `core properties </users/forms/guides/contact_fields.html>`_ of a contact.
+| **Properties** allows a program to add custom values as a property of a contact, in addition to the `core properties </users/forms/guides/contact_fields.html>`_ of a contact.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **CRM**
