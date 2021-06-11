@@ -1,5 +1,5 @@
-Update Property Block
-=====================
+Workflows: Adding an Update Property Block
+==========================================
 
 | The **Update Property** Block allows you to add (or change) a property of a contact.
 | This block gives you the option to update contact properties and/or custom properties, depending from where you are designing your workflow (manually, from a program, etc).

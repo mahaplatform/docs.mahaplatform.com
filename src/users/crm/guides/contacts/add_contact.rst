@@ -1,5 +1,5 @@
-Adding a Contact
-================
+Contacts: Adding a Contact Manually
+===================================
 
 | To add a new contact, you will need to have navigated to the add contact pop-up tab. If you are having trouble getting to this point, refer to `Adding A New Contact </users/crm/guides/contacts/add_a_new_contact.html>`_
 | This option for adding a new contact should be used when you do not already have their details under another contact - as to not create a duplicate.

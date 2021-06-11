@@ -1,5 +1,5 @@
-Send SMS Block
-==============
+Workflows: Adding a Send SMS Block
+==================================
 
 | The **Send SMS** block allows you to send a text message to a contact's phone number.
 | This block is used to send a notification to the contact enrolled in the workflow via text message. Click `here </users/automation/guides/workflows/send_internal_sms_block.html>`_ to notify someone internally (within your organization).

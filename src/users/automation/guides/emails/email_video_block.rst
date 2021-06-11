@@ -1,5 +1,5 @@
-Video Block
-===========
+Emails: Adding a Video Block
+============================
 
 | The **Video** block allows you to add a video to your email.
 | To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.

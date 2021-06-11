@@ -1,5 +1,5 @@
-How To Filter Records
-=====================
+Functions of the Grid: Filtering Records
+========================================
 
 | When searching for certain results in a large database or finding results that satisfy a given condition, it can be advantageous to filter the records.
 | For example, if you wanted to know which events were being hosted by a certain organization, you could apply a filter.

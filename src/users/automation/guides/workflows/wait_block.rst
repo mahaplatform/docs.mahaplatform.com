@@ -1,5 +1,5 @@
-Wait Block
-==========
+Workflows: Adding a Wait Block
+==============================
 
 | The **Wait** block allows an event to be triggered on a schedule - either upon a certain date or time, or once a designated amount of time has lapsed.
 | To use this block, you will need to have navigated to a workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.

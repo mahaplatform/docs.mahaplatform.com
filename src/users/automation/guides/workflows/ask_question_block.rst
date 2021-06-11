@@ -1,5 +1,5 @@
-Ask Question Block
-==================
+Workflows: Adding an Ask Question Block
+=======================================
 
 | The **Ask Question** block is only available when designing a workflow for an `inbound SMS campaign </users/campaigns/guides/inbound_sms/inbound_sms_campaigns.html>`_ or an `outbound SMS campaign </users/campaigns/guides/outbound_sms/outbound_sms_campaigns.html>`_ .
 | This block allows you to ask message recipients a question and have them follow a unique path in the workflow depending on their reply - either meeting the criteria for one of the **Answers** you add to the block or "else."

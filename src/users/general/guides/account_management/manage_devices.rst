@@ -1,5 +1,5 @@
-Managing Devices
-================
+Account Management: Managing Devices
+====================================
 
 | The Maha Platform keeps track of all the devices (within the last six months) with which your account has been accessed, along with when you were last active, if you enabled push, and a fingerprint associated with the device.
 

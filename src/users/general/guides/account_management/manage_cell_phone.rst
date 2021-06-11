@@ -1,5 +1,5 @@
-Managing Your Cell Phone
-========================
+Account Management: Managing Your Cell Phone Number
+===================================================
 
 | To connect your cell phone number to the Maha Platform, follow these steps.
 | This process will require a verification, so make sure your cell phone is accessible before you start.
