@@ -1,5 +1,5 @@
-Adding a Reimbursement
-======================
+Expenses: Adding a Reimbursement
+================================
 
 | When you make a purchase with your own money for work-related expenses that should be reimbursed, you should record this by adding a new reimbursement.
 

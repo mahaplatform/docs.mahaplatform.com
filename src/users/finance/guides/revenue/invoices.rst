@@ -1,5 +1,5 @@
-Invoices
-========
+Revenue: Interacting with an Invoice
+====================================
 
 | **Invoices** shows a compilation of all the created invoices available to you.
 

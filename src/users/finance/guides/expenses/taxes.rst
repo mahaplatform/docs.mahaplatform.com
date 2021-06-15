@@ -1,5 +1,5 @@
-Taxes
-=====
+Expenses: Taxes
+==================?????
 
 | The Maha Platform keeps a record of the taxes associated with the financial transactions.
 | The Maha Platform is a non-for profit organization, and are thus exempt for federal income taxes.

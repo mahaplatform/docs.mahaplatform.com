@@ -1,5 +1,5 @@
-Adding a Cash Advance
-=====================
+Expenses: Adding a Cash Advance
+===============================
 
 | When you know you will need funds in the future, you should send a request by adding a new cash advance. Once the request has been sent, you can check the status ...
 

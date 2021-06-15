@@ -1,5 +1,5 @@
-Adding a Vendor
-===============
+Expenses: Adding a Vendor
+=========================
 
 | The Maha Platform keeps a record of the vendors with which an organization does business.
 | To create a new vendor, follow the steps below.

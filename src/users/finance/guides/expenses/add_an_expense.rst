@@ -1,5 +1,5 @@
-Adding an Expense
-=================
+Expenses: Adding an Expense
+===========================
 
 | When you make a purchase with a work credit card or a store account, you should record this by adding a new expense.
 

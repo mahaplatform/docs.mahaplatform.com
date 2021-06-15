@@ -1,5 +1,5 @@
-Items
-=====
+Expenses: Items
+===============
 
 | **Items** keeps a record of all items that that users have added.
 | An item is a financial request. For example, when you make a purchase or needs a reimbursement, you must add an item.

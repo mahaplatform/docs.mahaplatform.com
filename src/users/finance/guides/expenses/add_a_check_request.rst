@@ -1,5 +1,5 @@
-Adding a Check Request
-======================
+Expenses: Adding a Check Request
+================================
 
 | When you need to send a check to a vendor, you should add a check request.
 
