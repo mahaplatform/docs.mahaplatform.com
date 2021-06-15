@@ -1,5 +1,5 @@
-Creating a New Invoice
-======================
+Revenue: Creating a New Invoice
+===============================
 
 | To bill a customer using the Maha Platform, you should create a new invoice following the steps below.
 

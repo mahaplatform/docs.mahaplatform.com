@@ -1,4 +1,4 @@
-Revenue Report
+Revenue: Revenue Report
 ==============
 
 | **Report** displays a list of all revenue being reported.

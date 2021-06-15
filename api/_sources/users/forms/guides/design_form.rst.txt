@@ -1,5 +1,5 @@
-Designing a Form
-================
+Forms: Designing a Form
+=======================
 
 |
 | All forms have two invariable fields - a reCAPTCHA test and a submit button that will appear at the end of your form.

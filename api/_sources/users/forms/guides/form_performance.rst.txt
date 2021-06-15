@@ -1,7 +1,7 @@
-Form Performance
-================
+Forms: Viewing the Performance of a Form
+========================================
 
-| **Performance** keeps a record of data associated with a form. 
+| **Performance** keeps a record of data associated with a form.
 
 #. Change time frame by clicking **Last 30 Days**, **Last 60 Days**, **Year to Date**, or **Life to Date**
 #. Hover over a data point to view number of responses on a specific date

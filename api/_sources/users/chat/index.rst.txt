@@ -4,8 +4,8 @@ The chat app enables users across a team to collaborate in real time using an
 internal real time messaging platform.
 
 .. toctree::
-  :maxdepth: 1
-  :titlesonly:
+   :maxdepth: 2
 
-  guides/index
-  reference
+   guides/edit_chat
+   guides/managing_a_chat
+   guides/new_chat

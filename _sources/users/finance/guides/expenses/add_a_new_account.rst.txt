@@ -1,5 +1,5 @@
-Adding a New Account
-====================
+Expenses: Adding a New Account
+==============================
 
 | The Maha Platform keeps a record of the accounts an organization has created with vendors.
 | To create a new account, follow the steps below.

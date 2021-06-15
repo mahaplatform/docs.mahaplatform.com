@@ -1,5 +1,5 @@
-Adding a New Project
-====================
+Projects: Adding a New Project
+==============================
 
 | To add a new project, follow the steps below.
 

@@ -1,5 +1,5 @@
-Customers
-=========
+Revenue: Interacting with a Customer
+====================================
 
 | **Customers** is a record of all people that have made payments to an organization.
 

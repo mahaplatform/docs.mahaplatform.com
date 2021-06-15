@@ -1,5 +1,5 @@
-Managing Users
-==============
+Projects: Managing Users
+========================
 
 | You should have navigated to the pop-up tab entitled **Manage users**. Refer to `Projects </users/general/guides/projects/project_general.html>`_ if you are having trouble navigating to this page.
 | Users belonging to a project are to be assigned one of three roles. Users will be a member by default, though can also be an owner or an approver. A membership system allows all actions to be preliminarily reviewed and approved by another user belonging to the project.

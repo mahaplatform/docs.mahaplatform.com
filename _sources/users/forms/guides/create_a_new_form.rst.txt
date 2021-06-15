@@ -1,5 +1,5 @@
-Creating a Form
-===============
+Forms: Creating a Form
+======================
 
 | A form offers organizations a way to collect data from contacts.
 | To create a form, follow the steps below.

@@ -1,4 +1,4 @@
-Payments
+Revenue: Payments
 ========
 
 | **Payments** acts as a record of all payments that have been made.
@@ -9,4 +9,4 @@ Payments
 #. Click **Revenue**
 #. Click **Payments**
 #. Click on a payment to view the payment details and the allocations of the payment
-#. To issue a refund of the payment, click the :icon:`ellipsis-v` in the upper right hand corner and click **Issue Refund** (any other steps?)
+#. To issue a refund of the payment, click the :icon:`ellipsis-v` and click **Issue Refund** (any other steps?)

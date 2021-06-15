@@ -1,5 +1,5 @@
-Vendors
-=======
+Expenses: Interacting with a Vendor
+===================================
 
 | **Vendors** displays a list of all the vendors from which your association has bought items.
 

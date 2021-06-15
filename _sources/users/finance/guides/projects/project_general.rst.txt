@@ -1,5 +1,5 @@
-Projects
-========
+Projects: Interacting with a Project
+====================================
 
 | **Projects** keeps a record of all the projects (current and disabled/inactive) that have been created by you or users in your organization.
 
