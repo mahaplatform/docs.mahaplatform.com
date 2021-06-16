@@ -11,7 +11,7 @@ Drive: Uploading Files to a Folder
    If you wish to upload files to **My Drive** (not a folder within **My Drive**) skip to step #6
 #. Click desired folder
 
-   * Alternatively, click :icon:`ellipsis-v` on the row of the folder
+   * Alternatively, click :icon:`ellipsis-v` on the right of the folder
 #. Click **Upload File(s)**
 #. `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_
 #. Repeat if desired

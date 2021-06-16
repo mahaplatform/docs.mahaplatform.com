@@ -1,5 +1,5 @@
-Creating a Store
-================
+Stores: Creating a Store
+========================
 
 | fdghj
 | To create a store, you must have a bank account linked to the program to which you plan to connect your store.
@@ -10,7 +10,7 @@ Creating a Store
 #. Select a program to which you want to connect your store
 #. Enter a store title
 #. Enter a URL for the store
-#. Choose a cart life (after this number of hours has lapsed, an item in a customer's cart is "abandonned" and returned to stock???)
+#. Choose a cart life (after this number of hours has lapsed without completing the purchase, an item in a customer's cart is "abandoned" and returned to stock???)
 #. You may enable the options to pay by check or to pay later
 #. Choose if the store will always be open or if it will open at a specific time
 
