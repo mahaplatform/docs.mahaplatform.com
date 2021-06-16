@@ -1,10 +1,10 @@
-Drive: Renaming a File
-======================
+Drive: Renaming a File or a Folder
+==================================
 
 | **Rename File**
 
 #.
-#. Click **Rename File**
+#. Click **Rename File** or **Rename Folder**
 #. Click :icon:`times`
-#. Enter new file name
+#. Enter new name
 #. Click **Save**
