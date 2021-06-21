@@ -1,8 +1,8 @@
-Stores: Creating and Managing the Products of a Store
-=====================================================
+Stores: Adding a Product to a Store
+===================================
 
+| **Products** keeps an interactive list of all the products offered by a store - virtual or physical.
 | To create and manage the products of a store, you should have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
-|
 
 #. Click :icon:`shopping-bag` **Products**
 #. Click :icon:`ellipsis-h` and **Deactivate Product** or **Activate Product** to perform the associated action
@@ -30,3 +30,7 @@ Stores: Creating and Managing the Products of a Store
 #. Click **Next**
 #. Select a `shipping strategy </users/stores/guides/product_shipping.html>`_ for the product (click the hyperlink for a guide to shipping of the product and, if applicable, its variants)
 #. Click **Save**
+#. Click on a product to view the details and variants
+
+   * In addition to activating/deactivating or deleting the product, you can also `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ it
+   * You can also click **Variants** and :icon:`ellipsis-h` to edit or activate/deactivate a variant

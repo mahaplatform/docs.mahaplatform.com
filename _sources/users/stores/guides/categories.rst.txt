@@ -1,8 +1,9 @@
 Stores: Managing the Categories of a Store
 ==========================================
 
-|
-| Each row has a category name and the number of products in the category.
+| **Categories** displays the categories of a store - each row has a category name and the number of products in the category.
+| When a customer views a store, you can offer them the option to filter the products by category (e.g. snack, beverage, dessert).
+| To do so, you must create these categories, by following the steps below. Refer `here </users/stores/guides/products.html>`_ to add a product to a category.
 | To manage the categories of a store, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`sitemap` **Categories**
@@ -13,5 +14,4 @@ Stores: Managing the Categories of a Store
 #. Click :icon:`ellipsis-h` and **Edit Category** to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the category title
 #. Click :icon:`ellipsis-h`, **Delete Category**, and **Yes** to delete a category
 
-   * The products in the deleted category (if it was the only selected category) will now only be seen when a customer views **all** the products unless you `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the `product's categories </users/stores/guides/products.html>`_
-#.
+   * The products that previously belonged to the deleted category (if it was the only selected category) will now only be seen when a customer views all the products unless you `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the `product's categories </users/stores/guides/products.html>`_

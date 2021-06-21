@@ -1,7 +1,9 @@
 Store: Adding Product Variants
 ==============================
 
-|
+| A product can vary in a number of ways - for example, in color or size.
+| These properties make a version unique from other variants of the product. This can be expressed when you are creating a product through **Variants**.
+| To add variants of a product, you will need to create a new product (you are not able to retroactively add variants). Refer `here </users/stores/guides/products.html>`_ if you are having trouble reaching this point.
 
 #. Select **There are multiple variants of this product with different options (color, size, etc)**
 #. Click **+ Add Option**
