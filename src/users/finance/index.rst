@@ -24,6 +24,7 @@ Finance
    guides/revenue/deposits
    guides/revenue/payments
    guides/revenue/refunds
+   guides/revenue/issue_refund
    guides/revenue/revenue_reports
    guides/projects/project_general
    guides/projects/add_a_new_project

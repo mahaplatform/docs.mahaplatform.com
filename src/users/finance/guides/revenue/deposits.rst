@@ -9,10 +9,12 @@ Revenue: Adding a Deposit
 #. Click **Revenue**
 #. Click **Deposits**
 #. Click on a deposit to view the deposit details, an audit trail, and comments
-#. Click **Transactions**
-#. Adding a new deposit:
+#. Click **Transactions** to view the payments included in the deposit
+
+   * Click a hyperlinked payment method to view the associated `payment </users/finance/guides/revenue/payments.html>`_
+#. To add a new deposit, click :icon:`plus`
 
    * Select a date
    * Select bank account
-   * Select transaction(s). Mass select by clicking **select all*
+   * Select transaction(s). Mass select by clicking **select all**
    * Click **Save**

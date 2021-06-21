@@ -1,5 +1,5 @@
-Revenue: Revenue Report
-==============
+Revenue: Viewing a Revenue Report
+=================================
 
 | **Report** displays a list of all revenue being reported.
 | The revenue records are listed by date, and each record displays other elements such as customer, description, and type.
