@@ -7,6 +7,8 @@ Chat: Managing a Chat
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Chat**
+
+   * Alternatively, click :icon:`comment` in the ribbon to pull up **Chat** in a side bar
 #. Click the desired chat
 
    * Search for a chat by name, users, or message content in the blue ribbon

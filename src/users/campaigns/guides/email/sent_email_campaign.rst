@@ -2,7 +2,7 @@ Email: Interacting With a Sent Email Campaign
 =============================================
 
 | Once your email campaign has been sent, you may perform the following actions.
-| You should have clicked :icon:`ellipsis-v` when viewing the desired `email campaign </users/campaigns/guides/email/email_campaign.html>`_ .
+| You should have clicked :icon:`ellipsis-v` when viewing the desired `email campaign </users/campaigns/guides/email/email_campaigns.html>`_
 | Click one of the following options and follow the steps below:
 
 #. **Convert to Template**:
@@ -12,7 +12,7 @@ Email: Interacting With a Sent Email Campaign
    * Your email campaign will now be available as a `template </users/crm/guides/programs/templates.html>`_
 #. **Resend Campaign**:
 
-   * You can curate a list of recipients under **To** (options detailed `here </users/campaigns/guides/email/new_email_campaign.html>`_ )
+   * You can curate a list of recipients under **To** (click `here </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
    * You can also opt to **Schedule Delivery** instead of the default option to **Send immediately**:
    * Select a **Date**
    * Enter a **Time**

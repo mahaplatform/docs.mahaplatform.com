@@ -18,5 +18,5 @@ Programs: Managing Topics
    * To add a contact to a topic, click `here </users/crm/guides/contacts/add_contact.html>`_
 #. Click the tab entitled **Automations** to view `workflows </users/automation/guides/workflows/workflows.html>`_
 
-   *Click **Create Workflow** to create a `new workflow </users/automation/guides/workflows/create_a_workflow.html>`_
+   * Click **Create Workflow** to create a `new workflow </users/automation/guides/workflows/create_a_workflow.html>`_
 #. To view another topic, click :icon:`chevron-left` and choose the desired topic
