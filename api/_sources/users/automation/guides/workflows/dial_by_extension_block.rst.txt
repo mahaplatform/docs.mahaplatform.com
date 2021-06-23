@@ -1,7 +1,7 @@
 Workflows: Adding a Dial by Extension Block
 ===========================================
 
-| The **Dial by Extension** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_ .
+| The **Dial by Extension** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_
 | This block allows you to play a message that informs callers/recipients of the available extensions. You will also use this block to create these extensions.
 | This allows callers/recipients to navigate themselves to the extension that will best fulfill their needs.
 

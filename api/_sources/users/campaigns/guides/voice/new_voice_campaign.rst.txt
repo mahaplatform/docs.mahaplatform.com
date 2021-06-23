@@ -6,7 +6,7 @@ Voice: Creating a New Voice Campaign
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Voice**
-#. Click :icon:`plus` to create a `new voice campaign </users/campaigns/guides/inbound_sms/new_voice_campaign.html>`_
+#. Click :icon:`plus` to create a `new voice campaign </users/campaigns/guides/voice/new_voice_campaign.html>`_
 #. Choose a program
 #. Enter a campaign title
 #. Select if the voice campaign is for **Marketing** purposes or if it is **Transactional** (the contact has purchased or been registered for a service)

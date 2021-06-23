@@ -3,7 +3,7 @@ Email: Interacting With an Email Campaign in Draft Mode
 
 | Once you have `created your email campaign </users/campaigns/guides/email/new_email_campaign.html>`_ , it will be in draft mode.
 | During this stage, you will have the opportunity to edit and design your email campaign to create a new version before you decide to send it.
-| You should have clicked :icon:`ellipsis-v` when viewing the desired `email campaign </users/campaigns/guides/email/email_campaign.html>`_ .
+| You should have clicked :icon:`ellipsis-v` when viewing the desired `email campaign </users/campaigns/guides/email/email_campaigns.html>`_
 | Click one of the following options and follow the steps below:
 
 #. **Edit Campaign**:
@@ -15,7 +15,7 @@ Email: Interacting With an Email Campaign in Draft Mode
    * `Customize </users/automation/guides/emails/design_email.html>`_ your email using blocks, changing the design, and editing the settings
 #. **Send/Schedule Campaign**:
 
-   * You can curate a list of recipients under **To** (options detailed `here </users/campaigns/guides/email/new_email_campaign.html>`_ )
+   * You can curate a list of recipients under **To** (click `here </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
    * You can also opt to **Schedule Delivery** instead of the default option to **Send immediately**:
    * Select a **Date**
    * Enter a **Time**

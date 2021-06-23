@@ -7,6 +7,8 @@ Chat: Editing a Chat
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Chat**
+
+   * Alternatively, click :icon:`comment` in the ribbon to pull up **Chat** in a side bar
 #. Click on the desired chat
 #. Click :icon:`pencil` **Edit Conversation**
 #. (Re)enter a chat name
