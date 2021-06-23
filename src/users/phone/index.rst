@@ -10,3 +10,8 @@ Maha Platform's built in software phone.
 
    guides/call_logs/call_logs
    guides/numbers/phone_numbers
+   guides/phone/calls
+   guides/phone/contacts
+   guides/phone/keypad
+   guides/phone/sms
+   guides/phone/voicemail

@@ -3,7 +3,7 @@ Workflows: Designing a Workflow
 
 | There are a lot of customizations available to create a unique workflow within the Maha Platform for the contacts enrolled in the workflow.
 | Designing a workflow using the following steps allows you to edit an existing workflow.
-| To create a new workflow, click `here </users/automation/guides/workflows/new_workflow.html>`_ .
+| Click `here </users/automation/guides/workflows/new_workflow.html>`_ to create a new workflow.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Automation**
