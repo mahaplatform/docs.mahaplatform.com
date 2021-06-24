@@ -1,4 +1,4 @@
-Emails: Adding a Send Internal Email Block
+Workflows: Adding a Send Internal Email Block
 ==========================================
 
 | The **Send Internal Email** block allows you to send an email to a user in administration.

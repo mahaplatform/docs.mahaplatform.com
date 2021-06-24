@@ -17,6 +17,11 @@ using either email, SMS, or voice.
    guides/inbound_sms/trigger_term
    guides/outbound_sms/outbound_sms_campaigns
    guides/outbound_sms/new_outbound_sms_campaign
+   guides/outbound_sms/draft_mode_outbound_sms_campaign
+   guides/outbound_sms/outbound_sms_campaign_performance
+   guides/outbound_sms/sent_outbound_sms_campaign
    guides/voice/voice_campaigns
    guides/voice/new_voice_campaign
    guides/voice/voice_campaign_performance
+   guides/voice/draft_mode_voice_campaign
+   guides/voice/sent_voice_campaign

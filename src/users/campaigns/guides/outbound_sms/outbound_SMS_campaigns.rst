@@ -1,24 +1,15 @@
 Outbound SMS: Interacting with an Outbound SMS Campaign
 =======================================================
 
-|
+| An outbound messaging campaign allows you to reach out to many contacts via text messaging by designing a workflow.
+| An outbound sms relationship is initiated by your program. Users are enrolled based on the selected recipients of your outbound sms campaign.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Outbound SMS**
 #. Click on an outbound SMS campaign to view details, an audit trail, and comments
-#. Click **Design Workflow** (available when in draft mode) or **View Workflow** (available when sent) to edit or view the workflow, respectively
-#. Click :icon:`ellipsis-v` and **Edit Campaign** to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the campaign (available when in draft mode)
-#. Click :icon:`ellipsis-v` and **Send/Schedule Campaign** (available when in draft mode)
+#. Click :icon:`ellipsis-v` to see the available options for interacting with your outbound SMS campaign
 
-   * Curate the list of recipients of the outbound SMS campaign under **To** (options detailed `here </users/campaigns/guides/outbound_sms/new_outbound_sms_campaign.html>`_ )
-   * You can opt to **Schedule Delivery** instead of the default option to **Send Immediately** by selecting a date and entering a time
-   * Click **Send**
-#. Click :icon:`ellipsis-v` and **Resend Campaign** (available when sent)
-   * Curate the list of recipients of the outbound SMS campaign under **To** (options detailed `here </users/campaigns/guides/outbound_sms/new_outbound_sms_campaign.html>`_ )
-   * You can opt to **Schedule Delivery** instead of the default option to **Send Immediately** by selecting a date and entering a time
-   * Click **Resend**
-#. Click :icon:`ellipsis-v`, **Delete Campaign**, and **Yes** to delete the campaign along with all associated workflows and performance data
-#. Click **Design Workflow** to `design </users/automation/guides/workflows/design_a_workflow.html>`_ your outbound SMS campaign
+   * The available options differ depending whether your outbound SMS campaign is in `draft mode </users/campaigns/guides/outbound_sms/draft_mode_outbound_sms_campaign.html>`_ or has been `sent </users/campaigns/guides/outbound_sms/sent_outbound_sms_campaign.html>`_
 #. Click **Emails** to click on the emails associated with the SMS campaign
-#. Click `Performance </users/campaigns/guides/inbound_sms/inbound_sms_campaign_performance.html>`_ to view recorded recipient interaction data
+#. Click `Performance </users/campaigns/guides/outbound_sms/outbound_sms_campaign_performance.html>`_ to view recorded recipient interaction data

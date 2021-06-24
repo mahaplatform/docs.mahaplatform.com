@@ -21,7 +21,6 @@ customer record or send some sort of communication.
    guides/emails/email_web_version_block
    guides/emails/email_performance
    guides/emails/emails
-   guides/emails/send_internal_sms_block
    guides/workflows/ask_question_block
    guides/workflows/create_a_workflow
    guides/workflows/design_a_workflow
