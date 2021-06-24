@@ -8,9 +8,8 @@ Email: Interacting with an Email Campaign
 #. Click **Campaigns**
 #. Click **Email**
 #. Click an email to view email details, an audit trail, and comments
-#. Click **View Email** to open the email campaign
 #. Click :icon:`ellipsis-v` to see the available options for interacting with your email campaign
 
-   * The available options differ slightly depending whether your email campaign is in `draft mode </users/campaigns/guides/email/draft_mode_email_campaign.html>`_ or has been `sent </users/campaigns/guides/email/sent_email_campaign.html>`_
+   * The available options differ depending whether your email campaign is in `draft mode </users/campaigns/guides/email/draft_mode_email_campaign.html>`_ or has been `sent </users/campaigns/guides/email/sent_email_campaign.html>`_
 #. Click **Automation** to click on an existing `workflow </users/automation/guides/workflows/workflows.html>`_  or click **Create Workflow** to make a `new workflow </users/automation/guides/workflows/workflows.html>`_
 #. Click `Performance </users/campaigns/guides/email/email_campaign_performance.html>`_ to view recorded recipient interaction data

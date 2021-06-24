@@ -1,12 +1,12 @@
-Inbound SMS: Viewing the Performance of a SMS Campaign
-======================================================
+Inbound SMS: Viewing the Performance of a Inbound SMS Campaign
+==============================================================
 
-| **Performance** keeps a record of interactions with inbound and outbound SMS campaigns.
+| **Performance** keeps a record of interactions with an inbound SMS campaign.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
-#. Click **Inbound SMS** or **Outbound SMS**
-#. Click on an SMS campaign
+#. Click **Inbound SMS**
+#. Click on an inbound SMS campaign
 #. Click **Performance**
 #. Click the numbers under **Sessions**, **Active**, and **Converted** to see the contacts who enrolled/were enrolled in the workflow, are currently in the workflow, and were `converted </users/automation/guides/workflows/set_goal_block.html>`_
 

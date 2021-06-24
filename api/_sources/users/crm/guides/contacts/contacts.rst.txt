@@ -11,14 +11,8 @@ Contacts: Interacting with a Contact
 #. Click :icon:`plus` to `add a new contact </users/crm/guides/contacts/add_a_new_contact.html>`_
 #. Click a contact to view their contact information, as well as four elements:
 
-   * Timeline: A record of all interactions with the contact. This begins with the contacts creation/importation and includes everything after from receiving email campaigns to registering for event
-   * Consent: Displays a list of all programs. Click on each program to see the email with which it is associated and the consent status. To change this, click **Opt In** or **Opt Out**. This will inform the program's ability to contact you
-   * Channels: Keeps a record of the interactions between a program and the contact (there will only be records if the contact has consented to being contacted (ie. **Opted In**)). Click on a program to view these interactions and click on the interaction to view the message/email along with the status (eg. delivered)
-   * Properties: Shows relationship between programs and contact. Click on each program and view properties for **Lists** and **Topics** (eg. program participants)
-#. Click **Note** to leave a note in the contact's timeline history
-
-   * Choose a program
-   * Write a note
-   * `Attach files </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_
-   * Click **Save**
+   * `Timeline </users/crm/guides/contacts/timeline.html>`_
+   * `Consent </users/crm/guides/contacts/consent.html>`_
+   * `Channels </users/crm/guides/contacts/channels.html>`_
+   * `Properties </users/crm/guides/contacts/properties.html>`_
 #. Click :icon:`ellipsis-v` to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the contact

@@ -15,6 +15,10 @@ engagement with your organization.
    guides/contacts/adding_a_contact_to_lists_or_program
    guides/contacts/contacts
    guides/contacts/import_contacts
+   guides/contacts/timeline
+   guides/contacts/consent
+   guides/contacts/channels
+   guides/contacts/properties
    guides/programs/access
    guides/programs/add_a_new_program
    guides/programs/design_email
