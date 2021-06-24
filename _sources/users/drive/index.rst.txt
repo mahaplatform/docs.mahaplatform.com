@@ -13,14 +13,12 @@ Box, DropBox, Google Drive, and Microsoft OneDrive.
    guides/disable_sharing
    guides/drive_trash
    guides/drive_upload_files
-   guides/drive
    guides/interacting_with_a_file
    guides/manage_access
    guides/manage_versions
    guides/managing_a_file
    guides/move_folder
    guides/new_folder
-   guides/print_file
    guides/rename_file
    guides/share_file
    guides/transfer_ownership

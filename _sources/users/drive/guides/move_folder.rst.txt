@@ -7,9 +7,9 @@ Drive: Moving a File or a Folder
 | If you are not seeing the desired folder as a location option, make sure the move you want to make complies with this rule.
 | To move a folder or file, you must have navigated to the desired folder or file. Refer `here </users/drive/guides/managing_a_file.html>`_ if you are having trouble reaching this point.
 
-#. Click **Move Folder** or **Move File** in the info tab
+#. Click **Move File** or **Move Folder** in the info tab
 
-   * Alternatively, click :icon:`ellipsis-v` to access these options
+   * Alternatively, click :icon:`ellipsis-v` to access this option
 #. Navigate to the folder in to which you would like to move the folder by clicking on the folders
 
    * Click :icon:`chevron-left` to go back one folder

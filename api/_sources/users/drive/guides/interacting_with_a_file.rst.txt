@@ -8,8 +8,8 @@ Drive: Interacting with a File or a Folder
 
    * Alternatively, click :icon:`ellipsis-v` to access these options
 #. For a file you can view: `Share File </users/drive/guides/share_file.html>`_ , Print File, Download File, View File
-#. For a file you can edit: All options above (minus share file????) plus `Manage Access </users/drive/guides/manage_access.html>`_ , `Manage Versions </users/drive/guides/manage_versions.html>`_ , `Enable Sharing </users/drive/guides/disable_sharing.html>`_ , `Move File </users/drive/guides/move_folder.html>`_ , `Rename File </users/drive/guides/rename_file.html>`_ , `Remove File </users/drive/guides/drive_trash.html>`_
-#. For a file you own: All options above (minus share file????)
+#. For a file you can edit: All options above plus `Manage Access </users/drive/guides/manage_access.html>`_ , `Manage Versions </users/drive/guides/manage_versions.html>`_ , `Enable Sharing </users/drive/guides/disable_sharing.html>`_ , `Move File </users/drive/guides/move_folder.html>`_ , `Rename File </users/drive/guides/rename_file.html>`_ , `Remove File </users/drive/guides/drive_trash.html>`_
+#. For a file you own: All options above
 #. For a folder you can view: No options available
 #. For a folder you can edit: `Manage Access </users/drive/guides/manage_access.html>`_ , `Create New Folder </users/drive/guides/new_folder.html>`_ , `Upload File(s) </users/drive/guides/drive_upload_files.html>`_ , `Move Folder </users/drive/guides/move_folder.html>`_ , `Rename Folder </users/drive/guides/rename_file.html>`_ , `Remove Folder </users/drive/guides/drive_trash.html>`_
 #. For a folder you own: All options above
