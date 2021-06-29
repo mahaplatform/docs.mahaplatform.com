@@ -15,3 +15,16 @@ platform assets labelled as team
 platform settings - edit settingsS
 website domains - adding a domain - RegSIter a new domain
 notif preferences - speciFC events
+click on a batch --> all items?
+
+forms - create email from a blank email - thank youR
+font family drop down -  no options
+radio group - only retains first option w/ 2
+can't export form records
+cloning option not available?
+topics - check box for blank field
+resize image option?
+headings really confusing - don't match or don't make changed to the page
+footer not in line with other fields\
+forms - rules - should be more specific, right?
+finance items - fields don't have * / are not required when they should be

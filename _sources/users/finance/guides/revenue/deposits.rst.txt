@@ -4,7 +4,7 @@ Revenue: Adding a Deposit
 | The Maha Platform keeps a record of all payments that have been made by customers into a bank account associated with the organization.
 | To add a new deposit, follow the steps below.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Deposits**

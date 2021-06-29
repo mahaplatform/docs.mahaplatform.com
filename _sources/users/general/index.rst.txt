@@ -20,6 +20,7 @@ The Maha Platform has a host of core built in features for managing your account
    guides/functions_of_the_grid/save_filter
    guides/functions_of_the_grid/how_to_merge
    guides/functions_of_the_grid/change_organizations
+   guides/functions_of_the_grid/help_articles
    guides/account_management/change_event_notifications
    guides/account_management/change_notification_preferences
    guides/account_management/change_your_password

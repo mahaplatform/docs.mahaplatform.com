@@ -1,10 +1,10 @@
 Revenue: Voiding a Refund
 =========================
 
-| You may void a refund that you have mistakenly issued. 
+| You may void a refund that you have mistakenly issued.
 | This option is only available before the refund has settled, which takes 48 hours.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Refunds**

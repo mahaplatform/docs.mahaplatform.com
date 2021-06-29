@@ -3,7 +3,7 @@ Drive: Transferring Ownership of the Maha Drive
 
 | Transferring ownership allows you to move all the files in one user's drive to the drive of another user.
 | This could be useful if, for example, a member of your organization is retiring but you still want to keep all their files within your organization.
-| If you would simply like to share a specific file with another user, refer `here fdghjknhgfdgv instead.
+| If you would simply like to share a specific file with another user, refer `here </users/drive/guides/share_file.html>`_ instead.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Drive**

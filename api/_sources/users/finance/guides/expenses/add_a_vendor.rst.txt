@@ -8,7 +8,7 @@ Expenses: Adding a Vendor
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Vendor**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Enter name of vendor
 #. Enter address of vendor
 #. Enter `Vendor ID </users/general/guides/functions_of_the_grid/display_elements.html>`_

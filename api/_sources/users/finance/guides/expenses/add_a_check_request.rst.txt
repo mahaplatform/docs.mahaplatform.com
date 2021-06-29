@@ -7,11 +7,15 @@ Expenses: Adding a Check Request
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Click **Check Request**
 #. Select date by which the check request is needed
-#. Choose a vendor
-#. Choose a delivery method
+#. Click **Choose a vendor**
+
+   * Select a vendor
+#. Click **Choose a delivery method**
+
+   * Select one of the following delivery methods: mail or pickup
 #. Enter the account number
 #. Enter the invoice number
 #. `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ an invoice

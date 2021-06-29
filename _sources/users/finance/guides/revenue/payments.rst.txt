@@ -4,7 +4,7 @@ Revenue: Viewing a Payment
 | **Payments** acts as a record of all payments that have been made.
 | You may also issue refunds to a customer on a payment.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Payments**

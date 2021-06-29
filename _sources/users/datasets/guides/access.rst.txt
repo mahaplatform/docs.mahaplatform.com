@@ -7,7 +7,8 @@ Datasets: Managing Access to a Dataset
 #. Click :icon:`shield` **Access**
 #. View the users, groups, and/or programs that have access to a dataset and their access privilege
 #. Click **Manage Access**
-#. Select a group or individual contact to which you would like to give access (by default, their access privilege will be limited to view)
+#. Select a group or user to which you would like to give access (by default, their access privilege will be limited to view)
+
    * Click on the current access privilege until satisfied with the access privilege
    * Click :icon:`times` to remove all access to the dataset
 #. Click **Save**

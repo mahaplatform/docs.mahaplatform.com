@@ -7,10 +7,12 @@ Expenses: Adding a Reimbursement
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Click **Reimbursement**
 #. Select date of purchase
-#. Choose a vendor
+#. Click **Choose a vendor**
+
+   * Select a vendor
 #. `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ a receipt
 #. Enter total
 #. Click **Save**

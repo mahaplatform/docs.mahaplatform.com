@@ -28,7 +28,7 @@ Stores: Adding a Product to a Store
 #. Click **Next**
 #. Complete the `pricing </users/stores/guides/product_pricing.html>`_ of the product (click the hyperlink for a guide to pricing the product and, if applicable, its variants)
 #. Click **Next**
-#. Select a `shipping strategy </users/stores/guides/product_shipping.html>`_ for the product (click the hyperlink for a guide to shipping of the product and, if applicable, its variants)
+#. Select a `shipping strategy </users/stores/guides/shipping_strategy.html>`_ for the product (click the hyperlink for a guide to shipping of the product and, if applicable, its variants)
 #. Click **Save**
 #. Click on a product to view the details and variants
 

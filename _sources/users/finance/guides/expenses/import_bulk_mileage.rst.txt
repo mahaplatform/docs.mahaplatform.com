@@ -8,7 +8,7 @@ Expenses: Importing Bulk Mileage
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Click **Bulk Mileage Import**
 #. Import records from a spreadsheet using one of the following options:
 
@@ -17,7 +17,7 @@ Expenses: Importing Bulk Mileage
           * `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ a file
      #. Download a spreadsheet template
 
-          * Click **CSV** or **XLSX** to download template
-          * Enter mileage onto template
+          * Click **CSV** or **XLSX** to download a template to your device
+          * Enter details onto template: date, description, project code, time leaving, time arriving, odometer start, odometer end, and distance
           * Reupload edited template
 #. Click **Save**

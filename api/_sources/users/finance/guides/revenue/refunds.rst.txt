@@ -4,7 +4,7 @@ Revenue: Viewing a Refund
 | **Refunds** serves as a record of all the refunds that have been issued to customers.
 | Refer `here </users/finance/guides/revenue/issue_refund.html> to issue a refund.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Refunds**

@@ -4,6 +4,7 @@ Inbound SMS: Interacting with an Inbound SMS Campaign
 | Inbound messaging starts with an individual sending a `trigger term </users/campaigns/guides/inbound_sms/trigger_term.html>`_ to a program's number.
 | This will enroll them in the SMS campaign's workflow.
 | If this individual has an unknown phone number (meaning it is not associated with any contact in the Maha Platform), the Caller Identification service will search for a name to create a new contact.
+| Once an inbound SMS campaign is activated, it will remain active until it is deactivated.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**

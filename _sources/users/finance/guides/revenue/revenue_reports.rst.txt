@@ -4,7 +4,7 @@ Revenue: Viewing a Revenue Report
 | **Report** displays a list of all revenue being reported.
 | The revenue records are listed by date, and each record displays other elements such as customer, description, and type.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Report**

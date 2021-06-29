@@ -7,9 +7,9 @@ Contacts: Adding a Contact to a List or a Program
 #. Click :icon:`bars` in the ribbon
 #. Click **CRM**
 #. Click **Contacts**
-#. Select contact(s) by clicking the :icon:`circle-o` to the left of the row
+#. Select contact(s) by clicking :icon:`circle-o` to the left of the row
 
-   * You can mass select all the contacts by clicking the :icon:`circle-o` in the upper left hand corner
+   * You can mass select all the contacts by clicking :icon:`circle-o` in the upper left hand corner
 #. Click **Add to Lists**
 
    * Select lists to which you want to add the contact(s)
