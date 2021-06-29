@@ -4,7 +4,7 @@ Revenue: Interacting with an Invoice
 | **Invoices** shows a compilation of all the created invoices available to you.
 | Refer `here </users/finance/guides/revenue/new_invoice.html>`_ to create a new invoice.
 
-#. Click the :icon:`bars` in the ribbon
+#. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Invoices**

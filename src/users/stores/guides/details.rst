@@ -2,7 +2,7 @@ Stores: Details of a Store
 ==========================
 
 | When you click on a store, you will be brought to the details page by default. You can return to this page after exploration or further interact with **Details** by following the steps below.
-| To view the details of a store, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To view the details of a store, you will need to have navigated to the store. Refer `here </users/stores/guides/stores.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`info-circle`
 #. Click :icon:`ellipsis-v` and **Edit Store** to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the store

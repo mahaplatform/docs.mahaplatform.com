@@ -33,4 +33,3 @@ Stores: Viewing an Order Invoice
 
    * Click **View Invoice** to open
 #. Click the hyperlinked customer's name to view additional `contact information </users/crm/guides/contacts/contacts.html>`_
-#.

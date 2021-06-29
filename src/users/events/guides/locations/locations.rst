@@ -6,3 +6,4 @@ Locations: Interacting with a Location
 #. Click :icon:`bars` in the ribbon
 #. Click **Events**
 #. Click **Locations**
+#. View list of locations

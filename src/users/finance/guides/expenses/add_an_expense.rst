@@ -7,11 +7,15 @@ Expenses: Adding an Expense
 #. Click **Finance**
 #. Click **Expenses**
 #. Click **Items**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Click **Expense**
 #. Select date of purchase
-#. Choose a vendor
-#. Choose an account
+#. Click **Choose a vendor**
+
+   * Select a vendor
+#. Click **Choose an account**
+
+   * Select an account
 #. `Upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ a receipt
 #. Enter total
 #. Enter tax

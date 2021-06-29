@@ -9,3 +9,9 @@ Forms
    guides/custom_fields
    guides/form_performance
    guides/forms
+   guides/form_settings
+   guides/confirmation_page
+   guides/form_rule
+   guides/limits
+   guides/security
+   guides/seo

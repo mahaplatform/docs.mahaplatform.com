@@ -1,8 +1,8 @@
 Forms: Designing a Form
 =======================
 
-|
-| All forms have two invariable fields - a reCAPTCHA test and a submit button that will appear at the end of your form.
+| Forms can be as simple or complex as you want, depending on how you design it.
+| A form can be customized with `contact </users/forms/guides/contact_fields.html>`_ and `custom fields </users/forms/guides/custom_fields.html>`_
 
 #. You can add a new field to your form by clicking and dragging the desired field under **Form** to the desired place in the form
 
