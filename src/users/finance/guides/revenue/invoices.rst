@@ -8,16 +8,33 @@ Revenue: Interacting with an Invoice
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Invoices**
-#. Click on an invoice to view the invoice details and payment details
+#. Click on an invoice to view the invoice details, an audit trail, and comments
 #. You can do a couple of things with an invoice. Start by clicking the :icon:`ellipsis-v` (Certain options might not be available for every record)
 
-   * **Clone Invoice**: If desired click on a field to make a change to the invoice. Click **Save**
-   * **Send Receipt/Invoice**: Choose a sender, recipient and email address, a subject, and message. Click **Save**
-   * **View Public Receipt/Invoice**: Pulls up a tab displaying a copy of the invoice
-   * **Download Invoice**: Download invoice to your device
-   * **Edit Invoice**: Make changes to the fields to alter your invoice details. Click **Save**
-   * **Void Invoice**: Select date and enter a reason for voiding your invoice. Click **Save**
-   * **Receive Payment**: Select date and a payment method to receive your payment. Click **Save**
+   #. **Clone Invoice**:
+
+     * If desired click on a field to make a change to the invoice
+     * Click **Save**
+   #. **Send Receipt**:
+
+     * Choose a sender, recipient and email address, a subject, and message
+     * Click **Save**
+   #. **View Public Receipt/Invoice**: Pulls up a tab displaying a copy of the invoice
+   #. **Download Invoice**: Downloads the invoice to your device
+   #. **Edit Invoice**:
+
+     * Make changes to the fields to alter your invoice details
+     * Click **Save**
+   #. **Void Invoice**:
+
+     * Select date
+     * Enter a reason for voiding your invoice
+     * Click **Save**
+   #. **Receive Payment**:
+
+     * Select date
+     * Select a payment method to receive your payment
+     * Click **Save**
 #. Click **Payments** to view payments
 
-   * Click a hyperlinked payment method to view the associated `payment </users/finance/guides/revenue/payments.html>`_
+   * Click a hyperlinked payment method to view the `payment </users/finance/guides/revenue/payments.html>`_ associated with the invoice
