@@ -6,14 +6,16 @@ Workflows: Adding a Send Internal Email Block
 | To use this block, you will need to have navigated to a workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
 
 #. Place a **Send Internal Email** block in your workflow where desired
-#. Select a recipient
+#. Select a recipient using one of the two options:
 
-   * Option 1: Click **Choose a specific user**
-   * Click **Choose a User**
-   * Select a user
+   #. Click **Choose a specific user**
 
-   * Option 2: Click **Enter an email address**
-   * Enter an email address
+     * Click **Choose a User**
+     * Select a user
+
+   #. Click **Enter an email address**
+
+     * Enter an email address
 #. Select a user
 #. Enter an email subject
 #. Enter an email body

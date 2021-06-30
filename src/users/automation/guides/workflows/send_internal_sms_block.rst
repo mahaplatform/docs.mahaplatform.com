@@ -6,14 +6,15 @@ Workflows: Adding a Send Internal SMS Block
 | To use this block, you will need to have navigated to a workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
 
 #. Place a **Send Internal SMS** block in your workflow where desired
-#. Select a recipient
+#. Select a recipient using one of the two options:
 
-   * Option 1: Click **Choose a specific user**
-   * Click **Choose a User**
-   * Select a user
+   #. Click **Choose a specific user**
 
-   * Option 2: Click **Enter a phone number**
-   * Enter a phone number
+     * Click **Choose a User**
+     * Select a user
+   #. Click **Enter a phone number**
+
+     * Enter a phone number
 #. Enter a message
 #. If desired, `Add Attachment </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_
 #. Click **Done**
