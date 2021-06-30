@@ -32,4 +32,4 @@ Workflows: Adding a Dial by Extension Block
 
    * Use these characters if you anticipate callers/recipients needing further instructions/guidance (for example "press # to hear staff directory" when dialing by name)
 #. Click **Done**
-#. In the workflow, you can now click :icon:`ellipsis-h` and create pathways for when a caller/recipient presses #, *, or nothing, or if the extension does not answer
+#. In the workflow, you can now click :icon:`ellipsis-h` and create pathways for when a caller/recipient presses #, ``*``, or nothing, or if the extension does not answer
