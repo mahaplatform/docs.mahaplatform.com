@@ -1,20 +1,16 @@
-Revenue: Adding a Deposit
-==========================
+Revenue: Managing a Deposit
+===========================
 
-| The Maha Platform keeps a record of all payments that have been made by customers into a bank account associated with the organization.
-| To add a new deposit, follow the steps below.
+| The Maha Platform keeps a record of all payments and refunds that have been made by customers into a bank account associated with the organization.
+| A deposit is a portion of those payments and refunds, selected when the deposit was `created </users/finance/guides/revenue/new_deposit.html>`_ and represented as a net number
+|
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Deposits**
 #. Click on a deposit to view the deposit details, an audit trail, and comments
-#. Click **Transactions** to view the payments included in the deposit
+#. Click **Transactions** to view the payments and/or refunds included in the deposit
 
-   * Click a hyperlinked payment method to view the associated `payment </users/finance/guides/revenue/payments.html>`_
-#. To add a new deposit, click :icon:`plus`
-
-   * Select a date
-   * Select bank account
-   * Select transaction(s). Mass select by clicking **select all**
-   * Click **Save**
+   * Click a hyperlinked payment method to view the associated `payment </users/finance/guides/revenue/payments.html>`_ or `refund </users/finance/guides/revenue/refunds.html>`_
+#. Click :icon:`ellipsis-v` and **Download Export** to download the deposit to your device

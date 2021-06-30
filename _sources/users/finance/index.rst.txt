@@ -29,6 +29,9 @@ Finance
    guides/revenue/refunds
    guides/revenue/issue_refund
    guides/revenue/revenue_reports
+   guides/revenue/new_credit
+   guides/revenue/new_scholarship
+   guides/revenue/sales
    guides/revenue/managing_bank_accounts
    guides/projects/project_general
    guides/projects/add_a_new_project

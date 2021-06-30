@@ -2,6 +2,7 @@ Expenses: Viewing a Report
 ==========================
 
 | **Report** displays a list of all the items added by users of an organization.
+| To view items you have added, refer to `Items </users/finance/guides/expenses/items.html>`_
 | The items are listed by date, and each expense displays other elements such as type, user, description, and status.
 
 #. Click :icon:`bars` in the ribbon
