@@ -6,7 +6,7 @@ Workflows: Adding a Speak Text Block
 | You can customize the voice by gender and accent (EN = English (currently the only language available), AU = Australian, GB = British, US = American).
 
 #. Place a **Speak Text** block in your workflow where desired
-#. Click the drop-down menu and select the name of the voice you desire
+#. Click the drop-down menu and select the name of the voice you want
 #. Enter a message
 #. Click :icon:`volume-up` **Speak Text** to hear your audio
 #. When satisfied, click **Done**
