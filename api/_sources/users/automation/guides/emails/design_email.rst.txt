@@ -3,7 +3,7 @@ Emails: Designing an Email
 
 | There are a lot of customizations available to create a unique email within the Maha Platform for your contacts.
 | Designing an email using the following steps allows you to edit an existing email.
-| You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a `template </users/crm/guides/programs/templates.html>`_ or design a `workflow </users/automation/guides/workflows/design_a_workflow.html>`_ 
+| You will be given the option to create an email in other sections of the Maha Platform - for example, when you create a `template </users/crm/guides/programs/templates.html>`_ or design a `workflow </users/automation/guides/workflows/design_a_workflow.html>`_
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Automation**
@@ -12,7 +12,7 @@ Emails: Designing an Email
 #. Click **Design Email**
 #. You can add a new block to your email by clicking and dragging the desired block (block explanations and guides hyperlinked below) to the email
 
-   * `Text </users/automation/guides/emails/email_text_block.html>`_ , `Divider </users/automation/guides/emails/email_divider_block.html>`_ , `Image </users/automation/guides/emails/email_image_block.html>`_ , `Button </users/automation/guides/emails/email_button_block.html>`_ , `Preferences </users/automation/guides/emails/email_preference_block.html>`_ , `Social Share </users/automation/guides/emails/email_social_share_block.html>`_ , `Social Follow </users/automation/guides/emails/email_social_follow_block.html>`_ , `Video </users/automation/guides/emails/email_video_block.html>`_ , `Web Version </users/automation/guides/emails/email_web_version_block.html>`_
+   * `Text </users/automation/guides/emails/email_text_block.html>`_, `Divider </users/automation/guides/emails/email_divider_block.html>`_, `Image </users/automation/guides/emails/email_image_block.html>`_, `Button </users/automation/guides/emails/email_button_block.html>`_, `Preferences </users/automation/guides/emails/email_preference_block.html>`_, `Social Share </users/automation/guides/emails/email_social_share_block.html>`_, `Social Follow </users/automation/guides/emails/email_social_follow_block.html>`_, `Video </users/automation/guides/emails/email_video_block.html>`_, `Web Version </users/automation/guides/emails/email_web_version_block.html>`_
 #. This will trigger a new tab entitled **Email** where you can customize the block
 #. To edit an already created block, hover over the block and click :icon:`pencil` and make changes in the tab
 #. To duplicate a block, hover over the block and click :icon:`files-o`

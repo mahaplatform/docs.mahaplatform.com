@@ -1,7 +1,7 @@
 Email: Interacting With an Email Campaign in Draft Mode
 =======================================================
 
-| Once you have `created your email campaign </users/campaigns/guides/email/new_email_campaign.html>`_ , it will be in draft mode.
+| Once you have `created your email campaign </users/campaigns/guides/email/new_email_campaign.html>`_, it will be in draft mode.
 | During this stage, you will have the opportunity to edit and design your email campaign to create a new version before you decide to send it.
 | You will need to have navigated to the desired `email campaign </users/campaigns/guides/email/email_campaigns.html>`_ to follow the steps below.
 
@@ -35,4 +35,4 @@ Email: Interacting With an Email Campaign in Draft Mode
    * Note that in addition to your email, all associated workflows will be deleted
 #. Click **Design Email** to design the `email campaign </users/automation/guides/emails/design_email.html>`_ using the blocks below:
 
-   * `Text </users/automation/guides/emails/email_text_block.html>`_ , `Divider </users/automation/guides/emails/email_divider_block.html>`_ , `Image </users/automation/guides/emails/email_image_block.html>`_ , `Button </users/automation/guides/emails/email_button_block.html>`_ , `Preferences </users/automation/guides/emails/email_preference_block.html>`_ , `Social Share </users/automation/guides/emails/email_social_share_block.html>`_ , `Social Follow </users/automation/guides/emails/email_social_follow_block.html>`_ , `Video </users/automation/guides/emails/email_video_block.html>`_ , `Web Version </users/automation/guides/emails/email_web_version_block.html>`_
+   * `Text </users/automation/guides/emails/email_text_block.html>`_, `Divider </users/automation/guides/emails/email_divider_block.html>`_, `Image </users/automation/guides/emails/email_image_block.html>`_, `Button </users/automation/guides/emails/email_button_block.html>`_, `Preferences </users/automation/guides/emails/email_preference_block.html>`_, `Social Share </users/automation/guides/emails/email_social_share_block.html>`_, `Social Follow </users/automation/guides/emails/email_social_follow_block.html>`_, `Video </users/automation/guides/emails/email_video_block.html>`_, `Web Version </users/automation/guides/emails/email_web_version_block.html>`_

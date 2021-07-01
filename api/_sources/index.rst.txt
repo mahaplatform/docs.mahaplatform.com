@@ -41,7 +41,7 @@ both an onsite and remote workforce.
   Sites <users/sites/index>
   Stores <users/stores/index>
   Surveys <users/surveys/index>
-  Teams <users/teams/index>
+  Team <users/team/index>
   Websites <users/websites/index>
 
 .. toctree::
