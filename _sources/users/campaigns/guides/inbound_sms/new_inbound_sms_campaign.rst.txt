@@ -1,7 +1,7 @@
 Inbound SMS: Creating a New Inbound SMS Campaign
 ================================================
 
-| To create a new `inbound sms campaign </users/campaigns/guides/inbound_sms/inbound_sms_campaigns.html>`_ , follow the steps below.
+| To create a new `inbound sms campaign </users/campaigns/guides/inbound_sms/inbound_sms_campaigns.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**

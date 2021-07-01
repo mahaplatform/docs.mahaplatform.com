@@ -1,7 +1,7 @@
 Outbound SMS: Creating a New Outbound SMS Campaign
 ==================================================
 
-| To create a new `outbound sms campaign </users/campaigns/guides/outbound_sms/outbound_sms_campaigns.html>`_ , follow the steps below.
+| To create a new `outbound sms campaign </users/campaigns/guides/outbound_sms/outbound_sms_campaigns.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
