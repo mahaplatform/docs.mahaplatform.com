@@ -6,7 +6,7 @@ Email: Creating a New Email Campaign
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
 #. Click **Email**
-#. Click the :icon:`plus` in the upper right hand corner
+#. Click :icon:`plus` in the upper right hand corner
 #. Choose a program
 #. Enter a campaign title
 #. Select if the email campaign is for **Marketing** purposes or if it is **Transactional** (the contact has purchased or been registered for a service)
@@ -19,7 +19,7 @@ Email: Creating a New Email Campaign
    * **Contacts in a topic**: Select a topic to add all the contacts in the topic
    * **Contacts in a list**: Select a list to add all the contacts in the list
    * **Specific contacts**: Individually search and select contacts you would like to add
-#. Choose either an already created, **Global** template (Image Masthead, Plain Text, or Video Gallery) or a template you have created displayed under **Program**
+#. Choose either an already created **Global** template (Image Masthead, Plain Text, or Video Gallery) or a template you have created displayed under **Program**
 #. Choose a sender
 #. Choose an email address that recipients will write to if they choose to reply to your campaign
 #. Enter an email subject

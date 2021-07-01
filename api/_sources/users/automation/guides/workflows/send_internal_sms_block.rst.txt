@@ -10,11 +10,11 @@ Workflows: Adding a Send Internal SMS Block
 
    #. Click **Choose a specific user**
 
-     * Click **Choose a User**
-     * Select a user
+      * Click **Choose a User**
+      * Select a user
    #. Click **Enter a phone number**
 
-     * Enter a phone number
+      * Enter a phone number
 #. Enter a message
 #. If desired, `Add Attachment </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_
 #. Click **Done**

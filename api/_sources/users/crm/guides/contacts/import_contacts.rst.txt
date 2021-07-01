@@ -5,10 +5,9 @@ Contacts: Importing Contacts
 | This option for adding new contacts should be used when the contacts' information is stored elsewhere and you would like to transfer it into the Maha Platform.
 
 #. Click **Import Contacts**
-#. Select the program to which the contacts you would like to import belong
-#. Choose a contact source
+#. Select the program to which the contacts you would like to import will belong
+#. Choose one of the following contact sources:
 
    * Click **Excel or CSV File** and `upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ the file containing the contacts
-   * Click **Add a Source** and select one of the external contact record platforms: **Constant Contact, Google Contacts, Mailchimp** or **Outlook 365**
-#. Select desired contacts
+   * Click **Add a Source** and select one of the external contact record platforms: **Constant Contact, Google Contacts, Mailchimp** or **Outlook 365** and select desired contacts
 #. Click **Save**

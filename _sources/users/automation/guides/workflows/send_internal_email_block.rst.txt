@@ -10,12 +10,11 @@ Workflows: Adding a Send Internal Email Block
 
    #. Click **Choose a specific user**
 
-     * Click **Choose a User**
-     * Select a user
-
+      * Click **Choose a User**
+      * Select a user
    #. Click **Enter an email address**
 
-     * Enter an email address
+      * Enter an email address
 #. Select a user
 #. Enter an email subject
 #. Enter an email body

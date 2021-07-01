@@ -8,7 +8,9 @@ Groups: Setting Up a Group
 #. Click **Groups**
 #. Click :icon:`plus` in the upper right hand corner
 #. Enter a title
-#. Click **Choose a leader and select a user
+#. Click **Choose a leader**
+
+   * Select a user
 #. Click **Save**
 #. Click **Assign Users**
 #. Select user(s) you would like to assign to the group

@@ -11,6 +11,7 @@ Groups: Managing a Group
 #. Click a group to view group members
 #. Click :icon:`ellipsis-v` and **Edit Group** to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the group
 #. Click :icon:`ellipsis-v` and **Manage Users** to add users to and/or remove users from the group
+
    * Select user(s) you would like to assign to the group
    * Click :icon:`times` to remove a user
    * Click **Save**

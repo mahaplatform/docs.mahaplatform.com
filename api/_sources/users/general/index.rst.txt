@@ -31,3 +31,4 @@ The Maha Platform has a host of core built in features for managing your account
    guides/account_management/profile_pic
    guides/account_management/sign_out
    guides/account_management/signing_in
+   guides/account_management/setting_up_a_team

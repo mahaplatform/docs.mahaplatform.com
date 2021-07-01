@@ -9,7 +9,9 @@ Workflows: Adding an If/Then Block
 #. Click **Add Branch**
 #. Enter name for the branch
 #. Click **Add Criteria**
-#. Add criteria. If desired, you can use the `AND </users/general/guides/functions_of_the_grid/filter_and.html>`_ / `OR </users/general/guides/functions_of_the_grid/filter_or.html>`_ conditionals
+#. Add criteria
+
+   * If desired, you can use the `AND </users/general/guides/functions_of_the_grid/filter_and.html>`_ / `OR </users/general/guides/functions_of_the_grid/filter_or.html>`_ conditionals
 #. Click **Save**
 #. Click **Done**
 #. In the workflow, you can now click :icon:`ellipsis-h` to expand pathways

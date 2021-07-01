@@ -10,9 +10,9 @@ Workflows: Enrolling Contacts in a Workflow
 #. Click on the workflow to which you want to add the contacts
 #. Click :icon:`ellipsis-v` and **Enroll Contacts** to add contacts to a workflow using one of the options below:
 
-   * **Contacts that meet custom criteria**: create a custom `filter </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ and add all contacts that satisfy the criteria
-   * **Contacts in a saved filter**: add all the contacts that satisfy the criteria of a filter you have previously created and saved
+   * **Contacts that meet custom criteria**: Create a custom `filter </users/general/guides/functions_of_the_grid/how_to_filter_records.html>`_ and add all contacts that satisfy the criteria
+   * **Contacts in a saved filter**: Add all the contacts that satisfy the criteria of a filter you have previously created and saved
    * **Contacts in a topic**: Select a topic to add all the contacts in the topic
    * **Contacts in a list**: Select a list to add all the contacts in the list
-   * **Specific contacts**: individually search and select contacts you would like to add
+   * **Specific contacts**: Individually search and select contacts you would like to add
 #. After you have added the desired contacts, click **Enroll**

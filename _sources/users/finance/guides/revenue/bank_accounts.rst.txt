@@ -9,7 +9,7 @@ Revenue: Adding a Bank Account
 #. Click **Bank Accounts**
 #. Click :icon:`plus` in the upper right hand corner
 #. Enter a title
-#. Enter the bank's routing number
+#. Enter the routing number of your bank
 #. Enter your bank account number
 #. Enter the bank code
 #. Click **Save**

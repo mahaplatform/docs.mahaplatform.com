@@ -1,7 +1,8 @@
 Revenue: Creating a Scholarship for a Customer
 ==============================================
 
-|
+| When a fee places a financial burden on a customer, they can be granted a scholarship.
+| You can grant a scholarship for the full amount or a portion of the total fee.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**
