@@ -1,7 +1,7 @@
 Email: Creating a New Email Campaign
 ====================================
 
-| To create a new `email campaign </users/campaigns/guides/email/email_campaigns.html>`_ , follow the steps below.
+| To create a new `email campaign </users/campaigns/guides/email/email_campaigns.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**
