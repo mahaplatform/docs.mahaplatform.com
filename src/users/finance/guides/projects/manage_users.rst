@@ -11,7 +11,7 @@ Projects: Managing Members
 
    * Click a user to add them to your project
    * By default, this newly added user will be a member
-#. Change status by clicking the colored box to the right of the users name
+#. Change role by clicking the colored box to the right of the user's name
 
    * Click through three options (Member, Approver, and Owner) until the displayed option matches what role you would like to assign the user
 #. Click :icon:`times` to the right of a row to remove the user from the project

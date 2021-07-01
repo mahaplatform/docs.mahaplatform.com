@@ -12,11 +12,11 @@ Workflows: Recording Audio with a Phone Call
 #. Click **Call**
 #. Answer the call on your phone
 
-   * You will record your message
-   * Press # when you are finished
-   * Your audio recording will be played back
-   * If you would like to record again, press 2 and repeat steps
-   * Once satisfied, press 1
+   #. You will record your message
+   #. Press # when you are finished
+   #. Your audio recording will be played back
+   #. If you would like to record again, press 2 and repeat steps
+   #. Once satisfied, press 1
 #. Your audio recording will now be available in your workflow
 #. To listen to your audio recording, click :icon:`play`
 #. To adjust your volume, hover over :icon:`volume-up` and click or drag the sliding scale to desired volume level

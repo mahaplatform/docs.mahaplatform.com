@@ -1,8 +1,8 @@
 Events: Creating a New Event
 ============================
 
-| Fill out the following information to create a new event - details for the event registration form,
-| To have access to the :icon:`plus` icon and to be able create a new event, you must be in the :icon:`calendar`**Upcoming Events** section of **Events**.
+| To create a new `event </users/events/guides/events/events.html>`_ , follow the steps below.
+| To do so, you must be in the :icon:`calendar` **Upcoming Events** section of **Events**.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Events**
