@@ -5,6 +5,7 @@ Outbound SMS: Interacting With a Sent Outbound SMS Campaign
 | You will need to have navigated to the desired `outbound SMS campaign </users/campaigns/guides/outbound_sms/outbound_sms_campaigns.html>`_ to follow the steps below.
 
 #. Click :icon:`ellipsis-v` and click **Resend Campaign**
+
    * Curate the list of recipients of the outbound SMS campaign under **To** (options detailed `here </users/campaigns/guides/outbound_sms/new_outbound_sms_campaign.html>`_)
    * You can opt to **Schedule Delivery** instead of the default option to **Send Immediately** by selecting a date and entering a time
    * Click **Resend**
