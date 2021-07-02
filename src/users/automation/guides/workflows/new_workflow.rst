@@ -1,7 +1,7 @@
 Workflows: Creating a New Workflow
 ==================================
 
-| There are a couple of ways to create a `new workflow </users/automation/guides/workflows/workflows.html>`_ .
+| There are a couple of ways to create a `new workflow </users/automation/guides/workflows/workflows.html>`_.
 | To do so directly from **Automation**, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon

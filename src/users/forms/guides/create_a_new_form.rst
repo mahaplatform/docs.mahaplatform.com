@@ -1,5 +1,5 @@
-Forms: Creating a Form
-======================
+Forms: Creating a New Form
+==========================
 
 | To create a `new form </users/forms/guides/forms.html>`_, follow the steps below.
 

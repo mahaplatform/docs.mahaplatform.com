@@ -2,7 +2,7 @@ Forms: Designing a Form
 =======================
 
 | Forms can be as simple or complex as you want, depending on how you design it.
-| A form can be customized with `contact </users/forms/guides/contact_fields.html>`_ and `custom fields </users/forms/guides/custom_fields.html>`_
+| A form can be customized with `contact </users/forms/guides/contact_fields.html>`_ and `custom fields </users/forms/guides/custom_fields.html>`_.
 
 #. You can add a new field to your form by clicking and dragging the desired field under **Form** to the desired place in the form
 
@@ -23,4 +23,4 @@ Forms: Designing a Form
 
    * You can also change the display for your device as you edit in the two drop-down menus to the right: Change the orientation (Landscape and Portrait) and/or change the magnification (50%, 75%, or 100%)
 #. Once satisfied, click **Save**
-#. Click **Preview** to view a preview of your email. Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the organization, and then click **Send**
+#. Click **Preview** to view a preview of your email. Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the team, and then click **Send**

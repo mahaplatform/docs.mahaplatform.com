@@ -1,8 +1,8 @@
 Expenses: Managing Accounts
 ===========================
 
-| The Maha Platform keeps a record of the accounts an organization has created with vendors.
-| Refer `here </users/finance/guides/expenses/add_a_new_account.html>`_ to create a new account.
+| The Maha Platform keeps a record of the accounts a team has created with vendors.
+| Refer to `Adding a New Account </users/finance/guides/expenses/add_a_new_account.html>`_ to create a new account.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

@@ -1,9 +1,8 @@
 Revenue: Managing a Deposit
 ===========================
 
-| The Maha Platform keeps a record of all payments and refunds that have been made by customers into a bank account associated with the organization.
-| A deposit is a portion of those payments and refunds, selected when the deposit was `created </users/finance/guides/revenue/new_deposit.html>`_ and represented as a net number
-|
+| **Deposits** keeps a record of all payments and refunds that have been made by customers into a bank account of one of a team's programs.
+| A deposit is a portion of those payments and refunds, selected when the deposit was `created </users/finance/guides/revenue/new_deposit.html>`_ and represented as a net number.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

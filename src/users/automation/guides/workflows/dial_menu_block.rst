@@ -1,7 +1,7 @@
 Workflows: Adding a Dial by Menu Block
 ======================================
 
-| The **Dial by Menu** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_
+| The **Dial by Menu** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_.
 | This block allows you to play a message that informs callers/recipients of the available menu options. You will also use this block to create these menu options.
 | This allows callers/recipients to navigate themselves to the menu options that will best fulfill their needs.
 

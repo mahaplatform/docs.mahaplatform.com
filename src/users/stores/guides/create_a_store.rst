@@ -1,7 +1,7 @@
 Stores: Creating a Store
 ========================
 
-| To create a `store </users/stores/guides/stores.html>`_ , follow the steps below.
+| To create a `store </users/stores/guides/stores.html>`_, follow the steps below.
 | Note that to do so, you must have a bank account linked to the program to which you plan to connect your store.
 
 #. Click :icon:`bars` in the ribbon

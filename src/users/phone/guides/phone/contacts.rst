@@ -1,7 +1,7 @@
 Phone: Using the Contacts Feature
 =================================
 
-| **Contacts** displays a list of the contacts of your organization.
+| **Contacts** displays a list of contacts of your team.
 | From here, you can directly and internally call or message a contact following the steps below.
 
 #. Click :icon:`phone` in the ribbon to pull up **Phone** in a side bar

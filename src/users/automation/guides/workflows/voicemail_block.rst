@@ -1,7 +1,7 @@
 Workflows: Adding a Voicemail Block
 ===================================
 
-| The **Voicemail** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_
+| The **Voicemail** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_.
 | This block allows you to prompt a caller to leave a voicemail after hearing a greeting followed by a tone.
 
 #. Place a **Voicemail** block in your workflow where desired

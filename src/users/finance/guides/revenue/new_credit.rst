@@ -1,8 +1,8 @@
 Revenue: Creating a Credit for a Customer
 =========================================
 
-| When a customer requests a `refund </users/finance/guides/revenue/refunds.html>`_ , you can choose to give them a customer credit.
-| This is different from refunding the money to a bank or PayPal account - it will give them credit that must be put towards making other purchases from the program. 
+| When a customer requests a `refund </users/finance/guides/revenue/refunds.html>`_, you can choose to give them a customer credit.
+| This is different from refunding the money to a bank or PayPal account - it will give them credit that must be put towards making other purchases from the program.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

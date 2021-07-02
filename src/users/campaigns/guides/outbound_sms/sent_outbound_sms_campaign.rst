@@ -6,7 +6,7 @@ Outbound SMS: Interacting With a Sent Outbound SMS Campaign
 
 #. Click :icon:`ellipsis-v` and click **Resend Campaign**
 
-   * Curate the list of recipients of the outbound SMS campaign under **To** (options detailed `here </users/campaigns/guides/outbound_sms/new_outbound_sms_campaign.html>`_)
+   * Curate the list of recipients of the outbound SMS campaign under **To** (Refer to `Creating a New Outbound SMS Campaign </users/campaigns/guides/outbound_sms/new_outbound_sms_campaign.html>`_ for options)
    * You can opt to **Schedule Delivery** instead of the default option to **Send Immediately** by selecting a date and entering a time
    * Click **Resend**
 #. Click :icon:`ellipsis-v` and click **Delete Campaign**

@@ -1,15 +1,15 @@
 Revenue: Interacting with an Invoice
 ====================================
 
+| When you want to bill a customer using the Maha Platform, you should create a `new invoice </users/finance/guides/revenue/new_invoice.html>`_.
 | **Invoices** shows a compilation of all the created invoices available to you.
-| Refer `here </users/finance/guides/revenue/new_invoice.html>`_ to create a new invoice.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**
 #. Click **Revenue**
 #. Click **Invoices**
 #. Click on an invoice to view the invoice details, an audit trail, and comments
-#. You can do a couple of things with an invoice. Start by clicking the :icon:`ellipsis-v` (Certain options might not be available for every record)
+#. Click :icon:`ellipsis-v` (Available options differ depending on the status of the invoice)
 
    #. **Clone Invoice**:
 

@@ -1,7 +1,7 @@
 Phone: Using the SMS Feature
 ============================
 
-| **SMS** keeps a record of all the texts to and from the numbers connected to the programs of your organization.
+| **SMS** keeps a record of all the texts to and from the numbers connected to the programs of your team.
 | To view a conversation or write a message, follow the steps below.
 
 #. Click :icon:`phone` in the ribbon to pull up **Phone** in a side bar

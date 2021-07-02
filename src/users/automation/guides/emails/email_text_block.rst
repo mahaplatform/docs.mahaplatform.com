@@ -2,7 +2,7 @@ Emails: Adding a Text Block
 ===========================
 
 | The **Text** block allows you to add a customizable text block to your email.
-| To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
+| To use this block, you will need to have navigated to the email design tab. Refer to `Designing an Email </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. Place a **Social Share** block in your email where desired
 #. Edit the default text

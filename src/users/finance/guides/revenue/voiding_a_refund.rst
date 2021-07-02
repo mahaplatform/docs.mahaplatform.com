@@ -9,4 +9,5 @@ Revenue: Voiding a Refund
 #. Click **Revenue**
 #. Click **Refunds**
 #. Click on the refund you would like to void
-#. Click :icon:`ellipsis-v` and click **Void Refund**
+#. Click :icon:`ellipsis-v`
+#. Click **Void Refund**

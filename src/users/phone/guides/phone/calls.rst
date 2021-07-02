@@ -1,7 +1,7 @@
 Phone: Using the Call Feature
 =============================
 
-| **Calls** keeps a record of calls to and from the numbers connected to programs of your organization.
+| **Calls** keeps a record of calls to and from the numbers connected to programs of your team.
 | To view details of a call or to contact the number again, follow the steps below.
 
 #. Click :icon:`phone` in the ribbon to pull up **Phone** in a side bar

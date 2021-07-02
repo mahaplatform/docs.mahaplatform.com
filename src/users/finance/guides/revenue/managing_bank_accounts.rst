@@ -1,7 +1,7 @@
 Revenue: Interacting with a Bank Account
 ========================================
 
-| The Maha platform keeps a record of the bank accounts associated with the organization.
+| The Maha platform keeps a record of the bank accounts connected to your team.
 | Note that this is `not` an individual users' bank account information.
 |
 

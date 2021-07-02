@@ -1,7 +1,7 @@
 Revenue: Creating a New Deposit
 ===============================
 
-|
+| To create a new `deposit </users/finance/guides/revenue/deposits.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

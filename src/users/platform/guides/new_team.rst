@@ -1,7 +1,7 @@
 Teams: Creating a New Team
 ==========================
 
-| To create a new `team </users/platform/guides/teams.html>`_ , follow the steps below.
+| To create a new `team </users/platform/guides/teams.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Platform**

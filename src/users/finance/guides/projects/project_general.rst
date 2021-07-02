@@ -1,7 +1,8 @@
 Projects: Interacting with a Project
 ====================================
 
-| **Projects** keeps a record of all the projects (current and disabled/inactive) that have been created by you or users in your organization.
+| The Maha Platform allows you to gather a group of users to take unified financial actions under a project. ??
+| **Projects** keeps a record of all these projects (current and disabled/inactive) that have been created by you or another user within your team.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

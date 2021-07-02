@@ -2,7 +2,7 @@ Teams: Managing a Team
 ======================
 
 | **Teams** displays all the teams on the Maha Platform.
-| A team is a collection of users under an organization.
+| A team is a collection of `users </users/team/guides/users.html>`_ belonging to an organization.
 | To manage a team, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon

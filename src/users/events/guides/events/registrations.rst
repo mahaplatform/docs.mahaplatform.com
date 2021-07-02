@@ -2,7 +2,7 @@ Events: Managing Registrations
 ==============================
 
 | **Registrations** displays the contacts that registered for an event.
-| To view this feature, you must have navigated to an event. Click `here </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
+| To view this feature, you must have navigated to an event. Refer to `Events </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`user-circle-o` **Registrations**
 #. Click a contact to view their registration details and comments

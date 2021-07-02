@@ -1,7 +1,7 @@
 Forms: Custom Fields Defined
 ============================
 
-| Like `Contact Fields </users/form/guides/contact_fields.html>`_ , these fields are used to collect data from an individual who responds to a form.
+| Like `Contact Fields </users/form/guides/contact_fields.html>`_, these fields are used to collect data from an individual who responds to a form.
 | However, custom fields belong to the form as opposed to the contact, so if a field response differs from an existing contact property, the form submission will NOT trigger the contact to update.
 
 #. **ADDRESS FIELD**: Respondent enters address

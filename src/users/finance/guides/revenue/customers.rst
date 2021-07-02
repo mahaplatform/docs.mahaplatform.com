@@ -1,7 +1,7 @@
 Revenue: Interacting with a Customer
 ====================================
 
-| **Customers** is a record of all people that have made payments to an organization.
+| **Customers** is a record of all people that have made payments to a team.
 | Every financial interaction made with the customer through the Maha Platform will be retained as part of their customer profile and can be accessed with the steps below.
 
 #. Click :icon:`bars` in the ribbon

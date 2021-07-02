@@ -2,7 +2,7 @@ Workflows: Adding an Enroll in Workflow Block
 =============================================
 
 | The **Enroll in Workflow** block allows you to enroll contacts in a separate workflow.
-| To use this block, you will need to have navigated to a workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
+| To use this block, you will need to have navigated to a workflow design tab. Refer to `Designing a Workflow </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
 
 #. Place an **Enroll in Workflow** block in your workflow where desired
 #. Click **Choose a workflow**

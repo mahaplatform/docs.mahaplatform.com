@@ -1,7 +1,7 @@
 Contact: Managing the Consent of a Contact
 ==========================================
 
-| **Consent** displays a list of all programs of the organization of the contact.
+| **Consent** displays a list of all programs of a contact's team.
 | To change a program's ability to contact you or a contact via email, text, or phone, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon

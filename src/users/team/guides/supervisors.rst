@@ -1,7 +1,7 @@
 Supervisors: Managing a Supervisor
 ==================================
 
-|
+| A user can be given rights to oversee other users, or, their employees - by making them a `supervisor </users/team/guides/new_supervisor.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Team**

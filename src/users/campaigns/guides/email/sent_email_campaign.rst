@@ -11,7 +11,7 @@ Email: Interacting With a Sent Email Campaign
    * Your email campaign will now be available as a `template </users/crm/guides/programs/templates.html>`_
 #. Click :icon:`ellipsis-v` and click **Resend Campaign**:
 
-   * You can curate a list of recipients under **To** (click `here </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
+   * You can curate a list of recipients under **To** (Refer to `Creating a New Email Campaign </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
    * You can also opt to **Schedule Delivery** instead of the default option to **Send immediately**:
    * Select a **Date**
    * Enter a **Time**

@@ -2,8 +2,8 @@ Workflows: Adding a Send Email Block
 ====================================
 
 | The **Send Email** block allows you to send an email to a contact's email address.
-| This block is used to send a notification to the contact enrolled in the workflow via email. Click `here </users/automation/guides/workflows/send_internal_email_block.html>`_ to notify someone internally (within your organization).
-| To use this block, you will need to have navigated to a workflow design tab. Click `here </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
+| This block is used to send a notification to the contact enrolled in the workflow via email. Refer to `Adding a Send Internal Email Block </users/automation/guides/workflows/send_internal_email_block.html>`_ to notify someone internally (within your team).
+| To use this block, you will need to have navigated to a workflow design tab. Refer to `Designing a Workflow </users/automation/guides/workflows/design_a_workflow.html>`_ to do so from **Automation**. Refer to **Campaign** and **Phone** guides for other workflows.
 
 #. Place a **Send Email** block in your workflow where desired
 #. Click **Choose an email**
