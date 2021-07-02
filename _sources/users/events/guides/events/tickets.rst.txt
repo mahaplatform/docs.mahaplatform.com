@@ -1,8 +1,8 @@
 Events: Viewing Tickets
 =======================
 
-|
-| To view this feature, you must have navigated to an event. Click `here </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
+| This feature allows you to keep track of tickets at an event using a QR code and scanner system.
+| To view this feature, you must have navigated to an event. Refer to `Events </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`tag` **Tickets**
 #. View contacts that purchased a ticket

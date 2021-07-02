@@ -1,8 +1,9 @@
 Users: Managing the Projects of a User
 ======================================
 
-| A user can belong to many `projects </users/finance/guides/projects/project_general.html>`_
-| For each project, a user is assigned a `role. Most users will simply be a project member,
+| A user can belong to many `projects </users/finance/guides/projects/project_general.html>`_.
+| For each project, a user is assigned a `role </users/team/guides/roles.html>`_.
+| Most users will simply be a project member, though a project also needs an owner and approver(s).
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Team**

@@ -5,7 +5,7 @@ Stores: Viewing a Cart of a Customer of a Store
 | Each cart is assigned a unique 10-character string of letters and digits. This string is shown when the carts are displayed - not a customer's name. Refer to </users/store/guides/orders.html>`_ for these details.
 | The time until/since expiration of the cart is displayed, as well as total items in the cart.
 | Displayed inside each cart are the products, the quantity of products, and the price per item.
-| To manage the carts, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To manage the carts, you will need to have navigated to the store. Refer to `Stores </users/stores/guides/stores.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`shopping-cart` **Carts**
 #. Click :icon:`check-circle` **Active** or :icon:`times-circle` **Abandoned** to view the associated carts

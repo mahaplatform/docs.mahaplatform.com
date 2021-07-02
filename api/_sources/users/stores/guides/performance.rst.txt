@@ -2,7 +2,7 @@ Stores: Viewing the Performance of a Store
 ==========================================
 
 | **Performance** keeps a record of orders placed in a store, cart statuses, total revenue, and more.
-| To view the performance of a store, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To view the performance of a store, you will need to have navigated to the store. Refer to `Stores </users/stores/guides/stores.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`pie-chart` **Performance**
 #. Change time frame by clicking **Last 30 Days**, **Last 60 Days**, **Year to Date**, or **Life to Date**

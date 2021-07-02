@@ -1,7 +1,7 @@
 Activities: Viewing Activity History
 ====================================
 
-| **Activities** keeps a chronological record of actions and interactions between users **within** your organization (Refer `here </users/platform/guides/activities.html>`_ to view those of all organizations).
+| **Activities** keeps a chronological record of actions and interactions between users **within** your team (Refer to `Activities </users/platform/guides/activities.html>`_ to view those of all teams).
 | Each activity has a user and action-based description of the interaction.
 | In addition to this description, the time the interaction took place and the app icon with which the action is associated are displayed.
 

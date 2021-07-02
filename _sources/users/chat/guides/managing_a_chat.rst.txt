@@ -1,7 +1,7 @@
 Chat: Managing a Chat
 =====================
 
-| **Chat** allows you to strike up a private conversation with users in your organization. You can chat with a single user or you can create a group chat.
+| **Chat** allows you to strike up a private conversation with users of your team. You can chat with a single user or you can create a group chat.
 | You can convey your message and communicate effectively through texts, emoticons, files, and/or images.
 | To edit your conversation, manage group members, and show chat details, follow the steps below.
 

@@ -2,7 +2,7 @@ Datasets: Managing Access to a Dataset
 ======================================
 
 | view contribute manage
-| To manage the access to a dataset, you will need to have navigated to a dataset. Refer `here </users/datasets/guides/datasets.html>`_ if you are having trouble reaching this point.
+| To manage the access to a dataset, you will need to have navigated to a dataset. Refer to `Datasets </users/datasets/guides/datasets.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`shield` **Access**
 #. View the users, groups, and/or programs that have access to a dataset and their access privilege

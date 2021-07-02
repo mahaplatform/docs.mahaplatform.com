@@ -1,7 +1,7 @@
 Contacts: Viewing the Program Properties of a Contact
 =====================================================
 
-| **Properties** displays the properties of the programs that are a part of the contact's organization.
+| **Properties** displays the properties of the programs that are a part of the contact's team.
 | If the contact has `completed </users/crm/guides/contacts/add_contact.html>`_ these fields, their response will be recorded and displayed.
 
 #. Click :icon:`bars` in the ribbon

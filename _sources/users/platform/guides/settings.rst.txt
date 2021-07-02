@@ -1,7 +1,7 @@
 Settings: Managing Settings
 ===========================
 
-| **Settings** displays four payment method (ACH, ApplePay, GooglePay, and PayPal) and if they are currently enabled or disabled for the organization.
+| **Settings** displays four payment method (ACH, ApplePay, GooglePay, and PayPal) and if they are currently enabled or disabled for the team.
 | To manage these payment settings, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon

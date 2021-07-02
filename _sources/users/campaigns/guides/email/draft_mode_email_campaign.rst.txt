@@ -14,7 +14,7 @@ Email: Interacting With an Email Campaign in Draft Mode
    * `Customize </users/automation/guides/emails/design_email.html>`_ your email using blocks, changing the design, and editing the settings
 #. Click :icon:`ellipsis-v` and click **Send/Schedule Campaign**:
 
-   * You can curate a list of recipients under **To** (click `here </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
+   * You can curate a list of recipients under **To** (Refer to `Creating a New Email Campaign </users/campaigns/guides/email/new_email_campaign.html>`_ for options)
    * You can also opt to **Schedule Delivery** instead of the default option to **Send immediately**:
    * Select a **Date**
    * Enter a **Time**

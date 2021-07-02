@@ -2,7 +2,7 @@ Emails: Adding an Image Block
 =============================
 
 | The **Image** block allows you to add an image to your email.
-| To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
+| To use this block, you will need to have navigated to the email design tab. Refer to `Designing an Email </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. Place an **Image** block in your email where desired
 #. Click **Choose Image** and `upload </users/general/guides/functions_of_the_grid/how_to_upload_a_file.html>`_ your desired image

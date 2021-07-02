@@ -3,7 +3,7 @@ Drive: Managing the Versions of a File
 
 | **Manage Versions** keeps a record of all versions of a file. When you upload a new version as detailed below, this file version will be displayed.
 | However, you will still be able view previous versions of the file and revert to one of these versions.
-| To manage the versions of a file, you must have navigated to the desired file. Refer `here </users/drive/guides/managing_a_file.html>`_ if you are having trouble reaching this point.
+| To manage the versions of a file, you must have navigated to the desired file. Refer to `Managing a File or Folder </users/drive/guides/managing_a_file.html>`_ if you are having trouble reaching this point.
 
 #. Click **Manage Versions** in the info tab
 

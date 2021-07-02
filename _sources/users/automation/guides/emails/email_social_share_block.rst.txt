@@ -2,7 +2,7 @@ Emails: Adding a Social Share Block
 ===================================
 
 | The **Social Share** block allows you to add customizable links that allow the email recipient to share the email to others via a number of options - FaceBook, forwarding the email to a friend, LinkedIn, Pinterest, or Twitter.
-| To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
+| To use this block, you will need to have navigated to the email design tab. Refer to `Designing an Email </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. Place a **Social Share** block in your email where desired
 #. By default, FaceBook, Twitter, and an option to forward the email to a friend will be linked

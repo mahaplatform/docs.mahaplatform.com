@@ -1,7 +1,7 @@
 Expenses: Adding a New Account
 ==============================
 
-| To create a `new account </users/finance/guides/expenses/accounts.html>`_ , follow the steps below.
+| To create a `new account </users/finance/guides/expenses/accounts.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

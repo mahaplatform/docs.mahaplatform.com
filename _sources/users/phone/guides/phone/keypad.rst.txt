@@ -2,7 +2,7 @@ Phone: Using the Keypad Feature
 ===============================
 
 | **Keypad** offers a way to make phone calls to any number without ever leaving the Maha Platform.
-| This can be done from a cell phone number or a Maha phone number connected to one of the programs from your organization.
+| This can be done from a cell phone number or a Maha phone number connected to one of the programs of your team.
 | To make a call, follow the steps below.
 
 #. Click :icon:`phone` in the ribbon to pull up **Phone** in a side bar

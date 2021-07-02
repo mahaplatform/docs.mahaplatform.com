@@ -2,7 +2,7 @@ Forms: Adding a Rule
 ====================
 
 | **Rule** allows you to hide or show certain fields from individuals who meet certain criteria using a conditional to identify these individuals.
-| To add a rule to a form, you will need to have navigated to the settings of the form. Refer `here </users/forms/guides/form_settings.html>`_ if you are having trouble reaching this point.
+| To add a rule to a form, you will need to have navigated to the settings of the form. Refer to `Form Settings </users/forms/guides/form_settings.html>`_ if you are having trouble reaching this point.
 
 #. Click **Rules**
 #. Click **Add Rule**

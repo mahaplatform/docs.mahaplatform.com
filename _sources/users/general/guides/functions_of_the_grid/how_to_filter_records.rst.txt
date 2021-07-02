@@ -2,7 +2,7 @@ Functions of the Grid: Filtering Records
 ========================================
 
 | When searching for certain results in a large database or finding results that satisfy a given condition, it can be advantageous to filter the records.
-| For example, if you wanted to know which events were being hosted by a certain organization, you could apply a filter.
+| For example, if you wanted to know which events were being hosted by a certain team, you could apply a filter.
 | Some systems have built in filters under **System Filters**. These will automatically be displayed. Sometimes, you can apply these system filters and/or apply your own under **Your filters**.
 | You should navigate to the page that contains the results you wish to filter using :icon:`bars` in the ribbon.
 
@@ -15,8 +15,8 @@ Functions of the Grid: Filtering Records
 #. Click :icon:`plus` **ADD CRITERIA**
 #. If desired, select a **conditional**
 
-   * `AND </users/finance/guides/functions_of_the_grid/filter_and.html>`_ : to be shown a result, it must satisfy both of the filters you apply
-   * `OR </users/finance/guides/functions_of_the_grid/filter_or.html>`_ : to be shown a result, it must satisfy at least one of the filters you apply
+   * `AND </users/finance/guides/functions_of_the_grid/filter_and.html>`_: to be shown a result, it must satisfy both of the filters you apply
+   * `OR </users/finance/guides/functions_of_the_grid/filter_or.html>`_: to be shown a result, it must satisfy at least one of the filters you apply
  #. Inspect results that have satisfied your filter(s) by clicking on each result. Associated information will be displayed
  #. Select desired result(s) and choose an option
 

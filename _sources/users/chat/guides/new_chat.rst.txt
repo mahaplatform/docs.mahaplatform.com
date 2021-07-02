@@ -1,8 +1,8 @@
 Chat: Creating a New Conversation
 =================================
 
-| To start a chat conversation with another user in your organization directly through the Maha Platform, follow the steps below.
-| Note that these conversations are private, strictly between you and the users you have selected. This is different from the `commenting </users/general/guides/functions_of_the_grid/comment.html>`_ feature, which allows you to leave public messages on pages.
+| To start a chat conversation with another user of your team directly through the Maha Platform, follow the steps below.
+| Note that these conversations are private, strictly between you and the users you have selected. This is different from `commenting </users/general/guides/functions_of_the_grid/comment.html>`_, which allows you to leave public messages on pages.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Chat**

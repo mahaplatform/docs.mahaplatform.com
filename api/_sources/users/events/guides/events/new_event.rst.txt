@@ -1,7 +1,7 @@
 Events: Creating a New Event
 ============================
 
-| To create a new `event </users/events/guides/events/events.html>`_ , follow the steps below.
+| To create a new `event </users/events/guides/events/events.html>`_, follow the steps below.
 | To do so, you must be in the :icon:`calendar` **Upcoming Events** section of **Events**.
 
 #. Click :icon:`bars` in the ribbon
@@ -46,7 +46,7 @@ Events: Creating a New Event
 #. Create a confirmation email
 
    * Choose a sender
-   * Enter the email addess customer's will write to if they choose to reply to their confirmation email
+   * Enter the email address customer's will write to if they choose to reply to their confirmation email
    * Enter an email subject
    * Select an existing email template or create a new template
 #. Click **Save**

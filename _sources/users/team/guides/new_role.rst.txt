@@ -1,7 +1,7 @@
 Roles: Adding a New Role
 ========================
 
-| To add a `new role </users/team/guides/roles.html>`_ to your team, follow the steps below.
+| To add a new `role </users/team/guides/roles.html>`_ to your team, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Team**

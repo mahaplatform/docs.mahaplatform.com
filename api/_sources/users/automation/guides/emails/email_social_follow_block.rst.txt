@@ -3,7 +3,7 @@ Emails: Adding a Social Follow Block
 
 | The **Social Follow** block allows you to add customizable links that enable the email recipient to follow the social media accounts linked to the sender.
 | Note that the default links connect to the social media platform, not your account. Clear the default URL and paste the URL of your personal account instead.
-| To use this block, you will need to have navigated to the email design tab. Click `here </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
+| To use this block, you will need to have navigated to the email design tab. Refer to `Designing an Email </users/automation/guides/emails/design_email.html>`_ if you are having trouble reaching this point.
 
 #. Place a **Social Follow** block in your email where desired
 #. By default, FaceBook, Twitter, and a customizable link for your website will be linked

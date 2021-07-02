@@ -1,7 +1,7 @@
 Workflows: Recording Audio with Your Microphone
 ===============================================
 
-| When you are designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_, you can add a `Play Audio block </users/automation/guides/workflows/play_recording_block.html>`_ 
+| When you are designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_, you can add a `Play Audio block </users/automation/guides/workflows/play_recording_block.html>`_. 
 | The **Play Recording** block gives you the option to record audio.
 | One of the ways you can do this is by recording your voice on your device, as described below.
 | If this is your first time recording audio, a pop-up tab will appear in your browser requesting permission to record. Make sure to click **allow**.

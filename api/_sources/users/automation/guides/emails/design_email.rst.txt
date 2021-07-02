@@ -26,4 +26,4 @@ Emails: Designing an Email
 
    * You can also change the display for your device as you edit in the two drop-down menus to the right: Change the orientation (Landscape and Portrait) and/or change the magnification (50%, 75%, or 100%)
 #. Once satisfied, click **Save**
-#. Click **Preview** to view a preview of your email. Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the organization, and then click **Send**
+#. Click **Preview** to view a preview of your email. Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the team, and then click **Send**

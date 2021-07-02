@@ -1,4 +1,4 @@
-Inbound SMS Trigger Terms Defined
+Inbound SMS: Trigger Terms Defined
 =================================
 
 | Trigger terms are an essential part of inbound messaging and the Maha Platform's `Inbound SMS Campaigns </users/campaigns/guides/inbound_sms/inbound_sms_campaigns.html>`_ .

@@ -2,7 +2,8 @@ Announcements: Creating an Announcement
 =======================================
 
 | To create a new announcement, follow the steps below.
-| Once your announcement has been created, you will be able to view it in the list of all announcements </users/platform/guides/announcements.html>`_ . You will now be able to customize the `email </users/automation/guides/emails/design_email.html>`_ .
+| Once your announcement has been created, you will be able to view it in the list of all announcements </users/platform/guides/announcements.html>`_.
+| You will now be able to customize the `email </users/automation/guides/emails/design_email.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Platform**

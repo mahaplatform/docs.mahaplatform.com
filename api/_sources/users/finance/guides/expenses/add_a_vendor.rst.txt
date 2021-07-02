@@ -1,8 +1,7 @@
 Expenses: Adding a Vendor
 =========================
 
-| The Maha Platform keeps a record of the vendors with which an organization does business.
-| To create a new vendor, follow the steps below.
+| To create a new `vendor </users/finance/guides/expenses/vendors.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

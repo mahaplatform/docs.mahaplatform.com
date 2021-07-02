@@ -1,7 +1,7 @@
 Voice: Creating a New Voice Campaign
 ====================================
 
-| To create a new `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ , follow the steps below.
+| To create a new `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Campaigns**

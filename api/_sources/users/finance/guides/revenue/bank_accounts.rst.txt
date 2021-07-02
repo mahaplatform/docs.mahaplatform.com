@@ -1,7 +1,7 @@
 Revenue: Adding a Bank Account
 ==============================
 
-| To add a `new bank account </users/finance/guides/revenue/banks_accounts.html>`_ , follow the steps below.
+| To add a new `bank account </users/finance/guides/revenue/banks_accounts.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

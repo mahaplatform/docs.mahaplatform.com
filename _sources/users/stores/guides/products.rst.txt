@@ -2,7 +2,7 @@ Stores: Adding a Product to a Store
 ===================================
 
 | **Products** keeps an interactive list of all the products offered by a store - virtual or physical.
-| To create and manage the products of a store, you should have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To create and manage the products of a store, you should have navigated to the store. Refer to `Stores </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`shopping-bag` **Products**
 #. Click :icon:`ellipsis-h` and **Deactivate Product** or **Activate Product** to perform the associated action
@@ -13,7 +13,7 @@ Stores: Adding a Product to a Store
 #. Select if the product is a **Physical Product**, a **File**, or a **URL**
 #. Enter a product description
 #. Click **Next**
-#. Select if there is only one variant of the product or if there are `multiple variants </users/stores/guides/product_variants.html>`_ of the product (click hyperlink for a guide to adding product variants)
+#. Select if there is only one variant of the product or if there are `multiple variants </users/stores/guides/product_variants.html>`_ of the product
 #. Click **Next**
 #. Select if you would like to use the same or different photos for each variant (ignore this step if you did not add variants)
 
@@ -32,5 +32,5 @@ Stores: Adding a Product to a Store
 #. Click **Save**
 #. Click on a product to view the details and variants
 
-   * In addition to activating/deactivating or deleting the product, you can also `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ it
+   * In addition to activating/deactivating or deleting the product, you can also `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ the product
    * You can also click **Variants** and :icon:`ellipsis-h` to edit or activate/deactivate a variant

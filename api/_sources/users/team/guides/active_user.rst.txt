@@ -2,7 +2,7 @@ Users: Managing an Activated User
 =================================
 
 | Once a user is created, an activation email is sent to their email address.
-| Upon activation of the account, it is considered activated and enabled.
+| Upon activation of the account, the user is considered activated and enabled.
 | Refer to `Users </users/team/guides/users.html>`_ for a complete guide on managing a user.
 
 #. Click :icon:`bars` in the ribbon

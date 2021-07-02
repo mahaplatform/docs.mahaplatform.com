@@ -1,9 +1,9 @@
 Groups: Managing a Group
 ========================
 
-| **Groups** allows you to group users of your organization together under a leader.
+| **Groups** allows you to group users of your team together under a leader.
 | This feature can be helpful when you interact with other apps of the Maha Platform.
-| For example, if you want to give a number of people access to folders in your `drive </users/drive/guides/interacting_with_a_file.html>`_ , you can `create a group </users/team/guides/setting_up_group.html>`_ with these users to grant them view privileges in an efficient manner.
+| For example, if you want to give a number of people access to folders in your `drive </users/drive/guides/interacting_with_a_file.html>`_, you can `create a group </users/team/guides/setting_up_group.html>`_ with these users to grant them view privileges in an efficient manner.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Team**

@@ -2,7 +2,7 @@ Help: Creating a New Help Article
 =================================
 
 | To create a new help article, follow the steps below.
-| When you save this help article, it will not yet be published. To publish it, refer `here </users/platform/guides/help.html>`_ .
+| When you save this help article, it will not yet be published. To publish it, refer to `Help Articles </users/platform/guides/help.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Platform**

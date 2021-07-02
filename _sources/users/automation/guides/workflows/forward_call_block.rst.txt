@@ -1,7 +1,7 @@
 Workflows: Adding a Forward Call Block
 ======================================
 
-| The **Forward Call** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_
+| The **Forward Call** block is only available when designing a workflow for a `voice campaign </users/campaigns/guides/voice/voice_campaigns.html>`_ or when managing a workflow for a `phone number </users/phone/guides/numbers/phone_numbers.html>`_.
 | This block allows you to play a message informing callers/recipients the call is being forwarded (to the first recipient to answer).
 
 #. Place a **Forward Call** block in your workflow where desired

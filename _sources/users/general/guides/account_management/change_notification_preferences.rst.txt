@@ -1,7 +1,8 @@
 Account Management: Changing Notification Preferences
 =====================================================
 
-| The notification preferences available to users are automatically turned on. To change your preferences, you will disable specific notifications or options, by following these steps.
+| The notification preferences available to users are automatically turned on.
+| To change your preferences, you will disable specific notifications or options, by following these steps.
 
 #. Click on your profile (a circle with your initials or profile picture) located in the ribbon
 #. Click **Manage Notifications**

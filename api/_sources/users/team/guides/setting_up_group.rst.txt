@@ -1,7 +1,7 @@
 Groups: Setting Up a Group
 ==========================
 
-| To set up a `group </users/team/guides/groups.html>`_ , follow the steps below.
+| To set up a `group </users/team/guides/groups.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Team**

@@ -2,12 +2,12 @@ Stores: Viewing an Order Invoice
 ================================
 
 | **Orders** displays all the orders of a store. You can click on each order to pull up the order details, an audit trail, comments, and more.
-| To view an order invoice of a store, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To view an order invoice of a store, you will need to have navigated to the store. Refer to `Stores </users/stores/guides/stores.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`shopping-bag` **Orders**
 #. Click :icon:`table` to the right of the search bar to download the invoices
 
-   * Select an export strategy: Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the organization
+   * Select an export strategy: Choose to send it to your email linked to the Maha Platform, a specific user in the Maha Platform, or to someone outside of the team
    * Keep the default email or write your own subject and message
    * Click **Export**
 #. Click on a row to view an order invoice

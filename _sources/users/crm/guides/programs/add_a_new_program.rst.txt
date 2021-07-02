@@ -1,8 +1,8 @@
 Programs: Adding a New Program
 ==============================
 
-| Most organizations on the Maha Platform have a number of programs that they offer to their members and contacts.
-| To add a new program, follow the steps below.
+| Most teams on the Maha Platform have a number of programs that they offer to their members and contacts.
+| To add a new `program <users/crm/guides/programs/programs.html>`_, follow the steps below.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **CRM**

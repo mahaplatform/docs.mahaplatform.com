@@ -1,7 +1,7 @@
 Events: Adding a New Ticket Type
 ================================
 
-| When creating a `new event </users/events/guides/events/new_event.html>`_ , you will be instructed to select a `ticket type </users/events/guides/events/ticket_types.html>`_ or add a new ticket type. Refer to the hyperlink if you are having trouble reaching this point.
+| When creating a `new event </users/events/guides/events/new_event.html>`_, you will be instructed to select a `ticket type </users/events/guides/events/ticket_types.html>`_ or add a new ticket type. Refer to the hyperlink if you are having trouble reaching this point.
 | To create a new ticket type, follow the steps below. This new ticket type will automatically be used for the event you are creating.
 
 #. Click **Add a ticket type**

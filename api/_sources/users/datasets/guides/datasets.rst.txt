@@ -11,4 +11,4 @@ Datasets: Managing a Dataset
 
    * Enter a title
    * Click **Save**
- interact with the following features: `Access </users/datasets/guides/access.html>`_ , `API </users/datasets/guides/api.html>`_ , and any created dataset types
+ interact with the following features: `Access </users/datasets/guides/access.html>`_, `API </users/datasets/guides/api.html>`_, and any created dataset types

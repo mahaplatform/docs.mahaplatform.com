@@ -3,7 +3,7 @@ Events: Managing Fields
 
 | **Fields** displays the contact fields and ticket fields requested by a program for an event.
 | You can not delete or edit a contact's first name, last name, or email, nor can you disable the name on the ticket.
-| To view this feature, you must have navigated to an event. Click `here </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
+| To view this feature, you must have navigated to an event. Refer to `Events </users/events/guides/events/events.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`check-square` **Fields**
 #. Click :icon:`ellipsis-h` and **Edit Field** to `edit </users/general/guides/functions_of_the_grid/how_to_edit.html>`_ a contact field

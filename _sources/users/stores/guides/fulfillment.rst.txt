@@ -3,7 +3,7 @@ Stores: Managing the Fulfillment of an Order
 
 | To keep a record or mark that an order has been fulfilled (or partially fulfilled), you can manually fulfill items.
 | To do so, follow the steps below.
-| To manage order fulfillment, you will need to have navigated to the store. Refer `here </users/stores/guides/managing_a_store.html>`_ if you are having trouble reaching this point.
+| To manage order fulfillment, you will need to have navigated to the store. Refer to `Stores </users/stores/guides/stores.html>`_ if you are having trouble reaching this point.
 
 #. Click :icon:`check` **Fulfillment**
 #. Click a customer

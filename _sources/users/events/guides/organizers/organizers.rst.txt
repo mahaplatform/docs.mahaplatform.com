@@ -1,7 +1,7 @@
 Organizers: Interacting with an Organizer
 =========================================
 
-| Organizers are the contacts within your organization who have created an `event </users/events/guides/events/events.html>`_ .
+| Organizers are the contacts within your team who have created an `event </users/events/guides/events/events.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Events**

@@ -1,9 +1,9 @@
-Finance: Submitting an Item
-===========================
+Finance: Submitting an Item for Approval
+========================================
 
-| The hierarchical organization of finance means that a financial action must be submitted for reviewal before it can be approved.
+| The hierarchical organization of finance means that a financial action must be submitted to be reviewed before it can be approved.
 | To submit an item for approval, follow the steps below.
-| The `status </users/finance/guides/expenses/item_statuses.html>`_ of the item is displayed when you view the `item records </users/finance/guides/items.html>`_
+| The `status </users/finance/guides/expenses/item_statuses.html>`_ of the item is displayed when you view the `item records </users/finance/guides/items.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Finance**

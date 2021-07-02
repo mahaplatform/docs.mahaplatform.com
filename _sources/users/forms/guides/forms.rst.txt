@@ -1,9 +1,9 @@
 Forms: Interacting with a Form
 ==============================
 
-| **Forms** keeps a record of all the forms created in an organization.
+| **Forms** keeps a record of all the forms created by users of a team.
 | A form is a way to collect data from individuals who complete the form.
-| To learn how to create a form, click `here </users/forms/guides/create_a_new_form.html>`_
+| To learn how to create a form, refer to `Creating a New Form </users/forms/guides/create_a_new_form.html>`_.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Forms**

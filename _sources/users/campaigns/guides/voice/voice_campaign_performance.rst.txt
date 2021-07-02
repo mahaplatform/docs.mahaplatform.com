@@ -17,3 +17,4 @@ Voice: Viewing the Performance of a Voice Campaign
    * **Hangups**: View contacts who answered the call and then hung up
    * **Answering Machines**: View contacts whose answering machine picked up the call
    * **Voicemails**: View contacts for whom the program was able to leave a voicemail
+   * **Recordings**: View contacts for whom the program ???

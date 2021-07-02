@@ -1,7 +1,7 @@
 Events: Interacting with an Event
 =================================
 
-| **Events** keeps a record of all events, current/upcoming and past, that have been organized by a program of your organization.
+| **Events** keeps a record of all events, current/upcoming and past, that have been organized by a program of your team.
 
 #. Click :icon:`bars` in the ribbon
 #. Click **Events**

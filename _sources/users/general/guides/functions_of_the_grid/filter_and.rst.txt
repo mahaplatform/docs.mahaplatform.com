@@ -10,7 +10,7 @@ Functions of the Grid: Using the AND Conditional
    * There is no need to click **AND** again unless you want to create nested conditionals
 #. Select criteria category
 #. If available, select a `criteria option </users/general/guides/functions_of_the_grid/criteria_options.html>`_ (eg. equals)
-#. Enter criteria (be aware of criteria option you have selected. For example, if you have chosen equals, your result must perfectly match what you type now to pass through your filter)
+#. Enter criteria (be aware of criteria option you have selected. For example, if you have chosen **equals**, your result must perfectly match what you type now to pass through your filter)
 #. Enter criteria
 #. Click the next **+ ADD CRITERIA** in the box
 #. Continue adding criteria by clicking **+ ADD CRITERIA** in the box until satisfied
